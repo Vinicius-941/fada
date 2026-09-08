@@ -1,0 +1,2561 @@
+transaction_id;customer_id;date;time;amount;category;city;payment_method
+14194;100141;01/01/2026;08:10:54;80.65;Entertainment;Porto Alegre;Debit Card
+13016;100157;01/01/2026;09:01:29;194.5;Restaurant;Porto Alegre;Debit Card
+14473;100215;01/01/2026;09:02:35;125.09;Fuel;Brasilia;Bank Transfer
+14259;100108;01/01/2026;09:25:37;160.89;Fuel;Campinas;Bank Transfer
+14717;100207;01/01/2026;10:01:16;39.22;Transport;Sao Paulo;Bank Transfer
+14834;100115;01/01/2026;12:02:43;1130.83;Electronics;Sao Paulo;Credit Card
+14160;100045;01/01/2026;13:42:19;152.2;Restaurant;Porto Alegre;Credit Card
+13007;100114;01/01/2026;13:56:35;95.58;Pharmacy;Campinas;Digital Wallet
+12594;100036;01/01/2026;14:24:15;666.27;Online Shopping;Salvador;Debit Card
+14486;100184;01/01/2026;16:15:42;575.03;Entertainment;Porto Alegre;Digital Wallet
+13979;100044;01/01/2026;16:24:19;60.34;Groceries;Fortaleza;Credit Card
+12408;100006;01/01/2026;17:19:48;211.07;Entertainment;Recife;Bank Transfer
+14398;100203;01/01/2026;18:41:11;494.87;Utilities;Salvador;Digital Wallet
+14043;100021;01/01/2026;19:50:43;44.69;Transport;Rio de Janeiro;Credit Card
+14641;100119;01/01/2026;20:07:05;285.87;Groceries;Campinas;Debit Card
+13570;100173;01/01/2026;20:53:54;1446.66;Travel;Porto Alegre;Digital Wallet
+13813;100063;01/01/2026;21:10:22;32.02;Transport;Fortaleza;Pix
+13657;100219;01/01/2026;21:39:44;42.05;Transport;Porto Alegre;Pix
+14710;100126;01/01/2026;21:42:20;168.55;Fuel;Rio de Janeiro;Debit Card
+14511;100071;01/01/2026;22:36:50;561.83;Utilities;Fortaleza;Debit Card
+14111;100058;01/01/2026;22:51:06;717.07;Online Shopping;Belo Horizonte;Debit Card
+12928;100205;01/01/2026;23:23:12;204.24;Fuel;Campinas;Debit Card
+13115;100056;01/02/2026;02:05:01;65.06;Transport;Salvador;Pix
+14124;100020;01/02/2026;06:24:49;226.8;Restaurant;Brasilia;Bank Transfer
+13690;100138;01/02/2026;07:04:03;127.34;Entertainment;Sao Paulo;Credit Card
+12873;100152;01/02/2026;07:08:36;75.95;Transport;Recife;Credit Card
+12432;100208;01/02/2026;09:35:48;219.51;Entertainment;Porto Alegre;Credit Card
+13740;100049;01/02/2026;10:37:24;642.95;Utilities;Sao Paulo;Credit Card
+14313;100136;01/02/2026;10:43:04;72.37;Pharmacy;Recife;Pix
+13342;100068;01/02/2026;11:12:01;39.89;Transport;Salvador;Digital Wallet
+12345;100164;01/02/2026;13:08:47;63.82;Pharmacy;Sao Paulo;Pix
+13870;100115;01/02/2026;14:51:47;147.88;Entertainment;Fortaleza;Debit Card
+13797;100056;01/02/2026;15:53:43;1749.36;Electronics;Brasilia;Credit Card
+12649;100082;01/02/2026;16:24:17;312.74;Fuel;Brasilia;Digital Wallet
+14159;100070;01/02/2026;19:14:15;679.43;Online Shopping;Rio de Janeiro;Credit Card
+12709;100206;01/02/2026;19:58:46;2179.31;Travel;Curitiba;Pix
+12712;100075;01/02/2026;20:23:37;516.46;Entertainment;Porto Alegre;Digital Wallet
+12449;100070;01/02/2026;20:35:09;2410.44;Travel;Brasilia;Bank Transfer
+13853;100029;01/02/2026;20:46:04;360.73;Entertainment;Salvador;Debit Card
+12996;100028;01/02/2026;22:34:25;1606.18;Online Shopping;Brasilia;Credit Card
+13305;100037;01/02/2026;23:27:58;1547.67;Electronics;Fortaleza;Debit Card
+13589;100164;01/03/2026;01:07:06;133.28;Entertainment;Rio de Janeiro;Credit Card
+13516;100037;01/03/2026;02:25:06;181.31;Pharmacy;Recife;Debit Card
+12682;100084;01/03/2026;02:42:44;201.08;Entertainment;Sao Paulo;Credit Card
+14436;100031;01/03/2026;03:13:12;662.35;Online Shopping;Belo Horizonte;Credit Card
+13192;100103;01/03/2026;03:48:35;1192.29;Fuel;Campinas;Digital Wallet
+12846;100112;01/03/2026;04:21:02;60.12;Pharmacy;Belo Horizonte;Credit Card
+13053;100035;01/03/2026;04:38:59;119.83;Pharmacy;Belo Horizonte;Bank Transfer
+12716;100217;01/03/2026;05:05:37;198.3;Utilities;Recife;Pix
+13029;100176;01/03/2026;07:06:33;359.21;Entertainment;Rio de Janeiro;Pix
+12726;100213;01/03/2026;07:10:59;1589.22;Electronics;Rio de Janeiro;Credit Card
+12615;100062;01/03/2026;07:35:26;325.6;Restaurant;Porto Alegre;Debit Card
+14316;100027;01/03/2026;07:52:24;180.31;Fuel;Porto Alegre;Credit Card
+13379;100035;01/03/2026;08:05:35;1785.73;Electronics;Brasilia;Bank Transfer
+13560;100090;01/03/2026;09:05:11;1010.61;Online Shopping;Brasilia;Digital Wallet
+12410;100100;01/03/2026;10:39:34;397.52;Electronics;Recife;Debit Card
+13176;100025;01/03/2026;12:18:42;132.83;Pharmacy;Fortaleza;Bank Transfer
+12561;100041;01/03/2026;12:21:38;373.55;Online Shopping;Recife;Bank Transfer
+14826;100217;01/03/2026;13:18:53;214.17;Fuel;Rio de Janeiro;Bank Transfer
+14177;100214;01/03/2026;13:29:11;1924.24;Electronics;Campinas;Pix
+13803;100132;01/03/2026;14:02:59;89.42;Restaurant;Porto Alegre;Debit Card
+12720;100092;01/03/2026;14:54:07;82.62;Restaurant;Brasilia;Pix
+12945;100048;01/03/2026;14:55:53;444.64;Utilities;Salvador;Pix
+14606;100104;01/03/2026;15:13:56;239.02;Restaurant;Belo Horizonte;Credit Card
+14053;100011;01/03/2026;16:59:50;2353.09;Electronics;Recife;Bank Transfer
+12397;100111;01/03/2026;20:28:43;157.91;Entertainment;Campinas;Pix
+13899;100049;01/03/2026;20:56:56;300.15;Pharmacy;Recife;Pix
+14374;100212;01/03/2026;21:34:36;789.65;Utilities;Salvador;Debit Card
+12358;100017;01/03/2026;22:16:35;36640.65;Travel;Recife;Digital Wallet
+14174;100201;01/03/2026;23:48:23;90.75;Transport;Fortaleza;Credit Card
+12951;100100;01/04/2026;00:16:03;586.7;Online Shopping;Fortaleza;Digital Wallet
+12741;100076;01/04/2026;00:25:54;150.05;Transport;Belo Horizonte;Credit Card
+14383;100193;01/04/2026;00:34:46;881.23;Online Shopping;Sao Paulo;Bank Transfer
+14297;100218;01/04/2026;02:05:33;97.28;Restaurant;Belo Horizonte;Debit Card
+13953;100115;01/04/2026;02:16:49;282.8;Groceries;Salvador;Bank Transfer
+13967;100212;01/04/2026;02:35:52;539.17;Entertainment;Curitiba;Pix
+14555;100059;01/04/2026;02:47:06;226.78;Fuel;Sao Paulo;Credit Card
+13975;100023;01/04/2026;03:24:51;116.7;Pharmacy;Recife;Digital Wallet
+12352;100095;01/04/2026;03:41:04;1669.95;Electronics;Curitiba;Pix
+13375;100071;01/04/2026;05:46:57;263.43;Utilities;Porto Alegre;Credit Card
+14335;100020;01/04/2026;05:54:46;98.05;Pharmacy;Porto Alegre;Credit Card
+14453;100050;02/01/2026;00:26:30;86.09;Groceries;Campinas;Debit Card
+13729;100151;02/01/2026;00:37:23;489.53;Utilities;Rio de Janeiro;Debit Card
+12532;100062;02/01/2026;01:22:15;73.75;Transport;Porto Alegre;Bank Transfer
+14815;100186;02/01/2026;02:57:59;1510.88;Electronics;Campinas;Debit Card
+14656;100105;02/01/2026;03:52:03;190.56;Fuel;Recife;Debit Card
+14779;100166;02/01/2026;04:34:52;1742.28;Travel;Curitiba;Debit Card
+12926;100106;02/01/2026;06:33:52;292.47;Fuel;Belo Horizonte;Pix
+14024;100025;02/01/2026;07:21:54;60.74;Pharmacy;Rio de Janeiro;Credit Card
+13253;100214;02/01/2026;09:40:54;3868.84;Travel;Sao Paulo;Pix
+13805;100009;02/01/2026;11:26:30;1112.45;Electronics;Rio de Janeiro;Pix
+14618;100204;02/01/2026;11:55:26;355.82;Entertainment;Salvador;Credit Card
+13785;100049;02/01/2026;12:28:23;16519.28;Travel;Salvador;Debit Card
+14623;100174;02/01/2026;12:44:57;1589.64;Entertainment;Curitiba;Pix
+12891;100015;02/01/2026;12:54:42;125.36;Transport;Brasilia;Bank Transfer
+13689;100061;02/01/2026;13:26:47;229.23;Restaurant;Rio de Janeiro;Digital Wallet
+12595;100085;02/01/2026;14:41:23;272.39;Fuel;Campinas;Digital Wallet
+13962;100058;02/01/2026;15:15:01;1224.69;Online Shopping;Curitiba;Debit Card
+14666;100058;02/01/2026;15:41:38;206.93;Entertainment;Recife;Pix
+14843;100048;02/01/2026;16:15:13;125.64;Transport;Rio de Janeiro;Digital Wallet
+13072;100141;02/01/2026;19:06:33;93.5;Groceries;Sao Paulo;Credit Card
+13706;100114;02/01/2026;20:02:22;701.1;Online Shopping;Sao Paulo;Bank Transfer
+13220;100095;02/01/2026;21:08:55;190.35;Entertainment;Brasilia;Credit Card
+13095;100095;02/02/2026;00:02:08;201.21;Utilities;Belo Horizonte;Bank Transfer
+12404;100191;02/02/2026;02:17:49;1081.32;Online Shopping;Brasilia;Pix
+13310;100163;02/02/2026;03:20:21;164.9;Fuel;Brasilia;Pix
+12560;100140;02/02/2026;03:25:19;213.13;Fuel;Porto Alegre;Bank Transfer
+13469;100146;02/02/2026;03:38:26;276.49;Fuel;Sao Paulo;Pix
+14719;100079;02/02/2026;04:27:57;258.98;Pharmacy;Curitiba;Digital Wallet
+13558;100175;02/02/2026;04:52:35;43.94;Groceries;Campinas;Credit Card
+13160;100152;02/02/2026;07:04:19;237.79;Groceries;Brasilia;Credit Card
+12383;100219;02/02/2026;07:05:40;206.72;Fuel;Fortaleza;Bank Transfer
+13648;100083;02/02/2026;10:26:35;153.42;Entertainment;Belo Horizonte;Debit Card
+13922;100158;02/02/2026;11:46:42;99.18;Pharmacy;Curitiba;Debit Card
+14401;100200;02/02/2026;11:59:33;1219.76;Electronics;Salvador;Pix
+14089;100119;02/02/2026;12:32:01;144.24;Groceries;Curitiba;Digital Wallet
+14033;100152;02/02/2026;12:32:17;6216.51;Travel;Belo Horizonte;Pix
+14360;100081;02/02/2026;12:49:17;213.85;Entertainment;Salvador;Credit Card
+14636;100139;02/02/2026;13:00:09;657.73;Utilities;Recife;Digital Wallet
+12426;100091;02/02/2026;13:07:46;426.18;Online Shopping;Porto Alegre;Pix
+14553;100201;02/02/2026;16:45:40;1737.92;Travel;Curitiba;Credit Card
+14217;100089;02/02/2026;18:11:52;132.78;Pharmacy;Sao Paulo;Credit Card
+14562;100027;02/02/2026;18:14:02;310.41;Fuel;Brasilia;Debit Card
+13496;100156;02/02/2026;21:23:21;99.7;Pharmacy;Recife;Debit Card
+12978;100203;02/03/2026;02:00:04;210.65;Entertainment;Porto Alegre;Credit Card
+12855;100172;02/03/2026;02:35:04;180.6;Entertainment;Sao Paulo;Digital Wallet
+12607;100214;02/03/2026;03:46:34;170.69;Groceries;Sao Paulo;Pix
+13150;100149;02/03/2026;04:08:22;110.87;Groceries;Belo Horizonte;Pix
+13814;100101;02/03/2026;04:15:48;292.65;Restaurant;Brasilia;Bank Transfer
+14378;100121;02/03/2026;05:50:31;485.38;Utilities;Rio de Janeiro;Debit Card
+13772;100192;02/03/2026;06:20:26;40.17;Transport;Belo Horizonte;Digital Wallet
+12764;100168;02/03/2026;07:11:17;622.29;Online Shopping;Campinas;Digital Wallet
+14128;100163;02/03/2026;07:17:27;421.73;Utilities;Rio de Janeiro;Bank Transfer
+14304;100160;02/03/2026;07:32:27;181.37;Groceries;Salvador;Bank Transfer
+13888;100042;02/03/2026;07:49:42;1213.93;Electronics;Brasilia;Digital Wallet
+14603;100034;02/03/2026;09:26:53;342.55;Entertainment;Porto Alegre;Pix
+12786;100150;02/03/2026;12:32:07;418.74;Entertainment;Campinas;Credit Card
+13325;100086;02/03/2026;13:21:53;123.16;Fuel;Curitiba;Credit Card
+13940;100080;02/03/2026;13:42:28;298.1;Utilities;Rio de Janeiro;Digital Wallet
+12757;100138;02/03/2026;15:05:25;1324.74;Online Shopping;Campinas;Debit Card
+12621;100132;02/03/2026;16:58:13;590.88;Online Shopping;Brasilia;Credit Card
+12442;100150;02/03/2026;17:26:21;2183.29;Travel;Brasilia;Credit Card
+14287;100111;02/03/2026;18:00:10;55.89;Transport;Rio de Janeiro;Debit Card
+13759;100052;02/03/2026;18:18:27;61.52;Pharmacy;Porto Alegre;Digital Wallet
+14129;100017;02/03/2026;18:32:58;90.21;Pharmacy;Porto Alegre;Pix
+12937;100189;02/03/2026;18:43:19;253.29;Pharmacy;Fortaleza;Debit Card
+12368;100147;02/03/2026;19:12:06;114.51;Entertainment;Brasilia;Debit Card
+14153;100110;02/03/2026;19:24:20;344.13;Online Shopping;Campinas;Credit Card
+14225;100005;02/03/2026;19:59:29;5286.76;Travel;Campinas;Credit Card
+13935;100076;02/03/2026;20:20:08;3915.32;Travel;Fortaleza;Bank Transfer
+13918;100024;02/03/2026;20:26:54;5134.36;Travel;Rio de Janeiro;Credit Card
+12482;100108;02/03/2026;20:49:23;398.5;Utilities;Rio de Janeiro;Credit Card
+12923;100008;02/03/2026;20:55:34;356.06;Groceries;Salvador;Pix
+12753;100122;02/03/2026;21:57:42;93.55;Pharmacy;Porto Alegre;Bank Transfer
+13919;100220;02/03/2026;21:57:57;170.73;Entertainment;Sao Paulo;Pix
+14267;100072;02/03/2026;22:04:37;62.77;Transport;Recife;Credit Card
+12598;100156;02/03/2026;23:51:42;2277.59;Electronics;Recife;Digital Wallet
+14612;100041;03/01/2026;01:02:34;303.87;Restaurant;Campinas;Debit Card
+14828;100008;03/01/2026;01:10:42;257.74;Fuel;Porto Alegre;Pix
+13786;100025;03/01/2026;01:17:02;1761.4;Electronics;Porto Alegre;Digital Wallet
+14552;100044;03/01/2026;02:34:03;202.23;Pharmacy;Brasilia;Pix
+13999;100200;03/01/2026;02:44:25;219.92;Online Shopping;Porto Alegre;Digital Wallet
+13169;100216;03/01/2026;03:31:43;325.39;Online Shopping;Salvador;Debit Card
+13216;100095;03/01/2026;04:33:27;97.33;Transport;Campinas;Credit Card
+14536;100156;03/01/2026;04:59:43;1281.32;Electronics;Curitiba;Credit Card
+12455;100113;03/01/2026;05:09:26;225.11;Pharmacy;Fortaleza;Bank Transfer
+12592;100042;03/01/2026;05:21:50;520.23;Online Shopping;Porto Alegre;Debit Card
+14050;100159;03/01/2026;05:43:05;2173.86;Travel;Rio de Janeiro;Bank Transfer
+13910;100066;03/01/2026;06:24:51;352.58;Utilities;Rio de Janeiro;Bank Transfer
+13247;100067;03/01/2026;06:25:07;32.59;Pharmacy;Recife;Digital Wallet
+13177;100139;03/01/2026;07:27:56;2646.29;Electronics;Fortaleza;Digital Wallet
+12424;100177;03/01/2026;08:18:14;623.69;Online Shopping;Brasilia;Bank Transfer
+14567;100048;03/01/2026;08:44:33;142.48;Restaurant;Belo Horizonte;Credit Card
+13487;100100;03/01/2026;10:09:22;66.92;Transport;Rio de Janeiro;Credit Card
+14781;100085;03/01/2026;11:00:55;158.83;Groceries;Porto Alegre;Bank Transfer
+13631;100004;03/01/2026;11:16:56;284.15;Online Shopping;Recife;Pix
+12529;100115;03/01/2026;14:13:53;136.17;Entertainment;Sao Paulo;Credit Card
+13607;100152;03/01/2026;15:01:41;4278.81;Travel;Curitiba;Digital Wallet
+14355;100063;03/01/2026;15:52:00;669.59;Utilities;Belo Horizonte;Digital Wallet
+13791;100140;03/01/2026;16:53:43;325.17;Fuel;Curitiba;Digital Wallet
+13698;100219;03/01/2026;18:24:28;85.59;Entertainment;Recife;Bank Transfer
+13402;100189;03/01/2026;18:27:54;1223.69;Travel;Belo Horizonte;Bank Transfer
+14785;100041;03/01/2026;19:05:56;1231.43;Electronics;Campinas;Debit Card
+14468;100022;03/01/2026;19:14:08;1450.3;Travel;Recife;Digital Wallet
+14198;100207;03/01/2026;19:30:17;191.84;Entertainment;Curitiba;Debit Card
+14822;100077;03/01/2026;20:17:40;64.64;Transport;Campinas;Digital Wallet
+13252;100040;03/01/2026;20:37:15;434.86;Online Shopping;Brasilia;Bank Transfer
+14573;100026;03/01/2026;20:53:48;165.92;Groceries;Sao Paulo;Debit Card
+13156;100118;03/01/2026;21:22:19;173.18;Pharmacy;Rio de Janeiro;Debit Card
+14163;100112;03/01/2026;21:32:39;337.63;Utilities;Salvador;Pix
+13754;100188;03/01/2026;22:06:32;144.81;Restaurant;Sao Paulo;Credit Card
+12736;100015;03/01/2026;22:30:00;132.22;Restaurant;Campinas;Debit Card
+13594;100050;03/01/2026;22:32:48;137.22;Entertainment;Sao Paulo;Digital Wallet
+14157;100142;03/01/2026;23:37:20;2073.03;Electronics;Curitiba;Debit Card
+13214;100097;03/01/2026;23:41:39;295.72;Entertainment;Curitiba;Credit Card
+14678;100046;03/01/2026;23:44:58;270.39;Electronics;Porto Alegre;Pix
+14162;100039;03/01/2026;23:48:17;1778.58;Travel;Campinas;Bank Transfer
+12462;100060;03/02/2026;03:00:57;1126.3;Online Shopping;Porto Alegre;Bank Transfer
+12652;100128;03/02/2026;03:09:45;60.02;Transport;Porto Alegre;Debit Card
+14227;100059;03/02/2026;06:33:14;82.89;Entertainment;Porto Alegre;Bank Transfer
+13928;100117;03/02/2026;08:50:23;805.79;Pharmacy;Salvador;Digital Wallet
+14046;100002;03/02/2026;10:56:34;147.89;Pharmacy;Belo Horizonte;Debit Card
+12907;100026;03/02/2026;11:35:16;942.98;Electronics;Salvador;Digital Wallet
+14469;100167;03/02/2026;11:52:56;171.62;Pharmacy;Salvador;Pix
+12744;100172;03/02/2026;12:15:44;560.03;Electronics;Brasilia;Credit Card
+14671;100169;03/02/2026;13:12:35;195.09;Entertainment;Campinas;Bank Transfer
+14660;100136;03/02/2026;13:53:47;174.69;Restaurant;Rio de Janeiro;Credit Card
+13647;100099;03/02/2026;15:38:19;1655.0;Travel;Recife;Credit Card
+12422;100047;03/02/2026;16:17:56;831.39;Online Shopping;Curitiba;Pix
+12675;100064;03/02/2026;17:55:52;134.56;Fuel;Sao Paulo;Bank Transfer
+14767;100027;03/02/2026;19:06:39;1095.99;Online Shopping;Brasilia;Pix
+12803;100165;03/02/2026;20:03:06;248.99;Restaurant;Brasilia;Pix
+13708;100113;03/02/2026;21:08:14;79.97;Transport;Porto Alegre;Pix
+14168;100090;03/02/2026;21:10:10;111.92;Restaurant;Porto Alegre;Pix
+14763;100045;03/02/2026;21:10:15;59.82;Restaurant;Campinas;Digital Wallet
+12800;100128;03/02/2026;22:12:22;214.93;Restaurant;Campinas;Debit Card
+14380;100212;03/02/2026;22:59:26;39.48;Transport;Rio de Janeiro;Debit Card
+12622;100145;03/02/2026;23:59:37;183.36;Restaurant;Belo Horizonte;Credit Card
+13632;100219;03/03/2026;00:00:31;318.95;Groceries;Campinas;Pix
+12889;100163;03/03/2026;01:27:05;78.79;Groceries;Rio de Janeiro;Debit Card
+14558;100054;03/03/2026;01:39:13;367.09;Utilities;Salvador;Credit Card
+13622;100118;03/03/2026;03:33:28;54.03;Transport;Porto Alegre;Credit Card
+13823;100207;03/03/2026;04:21:54;760.66;Online Shopping;Fortaleza;Pix
+13490;100068;03/03/2026;04:50:51;86.18;Restaurant;Recife;Debit Card
+13537;100209;03/03/2026;05:08:47;2981.55;Travel;Belo Horizonte;Debit Card
+13546;100146;03/03/2026;07:03:20;112.78;Entertainment;Sao Paulo;Digital Wallet
+14466;100191;03/03/2026;07:27:07;54.84;Transport;Sao Paulo;Debit Card
+12688;100024;03/03/2026;08:08:37;87.53;Pharmacy;Sao Paulo;Debit Card
+13404;100073;03/03/2026;08:21:08;3878.52;Travel;Fortaleza;Digital Wallet
+14131;100140;03/03/2026;08:50:42;847.9;Electronics;Fortaleza;Pix
+14300;100150;03/03/2026;09:28:50;234.12;Pharmacy;Rio de Janeiro;Debit Card
+13520;100209;03/03/2026;10:15:03;71.06;Transport;Porto Alegre;Pix
+14394;100140;03/03/2026;12:34:49;6023.75;Travel;Brasilia;Bank Transfer
+12618;100049;03/03/2026;12:55:58;193.3;Entertainment;Fortaleza;Debit Card
+12619;100004;03/03/2026;13:44:38;215.03;Restaurant;Curitiba;Credit Card
+14796;100129;03/03/2026;13:53:20;744.86;Online Shopping;Brasilia;Digital Wallet
+14571;100022;03/03/2026;14:26:50;351.55;Entertainment;Fortaleza;Credit Card
+12427;100138;03/03/2026;14:46:37;139.87;Transport;Curitiba;Debit Card
+14600;100152;03/03/2026;14:57:44;2293.02;Electronics;Sao Paulo;Credit Card
+13478;100218;03/03/2026;15:16:13;22.21;Pharmacy;Porto Alegre;Pix
+12469;100129;03/03/2026;15:47:55;189.43;Fuel;Belo Horizonte;Pix
+14268;100058;03/03/2026;18:17:10;701.25;Online Shopping;Curitiba;Pix
+14215;100177;03/03/2026;19:26:07;2724.84;Electronics;Campinas;Debit Card
+13324;100080;03/03/2026;19:51:01;151.39;Pharmacy;Rio de Janeiro;Credit Card
+12430;100004;03/03/2026;20:21:11;507.5;Entertainment;Porto Alegre;Bank Transfer
+13473;100003;03/03/2026;21:32:43;6735.61;Travel;Fortaleza;Debit Card
+13747;100030;03/03/2026;21:38:26;9947.39;Electronics;Recife;Debit Card
+13920;100139;03/03/2026;21:47:53;2373.78;Electronics;Campinas;Credit Card
+12375;100081;03/03/2026;22:58:54;197.97;Groceries;Sao Paulo;Digital Wallet
+12925;100135;03/03/2026;23:14:51;194.19;Utilities;Porto Alegre;Pix
+12795;100059;04/01/2026;00:32:10;91.42;Restaurant;Belo Horizonte;Debit Card
+13978;100193;04/01/2026;01:03:35;52.09;Pharmacy;Fortaleza;Pix
+13492;100071;04/01/2026;01:12:05;268.36;Restaurant;Belo Horizonte;Bank Transfer
+12947;100199;04/01/2026;01:54:23;559.81;Utilities;Recife;Debit Card
+13564;100122;04/01/2026;03:27:17;117.86;Restaurant;Sao Paulo;Debit Card
+14097;100178;04/01/2026;04:36:30;174.4;Utilities;Porto Alegre;Pix
+14591;100094;04/01/2026;05:03:04;875.52;Online Shopping;Sao Paulo;Digital Wallet
+13916;100096;04/01/2026;06:21:01;2868.87;Fuel;Campinas;Pix
+13992;100045;04/01/2026;07:19:24;853.23;Electronics;Sao Paulo;Digital Wallet
+14098;100056;04/01/2026;07:31:27;211.24;Pharmacy;Recife;Bank Transfer
+12440;100111;04/01/2026;08:14:43;2314.44;Electronics;Campinas;Pix
+14299;100009;04/01/2026;08:20:10;268.77;Groceries;Sao Paulo;Credit Card
+13429;100169;04/01/2026;11:59:59;103.23;Pharmacy;Rio de Janeiro;Bank Transfer
+14493;100068;04/01/2026;12:29:03;68.38;Transport;Recife;Debit Card
+14551;100191;04/01/2026;12:55:53;72.2;Transport;Brasilia;Debit Card
+12413;100090;04/01/2026;13:12:53;54.98;Restaurant;Rio de Janeiro;Credit Card
+13816;100019;04/01/2026;13:56:38;833.33;Electronics;Brasilia;Digital Wallet
+13219;100108;04/01/2026;15:16:15;78.61;Transport;Recife;Debit Card
+14437;100056;04/01/2026;16:11:11;138.26;Entertainment;Campinas;Debit Card
+13713;100165;04/01/2026;16:38:50;2324.51;Travel;Porto Alegre;Debit Card
+12527;100099;04/01/2026;16:59:06;214.07;Pharmacy;Salvador;Debit Card
+13137;100036;04/01/2026;18:39:53;264.81;Utilities;Rio de Janeiro;Pix
+13134;100042;04/01/2026;18:59:31;554.17;Utilities;Porto Alegre;Credit Card
+13651;100106;04/01/2026;19:05:48;369.95;Online Shopping;Sao Paulo;Digital Wallet
+13116;100181;04/01/2026;20:29:49;367.64;Online Shopping;Campinas;Digital Wallet
+12898;100087;04/01/2026;21:07:16;268.72;Online Shopping;Brasilia;Digital Wallet
+14188;100191;04/01/2026;22:13:40;2422.29;Utilities;Porto Alegre;Credit Card
+14196;100088;04/02/2026;00:35:35;434.22;Entertainment;Salvador;Bank Transfer
+13409;100009;04/02/2026;01:29:43;768.76;Electronics;Sao Paulo;Debit Card
+12574;100177;04/02/2026;02:50:49;211.04;Groceries;Campinas;Bank Transfer
+12750;100049;04/02/2026;03:18:19;1894.94;Travel;Fortaleza;Digital Wallet
+14766;100096;04/02/2026;03:56:34;180.18;Groceries;Brasilia;Bank Transfer
+14051;100093;04/02/2026;05:53:20;230.96;Entertainment;Rio de Janeiro;Digital Wallet
+12861;100212;04/02/2026;05:56:40;29.02;Transport;Fortaleza;Debit Card
+14411;100181;04/02/2026;07:05:53;1166.01;Electronics;Campinas;Debit Card
+13302;100193;04/02/2026;07:20:29;419.49;Utilities;Recife;Credit Card
+13756;100032;04/02/2026;08:04:04;2885.17;Travel;Recife;Debit Card
+13483;100094;04/02/2026;09:28:42;4657.04;Travel;Belo Horizonte;Digital Wallet
+12731;100145;04/02/2026;11:01:20;3573.72;Utilities;Salvador;Bank Transfer
+14890;100025;04/02/2026;16:03:00;3289.03;Electronics;Campinas;Credit Card
+14891;100025;04/02/2026;16:05:00;2675.84;Online Shopping;Campinas;Pix
+14892;100025;04/02/2026;16:07:00;2470.79;Online Shopping;Campinas;Credit Card
+14893;100025;04/02/2026;16:09:00;2672.04;Electronics;Sao Paulo;Pix
+14894;100025;04/02/2026;16:11:00;1238.53;Online Shopping;Sao Paulo;Credit Card
+13599;100111;04/02/2026;16:39:06;844.84;Online Shopping;Recife;Digital Wallet
+12420;100124;04/02/2026;16:54:15;1172.91;Online Shopping;Recife;Digital Wallet
+14674;100128;04/02/2026;17:55:29;4247.95;Travel;Sao Paulo;Pix
+12617;100024;04/02/2026;18:43:38;447.05;Utilities;Curitiba;Credit Card
+13526;100210;04/02/2026;21:42:23;366.99;Fuel;Salvador;Credit Card
+13749;100109;04/02/2026;21:46:14;2250.38;Travel;Porto Alegre;Credit Card
+12953;100107;04/02/2026;22:02:46;568.37;Electronics;Sao Paulo;Digital Wallet
+12705;100031;04/02/2026;22:04:16;252.59;Groceries;Salvador;Bank Transfer
+12439;100032;04/02/2026;22:34:31;657.11;Online Shopping;Porto Alegre;Bank Transfer
+12678;100083;04/02/2026;22:57:43;312.25;Fuel;Porto Alegre;Digital Wallet
+13303;100008;04/02/2026;23:37:43;1325.29;Travel;Curitiba;Credit Card
+13290;100090;04/03/2026;00:19:36;124.53;Pharmacy;Sao Paulo;Bank Transfer
+14410;100212;04/03/2026;01:30:10;87.26;Entertainment;Rio de Janeiro;Credit Card
+13808;100186;04/03/2026;03:25:19;458.54;Electronics;Campinas;Pix
+12627;100096;04/03/2026;03:31:01;42.28;Groceries;Campinas;Digital Wallet
+13428;100120;04/03/2026;03:34:15;45.49;Transport;Brasilia;Credit Card
+13056;100124;04/03/2026;04:05:09;1979.52;Electronics;Rio de Janeiro;Digital Wallet
+13855;100156;04/03/2026;05:03:18;588.06;Utilities;Sao Paulo;Bank Transfer
+13878;100161;04/03/2026;06:20:57;1555.91;Online Shopping;Rio de Janeiro;Debit Card
+13106;100057;04/03/2026;07:56:27;73.06;Pharmacy;Brasilia;Digital Wallet
+13096;100157;04/03/2026;08:00:00;1679.55;Travel;Belo Horizonte;Credit Card
+14118;100126;04/03/2026;08:30:16;201.38;Groceries;Recife;Credit Card
+12431;100123;04/03/2026;08:36:40;172.09;Pharmacy;Rio de Janeiro;Bank Transfer
+12418;100166;04/03/2026;09:27:23;1732.96;Electronics;Sao Paulo;Bank Transfer
+12809;100157;04/03/2026;09:56:26;174.74;Groceries;Belo Horizonte;Bank Transfer
+13741;100051;04/03/2026;11:46:31;178.6;Fuel;Brasilia;Debit Card
+14182;100077;04/03/2026;12:48:01;904.66;Electronics;Sao Paulo;Pix
+13842;100107;04/03/2026;13:24:58;199.72;Groceries;Porto Alegre;Digital Wallet
+14490;100098;04/03/2026;15:03:31;129.51;Pharmacy;Belo Horizonte;Debit Card
+12669;100166;04/03/2026;15:08:11;51.02;Transport;Fortaleza;Debit Card
+12813;100121;04/03/2026;16:15:21;1536.64;Online Shopping;Belo Horizonte;Credit Card
+14052;100123;04/03/2026;16:34:47;857.21;Electronics;Brasilia;Pix
+14068;100144;04/03/2026;16:38:56;70.36;Transport;Porto Alegre;Pix
+13425;100174;04/03/2026;18:47:39;1108.14;Online Shopping;Curitiba;Digital Wallet
+13237;100168;04/03/2026;19:47:51;123.17;Transport;Rio de Janeiro;Pix
+12857;100159;04/03/2026;20:21:39;165.85;Pharmacy;Curitiba;Pix
+12372;100193;04/03/2026;21:13:55;145.42;Restaurant;Belo Horizonte;Bank Transfer
+12499;100111;04/03/2026;22:42:19;47.5;Pharmacy;Porto Alegre;Digital Wallet
+13422;100001;05/01/2026;01:07:55;755.76;Online Shopping;Recife;Debit Card
+14071;100053;05/01/2026;02:41:48;59.87;Transport;Porto Alegre;Credit Card
+14400;100176;05/01/2026;03:07:10;506.31;Online Shopping;Campinas;Credit Card
+14021;100133;05/01/2026;04:13:24;3155.13;Travel;Belo Horizonte;Bank Transfer
+13669;100159;05/01/2026;05:10:14;1298.64;Travel;Rio de Janeiro;Credit Card
+13581;100107;05/01/2026;06:01:09;241.27;Restaurant;Sao Paulo;Bank Transfer
+12346;100140;05/01/2026;06:05:13;88.56;Pharmacy;Campinas;Bank Transfer
+13073;100057;05/01/2026;06:39:05;124.12;Fuel;Porto Alegre;Debit Card
+13178;100081;05/01/2026;07:11:35;3588.47;Travel;Brasilia;Bank Transfer
+14829;100003;05/01/2026;11:25:08;2923.26;Electronics;Belo Horizonte;Credit Card
+14083;100018;05/01/2026;12:14:37;187.53;Groceries;Curitiba;Digital Wallet
+12747;100058;05/01/2026;15:01:20;46.85;Transport;Brasilia;Credit Card
+14458;100064;05/01/2026;15:36:12;151.45;Restaurant;Campinas;Debit Card
+14415;100165;05/01/2026;17:11:29;112.51;Pharmacy;Porto Alegre;Credit Card
+12385;100029;05/01/2026;17:37:35;73.69;Pharmacy;Belo Horizonte;Digital Wallet
+14169;100133;05/01/2026;18:23:03;356.41;Entertainment;Fortaleza;Debit Card
+13950;100219;05/01/2026;18:52:51;870.51;Online Shopping;Campinas;Digital Wallet
+14211;100128;05/01/2026;18:54:21;311.79;Entertainment;Curitiba;Pix
+13739;100117;05/01/2026;19:06:59;509.66;Utilities;Rio de Janeiro;Pix
+13113;100012;05/01/2026;19:33:25;184.4;Groceries;Brasilia;Digital Wallet
+13479;100101;05/01/2026;20:57:39;261.96;Restaurant;Porto Alegre;Digital Wallet
+13646;100150;05/01/2026;21:59:22;91.06;Pharmacy;Porto Alegre;Debit Card
+12905;100135;05/01/2026;22:22:25;4815.88;Travel;Brasilia;Digital Wallet
+13356;100026;05/01/2026;23:12:21;82.63;Pharmacy;Rio de Janeiro;Pix
+14753;100178;05/01/2026;23:50:57;6375.21;Travel;Fortaleza;Credit Card
+13654;100215;05/02/2026;02:06:21;215.58;Groceries;Rio de Janeiro;Credit Card
+12774;100220;05/02/2026;02:26:32;54.78;Restaurant;Curitiba;Debit Card
+13580;100201;05/02/2026;03:16:19;258.18;Restaurant;Fortaleza;Pix
+13636;100216;05/02/2026;03:33:46;301.14;Entertainment;Brasilia;Credit Card
+14629;100179;05/02/2026;04:43:08;218.66;Restaurant;Brasilia;Digital Wallet
+12494;100213;05/02/2026;04:48:19;360.24;Fuel;Sao Paulo;Debit Card
+12465;100076;05/02/2026;06:36:55;270.39;Fuel;Sao Paulo;Bank Transfer
+13111;100056;05/02/2026;06:46:27;344.23;Entertainment;Brasilia;Bank Transfer
+14475;100059;05/02/2026;08:31:10;119.5;Pharmacy;Brasilia;Bank Transfer
+14825;100218;05/02/2026;08:32:12;378.83;Entertainment;Porto Alegre;Bank Transfer
+12686;100177;05/02/2026;08:41:23;46.03;Transport;Porto Alegre;Debit Card
+14154;100093;05/02/2026;09:35:34;135.19;Groceries;Sao Paulo;Credit Card
+13204;100140;05/02/2026;10:23:30;3882.94;Travel;Brasilia;Debit Card
+13459;100142;05/02/2026;10:46:39;149.56;Restaurant;Campinas;Pix
+14165;100056;05/02/2026;13:45:18;2567.21;Electronics;Salvador;Bank Transfer
+14651;100040;05/02/2026;14:31:17;233.76;Groceries;Porto Alegre;Credit Card
+14449;100205;05/02/2026;15:15:59;162.03;Groceries;Curitiba;Credit Card
+14517;100200;05/02/2026;15:31:09;133.85;Groceries;Belo Horizonte;Pix
+14319;100121;05/02/2026;15:32:36;5830.45;Travel;Porto Alegre;Bank Transfer
+14419;100107;05/02/2026;15:55:10;367.16;Online Shopping;Fortaleza;Bank Transfer
+13704;100147;05/02/2026;17:17:42;1939.23;Travel;Sao Paulo;Digital Wallet
+13494;100078;05/02/2026;17:45:26;90.79;Pharmacy;Porto Alegre;Pix
+12729;100141;05/02/2026;18:08:26;433.01;Online Shopping;Sao Paulo;Credit Card
+14141;100199;05/02/2026;18:17:29;82.14;Transport;Sao Paulo;Pix
+12893;100062;05/02/2026;18:22:42;163.75;Groceries;Belo Horizonte;Credit Card
+13606;100206;05/02/2026;19:07:07;672.49;Online Shopping;Brasilia;Credit Card
+12412;100117;05/02/2026;19:16:53;4042.84;Electronics;Salvador;Bank Transfer
+14757;100042;05/02/2026;19:25:21;40.35;Transport;Fortaleza;Digital Wallet
+13470;100091;05/02/2026;19:33:45;1275.06;Online Shopping;Fortaleza;Pix
+13148;100177;05/02/2026;21:04:38;227.11;Restaurant;Sao Paulo;Credit Card
+14152;100127;05/02/2026;22:36:26;432.75;Online Shopping;Fortaleza;Digital Wallet
+13625;100049;05/02/2026;22:38:31;2944.18;Travel;Belo Horizonte;Digital Wallet
+14627;100019;05/03/2026;00:36:00;230.43;Groceries;Sao Paulo;Bank Transfer
+14058;100128;05/03/2026;03:03:22;5852.09;Travel;Recife;Debit Card
+12484;100217;05/03/2026;04:58:28;1164.93;Travel;Recife;Credit Card
+13634;100026;05/03/2026;05:22:34;173.86;Fuel;Salvador;Bank Transfer
+13637;100106;05/03/2026;06:15:36;225.75;Restaurant;Belo Horizonte;Pix
+13201;100171;05/03/2026;08:15:38;125.53;Entertainment;Fortaleza;Pix
+13427;100201;05/03/2026;08:19:53;489.0;Utilities;Sao Paulo;Debit Card
+12941;100096;05/03/2026;08:43:39;105.16;Pharmacy;Curitiba;Debit Card
+13167;100143;05/03/2026;09:24:18;178.77;Groceries;Rio de Janeiro;Pix
+12911;100122;05/03/2026;10:57:54;226.31;Groceries;Belo Horizonte;Bank Transfer
+14695;100056;05/03/2026;11:58:02;1753.52;Travel;Fortaleza;Credit Card
+14688;100167;05/03/2026;12:41:10;1249.79;Online Shopping;Sao Paulo;Credit Card
+13006;100128;05/03/2026;13:13:37;480.54;Utilities;Sao Paulo;Digital Wallet
+14312;100220;05/03/2026;13:33:12;56.19;Transport;Fortaleza;Bank Transfer
+13961;100141;05/03/2026;13:53:44;142.97;Transport;Porto Alegre;Credit Card
+13394;100021;05/03/2026;15:12:09;159.2;Groceries;Belo Horizonte;Pix
+14844;100076;05/03/2026;15:30:57;608.39;Online Shopping;Sao Paulo;Pix
+13766;100054;05/03/2026;16:41:15;308.06;Utilities;Brasilia;Digital Wallet
+14814;100180;05/03/2026;18:06:41;69.29;Groceries;Recife;Bank Transfer
+12908;100157;05/03/2026;19:13:26;1898.63;Electronics;Salvador;Debit Card
+13867;100187;05/03/2026;20:36:58;1246.44;Pharmacy;Curitiba;Pix
+13187;100126;05/03/2026;22:51:48;167.66;Pharmacy;Curitiba;Pix
+14685;100005;05/03/2026;22:52:22;345.74;Groceries;Fortaleza;Credit Card
+14244;100030;05/03/2026;23:35:46;356.85;Entertainment;Belo Horizonte;Bank Transfer
+13146;100211;05/03/2026;23:47:29;167.66;Fuel;Campinas;Pix
+14720;100137;06/01/2026;00:33:30;158.5;Entertainment;Brasilia;Bank Transfer
+12538;100102;06/01/2026;02:12:18;323.6;Utilities;Brasilia;Pix
+14653;100173;06/01/2026;02:13:03;48.07;Transport;Sao Paulo;Debit Card
+14547;100065;06/01/2026;03:27:16;1060.6;Electronics;Porto Alegre;Credit Card
+14414;100205;06/01/2026;06:39:17;5729.06;Travel;Brasilia;Pix
+12570;100131;06/01/2026;07:08:45;2225.98;Travel;Fortaleza;Credit Card
+13613;100138;06/01/2026;09:03:19;83.21;Groceries;Sao Paulo;Pix
+13419;100016;06/01/2026;09:13:33;303.79;Fuel;Sao Paulo;Digital Wallet
+14655;100027;06/01/2026;10:32:05;148.75;Restaurant;Salvador;Debit Card
+13643;100205;06/01/2026;12:18:52;245.6;Fuel;Sao Paulo;Bank Transfer
+12537;100118;06/01/2026;12:56:02;145.51;Groceries;Porto Alegre;Debit Card
+14516;100001;06/01/2026;14:20:35;1453.17;Electronics;Belo Horizonte;Debit Card
+14791;100028;06/01/2026;14:36:34;263.26;Restaurant;Fortaleza;Credit Card
+13986;100210;06/01/2026;17:03:58;1597.48;Online Shopping;Curitiba;Bank Transfer
+12417;100078;06/01/2026;17:34:27;310.29;Entertainment;Rio de Janeiro;Digital Wallet
+12567;100068;06/01/2026;18:03:36;1562.35;Electronics;Recife;Pix
+14840;100065;06/01/2026;18:30:17;83.84;Transport;Campinas;Digital Wallet
+12502;100214;06/01/2026;19:01:29;2678.11;Electronics;Rio de Janeiro;Bank Transfer
+12759;100043;06/01/2026;19:05:43;152.24;Restaurant;Curitiba;Debit Card
+12603;100001;06/01/2026;19:22:44;74.19;Restaurant;Campinas;Credit Card
+14500;100208;06/01/2026;19:30:20;182.88;Groceries;Porto Alegre;Digital Wallet
+13377;100043;06/01/2026;20:01:04;257.44;Fuel;Curitiba;Digital Wallet
+14742;100016;06/01/2026;21:20:19;118.21;Transport;Rio de Janeiro;Bank Transfer
+13265;100157;06/01/2026;22:06:10;297.07;Entertainment;Rio de Janeiro;Digital Wallet
+13263;100125;06/01/2026;23:17:57;151.93;Fuel;Salvador;Pix
+13735;100131;06/01/2026;23:34:51;41.57;Transport;Sao Paulo;Digital Wallet
+12485;100156;06/02/2026;01:40:37;71.53;Transport;Rio de Janeiro;Debit Card
+13448;100169;06/02/2026;02:41:28;109.9;Pharmacy;Brasilia;Bank Transfer
+12543;100011;06/02/2026;02:50:03;582.95;Electronics;Campinas;Bank Transfer
+14099;100004;06/02/2026;04:18:46;240.63;Entertainment;Sao Paulo;Credit Card
+12681;100020;06/02/2026;04:59:56;110.19;Pharmacy;Recife;Digital Wallet
+13225;100081;06/02/2026;05:23:59;172.14;Groceries;Belo Horizonte;Bank Transfer
+13912;100022;06/02/2026;05:41:57;2191.14;Travel;Brasilia;Credit Card
+14682;100069;06/02/2026;07:42:16;82.2;Transport;Recife;Credit Card
+13641;100204;06/02/2026;09:00:31;1388.84;Online Shopping;Campinas;Pix
+13890;100071;06/02/2026;09:30:08;651.88;Utilities;Salvador;Bank Transfer
+14332;100019;06/02/2026;09:34:18;87.47;Pharmacy;Fortaleza;Digital Wallet
+14230;100149;06/02/2026;09:54:15;297.34;Restaurant;Fortaleza;Digital Wallet
+13544;100155;06/02/2026;11:34:06;551.92;Electronics;Sao Paulo;Debit Card
+13142;100187;06/02/2026;11:51:46;1537.59;Online Shopping;Recife;Bank Transfer
+14428;100217;06/02/2026;12:04:33;263.96;Utilities;Belo Horizonte;Pix
+12405;100062;06/02/2026;13:17:21;185.71;Fuel;Brasilia;Credit Card
+12530;100156;06/02/2026;13:19:07;160.68;Utilities;Recife;Credit Card
+14258;100104;06/02/2026;14:15:39;411.13;Entertainment;Recife;Digital Wallet
+13441;100101;06/02/2026;15:44:59;1740.71;Travel;Rio de Janeiro;Digital Wallet
+12915;100148;06/02/2026;17:20:43;251.58;Entertainment;Fortaleza;Debit Card
+13663;100107;06/02/2026;20:07:36;2432.25;Travel;Belo Horizonte;Credit Card
+12922;100100;06/02/2026;20:40:08;147.03;Fuel;Curitiba;Debit Card
+12916;100115;06/02/2026;20:40:09;224.13;Pharmacy;Recife;Digital Wallet
+12528;100203;06/02/2026;21:44:53;36.31;Transport;Belo Horizonte;Credit Card
+14556;100102;06/02/2026;22:57:04;1195.22;Online Shopping;Brasilia;Digital Wallet
+12566;100073;06/02/2026;23:00:54;328.52;Online Shopping;Campinas;Bank Transfer
+14008;100216;06/02/2026;23:10:09;176.02;Restaurant;Campinas;Digital Wallet
+13466;100025;06/02/2026;23:17:38;200.62;Utilities;Salvador;Digital Wallet
+14001;100084;06/02/2026;23:18:18;109.96;Transport;Porto Alegre;Bank Transfer
+12763;100026;06/02/2026;23:56:22;227.7;Pharmacy;Campinas;Credit Card
+13610;100103;06/03/2026;01:03:25;98.76;Pharmacy;Fortaleza;Pix
+13256;100069;06/03/2026;01:41:22;2658.14;Travel;Brasilia;Credit Card
+13284;100133;06/03/2026;02:27:28;3740.12;Travel;Porto Alegre;Digital Wallet
+13188;100077;06/03/2026;02:54:50;583.82;Electronics;Recife;Debit Card
+13436;100081;06/03/2026;03:29:09;76.9;Transport;Porto Alegre;Debit Card
+13504;100145;06/03/2026;03:34:55;193.28;Groceries;Curitiba;Bank Transfer
+14502;100172;06/03/2026;03:52:37;94.38;Pharmacy;Belo Horizonte;Digital Wallet
+13316;100127;06/03/2026;04:45:38;892.77;Electronics;Sao Paulo;Pix
+14444;100064;06/03/2026;05:07:13;244.5;Entertainment;Brasilia;Digital Wallet
+12901;100147;06/03/2026;05:12:15;285.18;Fuel;Belo Horizonte;Debit Card
+13026;100200;06/03/2026;06:51:30;286.55;Restaurant;Rio de Janeiro;Bank Transfer
+14769;100040;06/03/2026;08:11:09;540.02;Online Shopping;Belo Horizonte;Pix
+13062;100074;06/03/2026;08:54:50;504.74;Online Shopping;Rio de Janeiro;Debit Card
+12879;100158;06/03/2026;09:05:30;309.38;Entertainment;Sao Paulo;Digital Wallet
+13548;100180;06/03/2026;09:32:51;1554.01;Pharmacy;Salvador;Bank Transfer
+12360;100185;06/03/2026;09:55:40;181.61;Fuel;Fortaleza;Debit Card
+14590;100214;06/03/2026;10:00:54;210.9;Groceries;Salvador;Bank Transfer
+14554;100203;06/03/2026;10:17:39;281.22;Restaurant;Salvador;Digital Wallet
+14421;100082;06/03/2026;10:19:39;451.02;Entertainment;Porto Alegre;Debit Card
+12822;100198;06/03/2026;10:31:00;755.46;Online Shopping;Brasilia;Digital Wallet
+13285;100188;06/03/2026;10:31:45;2695.24;Travel;Belo Horizonte;Debit Card
+13723;100031;06/03/2026;10:36:31;159.9;Pharmacy;Recife;Bank Transfer
+13539;100165;06/03/2026;11:00:25;299.45;Groceries;Campinas;Debit Card
+13930;100116;06/03/2026;11:25:52;5583.1;Travel;Fortaleza;Credit Card
+14363;100017;06/03/2026;12:04:05;238.03;Groceries;Rio de Janeiro;Bank Transfer
+13100;100025;06/03/2026;13:29:49;295.66;Entertainment;Salvador;Digital Wallet
+14539;100182;06/03/2026;14:34:51;136.44;Pharmacy;Rio de Janeiro;Pix
+13191;100054;06/03/2026;15:27:42;1514.59;Electronics;Rio de Janeiro;Pix
+14391;100139;06/03/2026;15:41:08;2102.66;Travel;Campinas;Pix
+13540;100117;06/03/2026;15:45:14;354.31;Utilities;Porto Alegre;Digital Wallet
+14809;100209;06/03/2026;16:40:07;1279.25;Online Shopping;Recife;Credit Card
+13135;100082;06/03/2026;16:41:45;49.52;Transport;Sao Paulo;Digital Wallet
+12824;100100;06/03/2026;18:26:38;455.6;Entertainment;Campinas;Pix
+12403;100153;06/03/2026;19:53:58;1531.76;Electronics;Brasilia;Digital Wallet
+12565;100128;06/03/2026;20:15:13;212.42;Groceries;Rio de Janeiro;Bank Transfer
+13266;100093;06/03/2026;21:46:55;31.95;Transport;Porto Alegre;Bank Transfer
+12864;100188;06/03/2026;22:05:25;1009.95;Fuel;Belo Horizonte;Bank Transfer
+12572;100158;06/03/2026;22:34:31;277.07;Fuel;Campinas;Pix
+12827;100176;06/03/2026;23:44:40;1090.43;Electronics;Belo Horizonte;Debit Card
+14504;100172;07/01/2026;00:22:14;983.99;Online Shopping;Sao Paulo;Pix
+12655;100171;07/01/2026;00:41:43;1760.23;Electronics;Belo Horizonte;Digital Wallet
+12940;100031;07/01/2026;00:50:44;2765.5;Travel;Curitiba;Credit Card
+14208;100026;07/01/2026;01:00:52;347.57;Groceries;Campinas;Credit Card
+12377;100146;07/01/2026;01:05:26;202.58;Restaurant;Campinas;Digital Wallet
+12349;100092;07/01/2026;05:29:34;717.09;Electronics;Campinas;Pix
+13261;100078;07/01/2026;06:22:56;119.4;Restaurant;Curitiba;Digital Wallet
+12833;100100;07/01/2026;06:47:16;1770.95;Travel;Salvador;Digital Wallet
+13122;100069;07/01/2026;08:23:22;368.09;Utilities;Recife;Pix
+13119;100086;07/01/2026;09:24:23;180.88;Groceries;Fortaleza;Pix
+14369;100024;07/01/2026;11:36:44;1403.96;Online Shopping;Brasilia;Bank Transfer
+13227;100196;07/01/2026;12:09:03;44.44;Transport;Fortaleza;Bank Transfer
+14839;100053;07/01/2026;13:17:58;2093.91;Travel;Salvador;Credit Card
+12817;100053;07/01/2026;13:54:29;554.22;Online Shopping;Salvador;Pix
+14265;100126;07/01/2026;14:00:27;683.66;Online Shopping;Porto Alegre;Bank Transfer
+14170;100041;07/01/2026;14:05:33;251.13;Pharmacy;Campinas;Digital Wallet
+14478;100119;07/01/2026;15:23:33;314.91;Restaurant;Salvador;Credit Card
+13822;100003;07/01/2026;15:27:16;1025.9;Online Shopping;Recife;Bank Transfer
+12966;100192;07/01/2026;15:33:02;189.16;Entertainment;Sao Paulo;Bank Transfer
+12478;100024;07/01/2026;16:15:08;240.1;Restaurant;Campinas;Credit Card
+13873;100123;07/01/2026;16:50:40;277.85;Online Shopping;Rio de Janeiro;Digital Wallet
+12751;100147;07/01/2026;17:00:27;192.85;Utilities;Brasilia;Debit Card
+13215;100119;07/01/2026;18:39:27;188.39;Restaurant;Porto Alegre;Debit Card
+14592;100181;07/01/2026;20:10:13;2283.48;Electronics;Recife;Pix
+14365;100162;07/01/2026;20:26:49;146.02;Entertainment;Rio de Janeiro;Pix
+14176;100015;07/01/2026;21:09:54;1477.55;Travel;Belo Horizonte;Debit Card
+14294;100123;07/01/2026;22:11:34;4939.86;Travel;Campinas;Debit Card
+14446;100026;07/01/2026;23:12:11;22.75;Transport;Salvador;Bank Transfer
+14701;100009;07/01/2026;23:29:02;734.64;Online Shopping;Recife;Credit Card
+13736;100211;07/02/2026;00:27:46;175.76;Groceries;Salvador;Debit Card
+14330;100086;07/02/2026;01:07:46;1337.53;Online Shopping;Brasilia;Pix
+12382;100028;07/02/2026;01:13:45;317.32;Utilities;Belo Horizonte;Pix
+14712;100045;07/02/2026;03:25:14;3170.8;Travel;Sao Paulo;Digital Wallet
+12443;100042;07/02/2026;03:25:52;2067.48;Electronics;Recife;Bank Transfer
+13815;100082;07/02/2026;03:46:55;60.15;Transport;Recife;Pix
+12583;100198;07/02/2026;04:05:22;123.71;Transport;Porto Alegre;Credit Card
+12548;100181;07/02/2026;04:58:31;433.72;Online Shopping;Curitiba;Digital Wallet
+13901;100111;07/02/2026;06:39:53;912.05;Groceries;Recife;Digital Wallet
+14317;100100;07/02/2026;07:11:25;99.48;Transport;Salvador;Pix
+14750;100141;07/02/2026;11:12:53;1246.64;Electronics;Sao Paulo;Debit Card
+14402;100051;07/02/2026;11:40:15;80.36;Transport;Salvador;Digital Wallet
+13753;100041;07/02/2026;11:58:23;312.3;Utilities;Recife;Debit Card
+12374;100143;07/02/2026;12:03:37;1016.46;Online Shopping;Belo Horizonte;Debit Card
+14266;100214;07/02/2026;12:26:07;323.2;Groceries;Brasilia;Digital Wallet
+12840;100055;07/02/2026;12:48:39;1494.3;Electronics;Salvador;Pix
+14318;100095;07/02/2026;12:55:58;1976.88;Electronics;Fortaleza;Debit Card
+13886;100005;07/02/2026;17:01:20;150.66;Restaurant;Curitiba;Pix
+14292;100214;07/02/2026;18:49:34;180.75;Groceries;Curitiba;Bank Transfer
+12997;100100;07/02/2026;20:25:56;300.57;Utilities;Sao Paulo;Debit Card
+13241;100127;07/02/2026;20:27:05;681.04;Utilities;Fortaleza;Credit Card
+12785;100085;07/02/2026;20:54:07;1370.07;Electronics;Porto Alegre;Digital Wallet
+14082;100100;07/02/2026;21:01:42;3877.85;Travel;Sao Paulo;Digital Wallet
+13288;100096;07/02/2026;21:01:50;149.93;Fuel;Salvador;Pix
+13728;100115;07/02/2026;21:44:08;3981.93;Travel;Brasilia;Bank Transfer
+13151;100108;07/02/2026;22:40:59;588.43;Electronics;Sao Paulo;Pix
+12486;100153;07/03/2026;01:27:06;573.04;Utilities;Porto Alegre;Bank Transfer
+14624;100009;07/03/2026;01:44:48;123.56;Restaurant;Recife;Credit Card
+13834;100112;07/03/2026;03:02:38;201.52;Fuel;Belo Horizonte;Pix
+13629;100188;07/03/2026;04:39:30;262.0;Groceries;Rio de Janeiro;Debit Card
+13506;100152;07/03/2026;04:46:33;133.13;Groceries;Fortaleza;Bank Transfer
+14190;100032;07/03/2026;07:42:49;775.25;Online Shopping;Brasilia;Bank Transfer
+13898;100200;07/03/2026;08:36:59;127.42;Pharmacy;Fortaleza;Debit Card
+12392;100202;07/03/2026;09:24:57;1595.29;Electronics;Recife;Digital Wallet
+13620;100094;07/03/2026;12:49:25;1713.18;Travel;Brasilia;Digital Wallet
+13850;100006;07/03/2026;12:54:58;140.49;Entertainment;Recife;Digital Wallet
+12904;100148;07/03/2026;14:25:14;289.84;Fuel;Brasilia;Debit Card
+14509;100110;07/03/2026;15:09:04;175.54;Groceries;Porto Alegre;Bank Transfer
+12518;100033;07/03/2026;17:01:23;302.43;Utilities;Rio de Janeiro;Bank Transfer
+13348;100170;07/03/2026;18:48:56;303.33;Entertainment;Rio de Janeiro;Debit Card
+14875;100154;07/03/2026;23:11:00;1975.24;Electronics;Fortaleza;Bank Transfer
+14876;100154;07/03/2026;23:13:00;2718.89;Electronics;Fortaleza;Credit Card
+14877;100154;07/03/2026;23:15:00;1712.44;Online Shopping;Fortaleza;Bank Transfer
+14878;100154;07/03/2026;23:17:00;1317.42;Online Shopping;Rio de Janeiro;Credit Card
+14879;100154;07/03/2026;23:19:00;1822.5;Electronics;Rio de Janeiro;Bank Transfer
+13355;100092;07/03/2026;23:41:05;197.77;Pharmacy;Porto Alegre;Digital Wallet
+14034;100007;08/01/2026;02:15:44;530.82;Online Shopping;Salvador;Debit Card
+13508;100038;08/01/2026;02:15:52;164.77;Fuel;Belo Horizonte;Pix
+13624;100113;08/01/2026;02:24:46;364.03;Fuel;Salvador;Credit Card
+12967;100084;08/01/2026;03:46:25;777.68;Utilities;Curitiba;Debit Card
+12585;100158;08/01/2026;03:57:33;161.58;Entertainment;Curitiba;Debit Card
+13535;100097;08/01/2026;04:06:42;211.93;Groceries;Recife;Pix
+14830;100103;08/01/2026;06:53:34;158.3;Fuel;Fortaleza;Digital Wallet
+14470;100057;08/01/2026;09:01:39;194.3;Fuel;Sao Paulo;Debit Card
+12715;100136;08/01/2026;10:45:17;83.38;Restaurant;Recife;Bank Transfer
+12874;100132;08/01/2026;11:16:59;115.17;Groceries;Campinas;Debit Card
+14467;100060;08/01/2026;11:38:39;172.93;Utilities;Brasilia;Pix
+12702;100017;08/01/2026;13:05:59;209.03;Fuel;Recife;Debit Card
+14483;100036;08/01/2026;14:25:26;644.78;Online Shopping;Sao Paulo;Credit Card
+14664;100132;08/01/2026;15:37:18;4250.69;Travel;Salvador;Pix
+14662;100108;08/01/2026;17:25:35;1282.66;Online Shopping;Sao Paulo;Digital Wallet
+13790;100034;08/01/2026;20:40:45;53.07;Pharmacy;Recife;Credit Card
+13203;100113;08/01/2026;21:34:23;3796.15;Travel;Porto Alegre;Digital Wallet
+13255;100186;08/01/2026;22:01:27;275.9;Entertainment;Brasilia;Debit Card
+13021;100138;08/01/2026;22:19:36;1964.88;Electronics;Brasilia;Bank Transfer
+12979;100219;08/02/2026;02:24:14;3083.9;Electronics;Rio de Janeiro;Credit Card
+14427;100057;08/02/2026;02:26:09;4059.1;Travel;Brasilia;Bank Transfer
+13744;100169;08/02/2026;03:31:31;100.65;Transport;Porto Alegre;Debit Card
+14497;100006;08/02/2026;03:32:01;591.1;Utilities;Fortaleza;Digital Wallet
+13367;100099;08/02/2026;03:33:04;213.37;Fuel;Curitiba;Debit Card
+14585;100031;08/02/2026;04:05:42;1034.78;Online Shopping;Brasilia;Bank Transfer
+12429;100071;08/02/2026;04:08:40;316.51;Groceries;Sao Paulo;Digital Wallet
+13438;100147;08/02/2026;04:24:03;1590.69;Online Shopping;Curitiba;Bank Transfer
+13859;100126;08/02/2026;04:28:21;240.23;Restaurant;Porto Alegre;Pix
+14615;100176;08/02/2026;04:28:43;162.32;Groceries;Belo Horizonte;Pix
+14736;100064;08/02/2026;05:14:19;277.16;Fuel;Salvador;Pix
+13258;100087;08/02/2026;05:45:24;500.16;Entertainment;Brasilia;Debit Card
+13872;100049;08/02/2026;07:13:14;90.32;Pharmacy;Belo Horizonte;Digital Wallet
+14841;100144;08/02/2026;07:24:09;4304.63;Travel;Salvador;Debit Card
+14201;100103;08/02/2026;08:15:10;3411.02;Travel;Campinas;Pix
+13308;100190;08/02/2026;08:25:44;215.53;Utilities;Campinas;Credit Card
+14452;100151;08/02/2026;12:30:17;1777.58;Electronics;Sao Paulo;Credit Card
+14112;100178;08/02/2026;12:34:40;137.5;Fuel;Curitiba;Bank Transfer
+12500;100154;08/02/2026;12:49:08;271.26;Groceries;Sao Paulo;Debit Card
+13207;100066;08/02/2026;12:55:56;154.05;Fuel;Rio de Janeiro;Debit Card
+12960;100133;08/02/2026;13:13:54;51.04;Transport;Porto Alegre;Credit Card
+14199;100128;08/02/2026;14:06:52;1548.27;Travel;Sao Paulo;Digital Wallet
+14744;100010;08/02/2026;14:36:27;261.93;Restaurant;Sao Paulo;Credit Card
+12793;100079;08/02/2026;15:29:46;68.83;Transport;Rio de Janeiro;Credit Card
+13400;100109;08/02/2026;15:36:28;136.35;Transport;Campinas;Debit Card
+14683;100064;08/02/2026;16:56:19;43.12;Transport;Recife;Credit Card
+13480;100002;08/02/2026;17:06:00;198.44;Entertainment;Brasilia;Pix
+13455;100009;08/02/2026;17:34:10;119.37;Pharmacy;Rio de Janeiro;Digital Wallet
+13300;100084;08/02/2026;18:06:20;36.69;Transport;Sao Paulo;Credit Card
+14036;100160;08/02/2026;18:12:57;182.08;Groceries;Campinas;Credit Card
+13659;100114;08/02/2026;18:30:11;4521.76;Travel;Sao Paulo;Credit Card
+12396;100098;08/02/2026;18:35:53;9.53;Transport;Campinas;Digital Wallet
+13251;100203;08/02/2026;20:09:30;353.46;Utilities;Curitiba;Credit Card
+13067;100043;08/02/2026;21:47:48;1375.57;Online Shopping;Recife;Bank Transfer
+12645;100043;08/02/2026;21:50:04;2327.57;Travel;Porto Alegre;Bank Transfer
+14057;100006;08/02/2026;23:17:14;423.53;Online Shopping;Recife;Debit Card
+14800;100056;08/03/2026;00:49:55;175.33;Pharmacy;Porto Alegre;Bank Transfer
+13353;100059;08/03/2026;01:21:27;231.09;Entertainment;Sao Paulo;Bank Transfer
+14220;100038;08/03/2026;01:31:17;337.94;Groceries;Belo Horizonte;Debit Card
+13825;100182;08/03/2026;01:46:55;232.38;Entertainment;Porto Alegre;Debit Card
+12871;100113;08/03/2026;02:17:13;37.46;Transport;Curitiba;Credit Card
+13856;100186;08/03/2026;02:41:28;171.78;Groceries;Salvador;Bank Transfer
+12398;100204;08/03/2026;03:40:39;52.67;Transport;Rio de Janeiro;Pix
+14802;100177;08/03/2026;04:12:07;2702.37;Utilities;Rio de Janeiro;Debit Card
+12832;100058;08/03/2026;04:18:44;483.65;Utilities;Recife;Debit Card
+12799;100180;08/03/2026;05:39:07;48.51;Transport;Recife;Credit Card
+13792;100182;08/03/2026;06:42:25;59.44;Transport;Campinas;Pix
+14303;100139;08/03/2026;08:09:11;1161.21;Online Shopping;Porto Alegre;Bank Transfer
+12829;100137;08/03/2026;09:01:24;150.53;Fuel;Recife;Credit Card
+12883;100049;08/03/2026;09:33:00;159.03;Groceries;Sao Paulo;Digital Wallet
+12555;100111;08/03/2026;10:19:10;237.02;Utilities;Sao Paulo;Credit Card
+14077;100018;08/03/2026;11:45:15;31.03;Transport;Belo Horizonte;Credit Card
+13194;100158;08/03/2026;12:23:29;1547.26;Travel;Campinas;Credit Card
+14445;100084;08/03/2026;13:08:09;20.74;Transport;Campinas;Digital Wallet
+14564;100058;08/03/2026;13:15:36;373.08;Entertainment;Brasilia;Debit Card
+13456;100001;08/03/2026;15:42:34;154.17;Restaurant;Porto Alegre;Credit Card
+12445;100119;08/03/2026;17:39:48;2860.26;Travel;Sao Paulo;Debit Card
+12768;100114;08/03/2026;17:52:03;168.97;Restaurant;Recife;Bank Transfer
+14696;100160;08/03/2026;18:11:58;1953.43;Electronics;Salvador;Debit Card
+12547;100030;08/03/2026;18:58:35;97.92;Groceries;Belo Horizonte;Bank Transfer
+13242;100039;08/03/2026;19:18:36;24.6;Transport;Porto Alegre;Debit Card
+12761;100102;08/03/2026;20:58:55;116.14;Utilities;Salvador;Pix
+14870;100058;08/03/2026;23:01:00;1086.77;Electronics;Curitiba;Bank Transfer
+14871;100058;08/03/2026;23:03:00;924.27;Electronics;Curitiba;Debit Card
+14872;100058;08/03/2026;23:05:00;1534.62;Online Shopping;Curitiba;Digital Wallet
+14873;100058;08/03/2026;23:07:00;4181.93;Electronics;Campinas;Bank Transfer
+14874;100058;08/03/2026;23:09:00;4251.72;Online Shopping;Campinas;Bank Transfer
+12677;100158;09/01/2026;00:22:34;48.39;Transport;Curitiba;Debit Card
+13944;100062;09/01/2026;02:06:55;1068.93;Online Shopping;Recife;Bank Transfer
+13510;100105;09/01/2026;02:52:00;391.05;Entertainment;Porto Alegre;Pix
+13710;100082;09/01/2026;04:16:16;51.98;Groceries;Fortaleza;Debit Card
+13534;100108;09/01/2026;05:08:07;320.95;Restaurant;Curitiba;Debit Card
+14076;100145;09/01/2026;05:45:45;129.4;Entertainment;Sao Paulo;Digital Wallet
+12698;100121;09/01/2026;06:16:13;45.43;Pharmacy;Sao Paulo;Digital Wallet
+13127;100189;09/01/2026;06:55:51;127.43;Groceries;Porto Alegre;Debit Card
+14049;100002;09/01/2026;07:04:31;190.52;Fuel;Porto Alegre;Debit Card
+14310;100220;09/01/2026;07:17:51;159.96;Utilities;Belo Horizonte;Debit Card
+14596;100204;09/01/2026;07:50:22;2800.97;Electronics;Sao Paulo;Bank Transfer
+13094;100012;09/01/2026;09:17:09;354.81;Entertainment;Belo Horizonte;Pix
+14252;100086;09/01/2026;09:37:00;140.47;Fuel;Sao Paulo;Debit Card
+12495;100047;09/01/2026;10:47:40;137.9;Transport;Campinas;Bank Transfer
+12993;100106;09/01/2026;11:59:28;269.51;Restaurant;Curitiba;Debit Card
+14424;100212;09/01/2026;12:00:20;529.16;Pharmacy;Salvador;Pix
+12660;100025;09/01/2026;15:02:51;5602.74;Online Shopping;Brasilia;Pix
+14693;100039;09/01/2026;15:11:20;683.18;Online Shopping;Belo Horizonte;Debit Card
+13018;100003;09/01/2026;15:19:32;176.67;Restaurant;Porto Alegre;Pix
+12515;100087;09/01/2026;16:06:35;317.6;Entertainment;Sao Paulo;Pix
+13911;100026;09/01/2026;19:54:41;1052.17;Electronics;Salvador;Pix
+14755;100166;09/01/2026;20:16:12;1677.56;Online Shopping;Brasilia;Pix
+14823;100106;09/01/2026;20:36:39;9880.25;Travel;Campinas;Pix
+14519;100217;09/01/2026;22:08:44;92.58;Pharmacy;Brasilia;Bank Transfer
+14121;100200;09/01/2026;22:11:29;136.55;Groceries;Fortaleza;Bank Transfer
+12533;100172;09/01/2026;22:34:32;197.93;Pharmacy;Fortaleza;Pix
+13189;100055;09/02/2026;00:25:51;167.93;Fuel;Porto Alegre;Credit Card
+14728;100196;09/02/2026;00:28:37;2665.28;Travel;Brasilia;Bank Transfer
+13389;100012;09/02/2026;01:31:06;178.38;Pharmacy;Curitiba;Bank Transfer
+13248;100118;09/02/2026;01:52:39;2326.13;Travel;Campinas;Bank Transfer
+12778;100144;09/02/2026;03:06:30;97.64;Entertainment;Campinas;Pix
+12381;100157;09/02/2026;03:06:56;222.08;Utilities;Sao Paulo;Digital Wallet
+13635;100094;09/02/2026;04:21:57;741.62;Online Shopping;Sao Paulo;Pix
+14025;100092;09/02/2026;08:23:39;288.69;Restaurant;Belo Horizonte;Debit Card
+13955;100158;09/02/2026;09:58:46;194.8;Utilities;Curitiba;Pix
+14465;100084;09/02/2026;10:13:54;138.24;Utilities;Salvador;Bank Transfer
+14639;100044;09/02/2026;11:25:02;163.16;Entertainment;Campinas;Bank Transfer
+12389;100057;09/02/2026;13:14:01;203.27;Restaurant;Brasilia;Pix
+14203;100008;09/02/2026;13:31:56;3362.66;Electronics;Salvador;Credit Card
+12766;100096;09/02/2026;14:53:31;311.42;Groceries;Salvador;Pix
+14212;100208;09/02/2026;15:41:45;1143.77;Online Shopping;Salvador;Digital Wallet
+12711;100103;09/02/2026;16:05:35;125.32;Pharmacy;Brasilia;Pix
+14533;100138;09/02/2026;16:14:12;277.86;Groceries;Campinas;Bank Transfer
+14561;100199;09/02/2026;16:30:37;88.27;Transport;Campinas;Credit Card
+13035;100152;09/02/2026;16:52:12;983.3;Online Shopping;Campinas;Pix
+14634;100200;09/02/2026;16:54:06;28.07;Transport;Curitiba;Debit Card
+13976;100036;09/02/2026;17:11:45;1290.74;Electronics;Belo Horizonte;Credit Card
+14572;100165;09/02/2026;19:55:37;51.16;Transport;Curitiba;Pix
+12467;100065;09/02/2026;20:02:37;55.09;Transport;Rio de Janeiro;Credit Card
+14865;100153;09/02/2026;20:33:00;3849.74;Travel;Porto Alegre;Credit Card
+14866;100153;09/02/2026;20:35:00;1989.99;Travel;Porto Alegre;Digital Wallet
+14867;100153;09/02/2026;20:37:00;2391.9;Travel;Porto Alegre;Pix
+14868;100153;09/02/2026;20:39:00;3904.88;Online Shopping;Rio de Janeiro;Debit Card
+14869;100153;09/02/2026;20:41:00;742.92;Electronics;Rio de Janeiro;Bank Transfer
+13990;100144;09/02/2026;21:50:49;513.15;Online Shopping;Campinas;Bank Transfer
+13437;100171;09/02/2026;22:44:07;136.27;Groceries;Campinas;Pix
+14780;100076;09/02/2026;22:53:33;223.22;Fuel;Brasilia;Credit Card
+12447;100162;09/02/2026;23:00:35;216.86;Entertainment;Curitiba;Debit Card
+14245;100208;09/02/2026;23:52:27;140.62;Groceries;Salvador;Debit Card
+13452;100138;09/03/2026;00:34:45;594.05;Utilities;Brasilia;Credit Card
+13777;100068;09/03/2026;00:41:49;208.84;Entertainment;Rio de Janeiro;Debit Card
+13771;100176;09/03/2026;01:16:30;157.86;Restaurant;Campinas;Pix
+14144;100178;09/03/2026;01:40:04;481.4;Online Shopping;Salvador;Digital Wallet
+12419;100182;09/03/2026;02:17:39;102.35;Transport;Recife;Debit Card
+14580;100139;09/03/2026;02:36:07;2754.25;Travel;Fortaleza;Digital Wallet
+14594;100002;09/03/2026;02:58:52;194.13;Groceries;Rio de Janeiro;Bank Transfer
+12892;100050;09/03/2026;04:14:39;112.48;Groceries;Campinas;Digital Wallet
+13281;100184;09/03/2026;05:15:06;191.74;Entertainment;Belo Horizonte;Bank Transfer
+13015;100034;09/03/2026;05:40:31;245.26;Entertainment;Campinas;Bank Transfer
+12921;100141;09/03/2026;08:06:16;222.55;Groceries;Sao Paulo;Bank Transfer
+14643;100186;09/03/2026;09:33:36;120.48;Transport;Rio de Janeiro;Pix
+12629;100207;09/03/2026;10:15:12;78.83;Transport;Rio de Janeiro;Credit Card
+14272;100194;09/03/2026;11:40:31;6964.67;Utilities;Campinas;Digital Wallet
+14805;100084;09/03/2026;13:35:45;11.32;Transport;Porto Alegre;Debit Card
+12981;100144;09/03/2026;15:21:31;163.34;Groceries;Sao Paulo;Debit Card
+14180;100156;09/03/2026;19:10:32;412.3;Entertainment;Recife;Pix
+14324;100024;09/03/2026;20:46:56;198.2;Pharmacy;Campinas;Bank Transfer
+14813;100048;09/03/2026;21:20:45;1420.16;Online Shopping;Campinas;Credit Card
+14722;100008;09/03/2026;23:39:30;896.66;Online Shopping;Salvador;Digital Wallet
+13318;100145;10/01/2026;00:08:47;98.33;Entertainment;Campinas;Debit Card
+13752;100200;10/01/2026;02:03:33;895.31;Electronics;Salvador;Digital Wallet
+13414;100209;10/01/2026;04:26:33;636.04;Online Shopping;Sao Paulo;Credit Card
+14760;100065;10/01/2026;05:44:07;3643.58;Travel;Brasilia;Bank Transfer
+14673;100067;10/01/2026;08:45:53;138.62;Restaurant;Sao Paulo;Debit Card
+13376;100196;10/01/2026;09:32:49;562.48;Utilities;Rio de Janeiro;Pix
+14041;100003;10/01/2026;10:37:40;381.78;Groceries;Salvador;Digital Wallet
+14135;100045;10/01/2026;10:42:08;4795.99;Travel;Fortaleza;Digital Wallet
+14234;100080;10/01/2026;10:55:07;3245.69;Utilities;Fortaleza;Credit Card
+13602;100203;10/01/2026;12:42:23;55.68;Transport;Salvador;Debit Card
+14423;100096;10/01/2026;13:08:41;273.86;Restaurant;Campinas;Debit Card
+13938;100152;10/01/2026;13:17:08;280.68;Restaurant;Curitiba;Pix
+13231;100135;10/01/2026;13:49:31;316.95;Entertainment;Belo Horizonte;Bank Transfer
+12971;100189;10/01/2026;14:49:27;308.75;Utilities;Curitiba;Debit Card
+12510;100152;10/01/2026;15:29:28;66.21;Groceries;Salvador;Digital Wallet
+12738;100199;10/01/2026;17:45:42;114.65;Pharmacy;Fortaleza;Pix
+13476;100044;10/01/2026;17:53:08;398.73;Utilities;Curitiba;Debit Card
+14588;100123;10/01/2026;20:03:51;1915.9;Electronics;Fortaleza;Digital Wallet
+13617;100143;10/01/2026;21:03:13;50.05;Restaurant;Curitiba;Credit Card
+12896;100105;10/01/2026;22:18:21;734.54;Utilities;Rio de Janeiro;Digital Wallet
+12748;100088;10/01/2026;23:57:05;52.89;Transport;Recife;Debit Card
+12900;100074;10/01/2026;23:59:11;128.9;Pharmacy;Recife;Pix
+13705;100198;10/02/2026;00:42:20;398.34;Entertainment;Sao Paulo;Credit Card
+14630;100170;10/02/2026;00:44:23;1594.25;Restaurant;Campinas;Pix
+13058;100190;10/02/2026;01:03:57;105.99;Pharmacy;Fortaleza;Digital Wallet
+12438;100037;10/02/2026;01:47:52;146.63;Pharmacy;Sao Paulo;Debit Card
+13033;100147;10/02/2026;01:57:21;174.55;Restaurant;Belo Horizonte;Credit Card
+13406;100191;10/02/2026;02:37:04;1249.29;Electronics;Recife;Bank Transfer
+14409;100067;10/02/2026;02:39:07;274.02;Restaurant;Sao Paulo;Debit Card
+14832;100171;10/02/2026;03:52:34;203.39;Groceries;Salvador;Bank Transfer
+14797;100100;10/02/2026;05:07:38;2607.35;Travel;Porto Alegre;Bank Transfer
+14247;100136;10/02/2026;05:19:26;374.8;Electronics;Rio de Janeiro;Bank Transfer
+14005;100011;10/02/2026;07:36:00;737.02;Utilities;Curitiba;Debit Card
+12987;100198;10/02/2026;08:35:34;130.16;Transport;Campinas;Debit Card
+13471;100079;10/02/2026;08:40:05;57.23;Pharmacy;Porto Alegre;Bank Transfer
+13195;100176;10/02/2026;08:40:13;324.24;Fuel;Recife;Bank Transfer
+13994;100026;10/02/2026;08:45:13;717.14;Online Shopping;Belo Horizonte;Debit Card
+12743;100085;10/02/2026;11:40:56;269.25;Pharmacy;Curitiba;Pix
+13360;100120;10/02/2026;12:27:49;1432.7;Online Shopping;Salvador;Credit Card
+14632;100019;10/02/2026;14:08:57;610.69;Online Shopping;Curitiba;Bank Transfer
+14291;100045;10/02/2026;14:38:13;464.73;Entertainment;Brasilia;Pix
+13273;100108;10/02/2026;17:00:52;2039.03;Travel;Fortaleza;Pix
+14116;100011;10/02/2026;17:01:16;966.04;Online Shopping;Sao Paulo;Bank Transfer
+12640;100040;10/02/2026;17:06:05;493.26;Travel;Belo Horizonte;Bank Transfer
+13838;100143;10/02/2026;17:52:28;107.79;Groceries;Salvador;Pix
+12354;100084;10/02/2026;18:17:04;122.61;Groceries;Curitiba;Credit Card
+13186;100179;10/02/2026;18:36:24;545.35;Online Shopping;Campinas;Credit Card
+12858;100040;10/02/2026;19:10:00;187.32;Entertainment;Campinas;Pix
+14880;100112;10/02/2026;19:20:00;3442.86;Travel;Curitiba;Digital Wallet
+14881;100112;10/02/2026;19:22:00;795.01;Online Shopping;Curitiba;Digital Wallet
+14882;100112;10/02/2026;19:24:00;3967.56;Travel;Curitiba;Bank Transfer
+14883;100112;10/02/2026;19:26:00;3273.68;Electronics;Salvador;Pix
+14884;100112;10/02/2026;19:28:00;1688.94;Travel;Salvador;Bank Transfer
+14532;100068;10/02/2026;19:55:23;66.0;Transport;Sao Paulo;Pix
+13226;100068;10/02/2026;19:57:10;188.02;Entertainment;Porto Alegre;Digital Wallet
+12718;100067;10/02/2026;20:17:14;581.86;Electronics;Recife;Pix
+13884;100038;10/02/2026;20:19:27;238.25;Fuel;Salvador;Pix
+12581;100077;10/02/2026;21:22:35;367.49;Fuel;Curitiba;Bank Transfer
+13529;100033;10/02/2026;21:27:30;87.11;Transport;Recife;Pix
+14397;100130;10/02/2026;22:36:12;715.68;Online Shopping;Belo Horizonte;Debit Card
+12769;100080;10/03/2026;00:01:11;252.21;Utilities;Recife;Debit Card
+14530;100147;10/03/2026;00:16:11;120.09;Fuel;Belo Horizonte;Pix
+14248;100084;10/03/2026;01:38:54;32.05;Transport;Rio de Janeiro;Debit Card
+12575;100014;10/03/2026;02:46:39;363.59;Entertainment;Brasilia;Debit Card
+14370;100200;10/03/2026;03:34:16;127.94;Fuel;Sao Paulo;Bank Transfer
+13465;100097;10/03/2026;05:56:19;150.63;Pharmacy;Rio de Janeiro;Debit Card
+14009;100029;10/03/2026;06:39:46;77.86;Pharmacy;Recife;Digital Wallet
+14498;100140;10/03/2026;10:10:48;1420.32;Travel;Porto Alegre;Pix
+12664;100208;10/03/2026;11:23:20;82.7;Pharmacy;Campinas;Credit Card
+13958;100180;10/03/2026;11:25:39;503.44;Utilities;Porto Alegre;Digital Wallet
+13877;100132;10/03/2026;13:21:17;268.13;Fuel;Porto Alegre;Pix
+14704;100023;10/03/2026;14:49:25;699.27;Online Shopping;Recife;Pix
+12584;100192;10/03/2026;14:59:35;959.85;Online Shopping;Curitiba;Debit Card
+12628;100004;10/03/2026;15:01:32;290.9;Groceries;Fortaleza;Pix
+13131;100117;10/03/2026;15:11:11;107.24;Transport;Campinas;Debit Card
+13046;100001;10/03/2026;15:24:39;74.48;Transport;Belo Horizonte;Bank Transfer
+14770;100150;10/03/2026;15:45:16;2645.88;Electronics;Recife;Bank Transfer
+13932;100145;10/03/2026;17:34:14;502.18;Utilities;Fortaleza;Credit Card
+12995;100101;10/03/2026;22:41:56;329.13;Entertainment;Campinas;Digital Wallet
+12844;100132;10/03/2026;23:00:40;54.02;Pharmacy;Rio de Janeiro;Debit Card
+14827;100088;10/03/2026;23:06:24;125.13;Restaurant;Recife;Digital Wallet
+13845;100093;10/03/2026;23:25:14;220.84;Pharmacy;Salvador;Digital Wallet
+13776;100066;11/01/2026;00:09:06;526.96;Utilities;Fortaleza;Debit Card
+14136;100195;11/01/2026;00:10:15;158.67;Pharmacy;Brasilia;Digital Wallet
+13973;100183;11/01/2026;01:04:33;1258.68;Electronics;Campinas;Credit Card
+14395;100158;11/01/2026;01:04:46;870.13;Online Shopping;Porto Alegre;Bank Transfer
+13381;100032;11/01/2026;03:48:00;491.73;Utilities;Recife;Debit Card
+13965;100061;11/01/2026;04:08:20;2404.54;Electronics;Fortaleza;Pix
+12963;100147;11/01/2026;05:20:50;2794.91;Travel;Campinas;Debit Card
+13941;100191;11/01/2026;05:21:56;175.15;Entertainment;Brasilia;Debit Card
+13275;100208;11/01/2026;07:34:21;2434.36;Travel;Curitiba;Pix
+12974;100060;11/01/2026;09:47:03;116.27;Restaurant;Salvador;Debit Card
+13352;100216;11/01/2026;10:48:05;1042.31;Electronics;Porto Alegre;Digital Wallet
+14243;100107;11/01/2026;10:53:06;215.67;Groceries;Salvador;Bank Transfer
+13812;100052;11/01/2026;11:15:54;42.27;Transport;Porto Alegre;Pix
+12525;100027;11/01/2026;11:17:28;678.81;Utilities;Rio de Janeiro;Pix
+14541;100127;11/01/2026;11:36:38;653.58;Utilities;Belo Horizonte;Debit Card
+13519;100003;11/01/2026;12:08:30;190.51;Pharmacy;Fortaleza;Pix
+12875;100154;11/01/2026;12:28:38;557.68;Entertainment;Sao Paulo;Pix
+13840;100021;11/01/2026;12:47:33;589.42;Online Shopping;Fortaleza;Pix
+14495;100162;11/01/2026;13:23:43;275.03;Fuel;Rio de Janeiro;Digital Wallet
+12423;100143;11/01/2026;13:46:26;186.79;Groceries;Fortaleza;Debit Card
+13518;100165;11/01/2026;14:09:40;217.11;Groceries;Belo Horizonte;Debit Card
+12556;100058;11/01/2026;14:12:40;2888.45;Electronics;Fortaleza;Pix
+13707;100056;11/01/2026;14:57:39;3084.92;Travel;Sao Paulo;Digital Wallet
+12517;100168;11/01/2026;15:35:24;3509.66;Travel;Belo Horizonte;Digital Wallet
+13565;100037;11/01/2026;15:55:45;124.36;Pharmacy;Porto Alegre;Bank Transfer
+13831;100156;11/01/2026;16:59:40;187.74;Pharmacy;Recife;Digital Wallet
+14032;100203;11/01/2026;17:38:51;164.55;Restaurant;Salvador;Pix
+13245;100202;11/01/2026;19:56:45;49.68;Transport;Recife;Credit Card
+14372;100103;11/01/2026;20:00:13;217.55;Pharmacy;Brasilia;Digital Wallet
+12952;100019;11/01/2026;20:51:40;77.35;Groceries;Curitiba;Bank Transfer
+12788;100118;11/01/2026;21:21:40;144.79;Transport;Salvador;Debit Card
+13208;100082;11/01/2026;21:30:47;2521.14;Travel;Sao Paulo;Pix
+13244;100065;11/01/2026;22:01:07;2008.91;Electronics;Porto Alegre;Digital Wallet
+12513;100016;11/01/2026;22:41:11;214.1;Online Shopping;Rio de Janeiro;Pix
+13057;100220;11/01/2026;22:56:39;135.02;Fuel;Brasilia;Digital Wallet
+13684;100019;11/01/2026;23:30:08;2007.2;Travel;Campinas;Digital Wallet
+13796;100024;11/02/2026;00:40:01;96.42;Transport;Rio de Janeiro;Debit Card
+13199;100125;11/02/2026;01:19:55;78.58;Groceries;Sao Paulo;Credit Card
+12488;100187;11/02/2026;03:16:23;263.1;Pharmacy;Salvador;Bank Transfer
+12394;100111;11/02/2026;03:54:07;180.17;Pharmacy;Salvador;Digital Wallet
+12906;100118;11/02/2026;04:00:00;169.21;Pharmacy;Fortaleza;Bank Transfer
+13024;100048;11/02/2026;04:02:17;218.76;Entertainment;Rio de Janeiro;Pix
+13327;100022;11/02/2026;04:04:50;100.89;Groceries;Sao Paulo;Bank Transfer
+14730;100006;11/02/2026;04:14:30;1756.25;Travel;Curitiba;Pix
+14713;100169;11/02/2026;05:17:50;1381.38;Electronics;Recife;Credit Card
+12453;100099;11/02/2026;05:30:45;290.82;Restaurant;Recife;Credit Card
+12760;100161;11/02/2026;05:58:51;27.67;Transport;Campinas;Pix
+13957;100113;11/02/2026;06:07:12;1607.16;Electronics;Belo Horizonte;Debit Card
+14631;100118;11/02/2026;06:13:10;3458.1;Travel;Belo Horizonte;Pix
+12737;100207;11/02/2026;07:01:09;75.36;Transport;Salvador;Debit Card
+13509;100167;11/02/2026;08:45:56;1534.82;Electronics;Campinas;Pix
+12721;100078;11/02/2026;10:05:45;168.24;Entertainment;Sao Paulo;Debit Card
+13851;100062;11/02/2026;10:18:04;117.23;Transport;Brasilia;Debit Card
+13027;100088;11/02/2026;10:49:55;315.84;Online Shopping;Fortaleza;Pix
+13030;100006;11/02/2026;12:12:18;176.48;Entertainment;Porto Alegre;Debit Card
+14047;100032;11/02/2026;13:10:25;160.49;Pharmacy;Curitiba;Debit Card
+14086;100156;11/02/2026;14:25:07;260.56;Fuel;Salvador;Debit Card
+13748;100056;11/02/2026;14:43:20;2514.53;Travel;Sao Paulo;Digital Wallet
+12767;100059;11/02/2026;14:46:26;77.27;Transport;Porto Alegre;Bank Transfer
+13213;100035;11/02/2026;15:12:05;204.81;Fuel;Belo Horizonte;Digital Wallet
+14142;100088;11/02/2026;15:54:30;226.03;Fuel;Fortaleza;Digital Wallet
+14524;100098;11/02/2026;16:37:16;527.66;Entertainment;Porto Alegre;Credit Card
+13486;100126;11/02/2026;18:32:46;701.27;Utilities;Brasilia;Debit Card
+13104;100061;11/02/2026;19:12:47;933.55;Online Shopping;Campinas;Digital Wallet
+13758;100101;11/02/2026;19:32:47;56.79;Restaurant;Campinas;Pix
+14820;100091;11/02/2026;20:13:19;291.72;Entertainment;Rio de Janeiro;Debit Card
+13038;100094;11/02/2026;20:31:01;1112.87;Travel;Belo Horizonte;Pix
+12796;100203;11/03/2026;01:03:38;423.15;Groceries;Recife;Pix
+14027;100039;11/03/2026;01:26:10;72.85;Transport;Recife;Credit Card
+12393;100182;11/03/2026;03:46:47;4002.35;Travel;Sao Paulo;Digital Wallet
+13511;100072;11/03/2026;03:55:49;127.49;Transport;Porto Alegre;Credit Card
+13155;100204;11/03/2026;04:35:44;545.16;Utilities;Campinas;Digital Wallet
+14647;100198;11/03/2026;04:38:54;905.35;Electronics;Curitiba;Bank Transfer
+14669;100174;11/03/2026;05:31:38;739.87;Utilities;Fortaleza;Credit Card
+13869;100130;11/03/2026;05:34:55;57.98;Pharmacy;Porto Alegre;Digital Wallet
+12588;100197;11/03/2026;05:46:54;253.53;Pharmacy;Campinas;Debit Card
+13593;100089;11/03/2026;06:10:33;1025.35;Online Shopping;Campinas;Digital Wallet
+14610;100205;11/03/2026;07:21:21;122.62;Fuel;Recife;Debit Card
+12903;100174;11/03/2026;07:54:30;591.35;Online Shopping;Campinas;Credit Card
+14295;100062;11/03/2026;08:15:34;203.72;Groceries;Fortaleza;Digital Wallet
+13334;100167;11/03/2026;10:09:30;1066.18;Electronics;Porto Alegre;Digital Wallet
+12985;100080;11/03/2026;10:13:41;132.02;Entertainment;Salvador;Bank Transfer
+13093;100103;11/03/2026;10:20:53;2949.98;Electronics;Rio de Janeiro;Digital Wallet
+14102;100154;11/03/2026;11:23:42;2582.82;Electronics;Brasilia;Bank Transfer
+12650;100030;11/03/2026;11:43:49;265.99;Entertainment;Curitiba;Digital Wallet
+12674;100094;11/03/2026;12:27:06;530.67;Utilities;Sao Paulo;Bank Transfer
+13692;100032;11/03/2026;12:31:45;184.08;Pharmacy;Rio de Janeiro;Pix
+13827;100109;11/03/2026;14:11:18;6481.14;Electronics;Porto Alegre;Credit Card
+14237;100091;11/03/2026;14:46:01;120.71;Transport;Recife;Debit Card
+12480;100001;11/03/2026;14:51:11;141.34;Fuel;Belo Horizonte;Debit Card
+14764;100203;11/03/2026;15:29:04;129.57;Transport;Sao Paulo;Debit Card
+14628;100110;11/03/2026;18:45:28;380.42;Utilities;Sao Paulo;Credit Card
+14638;100117;11/03/2026;20:20:54;1570.72;Electronics;Campinas;Digital Wallet
+12935;100015;11/03/2026;21:11:12;346.52;Fuel;Recife;Credit Card
+12976;100190;11/03/2026;22:48:16;417.17;Utilities;Curitiba;Debit Card
+12516;100186;12/01/2026;00:42:09;456.32;Entertainment;Belo Horizonte;Pix
+13312;100143;12/01/2026;02:41:04;764.72;Online Shopping;Recife;Digital Wallet
+14617;100069;12/01/2026;03:08:11;121.94;Pharmacy;Belo Horizonte;Credit Card
+14404;100088;12/01/2026;03:43:58;2207.55;Travel;Belo Horizonte;Pix
+14250;100071;12/01/2026;04:35:59;241.69;Fuel;Fortaleza;Digital Wallet
+13472;100024;12/01/2026;05:18:35;125.07;Transport;Campinas;Credit Card
+14645;100096;12/01/2026;05:37:56;1073.71;Electronics;Fortaleza;Digital Wallet
+12643;100004;12/01/2026;05:57:35;351.34;Fuel;Recife;Bank Transfer
+13144;100086;12/01/2026;06:26:40;242.72;Pharmacy;Campinas;Bank Transfer
+14772;100048;12/01/2026;07:07:33;125.52;Pharmacy;Belo Horizonte;Credit Card
+14430;100166;12/01/2026;07:24:47;44.14;Groceries;Porto Alegre;Digital Wallet
+13124;100173;12/01/2026;08:25:57;79.49;Pharmacy;Curitiba;Bank Transfer
+13143;100107;12/01/2026;10:13:19;64.59;Transport;Campinas;Digital Wallet
+13299;100074;12/01/2026;10:19:26;85.37;Transport;Belo Horizonte;Pix
+12641;100093;12/01/2026;11:27:28;236.72;Fuel;Rio de Janeiro;Debit Card
+14079;100165;12/01/2026;12:28:10;1395.76;Travel;Belo Horizonte;Digital Wallet
+13612;100083;12/01/2026;12:46:57;4467.28;Travel;Curitiba;Debit Card
+14460;100196;12/01/2026;15:01:50;237.06;Fuel;Belo Horizonte;Credit Card
+13372;100118;12/01/2026;15:41:56;1365.92;Online Shopping;Campinas;Credit Card
+13991;100015;12/01/2026;15:57:37;539.06;Utilities;Sao Paulo;Debit Card
+14679;100215;12/01/2026;16:11:48;213.99;Entertainment;Porto Alegre;Digital Wallet
+13224;100127;12/01/2026;16:45:33;1295.72;Electronics;Brasilia;Debit Card
+14386;100058;12/01/2026;18:43:55;10170.45;Electronics;Salvador;Debit Card
+12489;100122;12/01/2026;19:06:47;185.0;Pharmacy;Rio de Janeiro;Credit Card
+13566;100055;12/01/2026;19:21:48;181.32;Fuel;Belo Horizonte;Credit Card
+13239;100069;12/01/2026;19:51:23;290.57;Entertainment;Campinas;Bank Transfer
+12504;100044;12/01/2026;19:54:06;166.82;Entertainment;Brasilia;Pix
+12802;100029;12/01/2026;22:04:46;338.19;Entertainment;Brasilia;Debit Card
+12601;100030;12/01/2026;22:28:51;71.28;Restaurant;Campinas;Bank Transfer
+12557;100161;12/01/2026;22:41:10;245.28;Fuel;Campinas;Digital Wallet
+14002;100195;12/01/2026;23:54:31;83.33;Pharmacy;Recife;Debit Card
+13712;100131;12/02/2026;00:23:53;208.78;Pharmacy;Curitiba;Debit Card
+14388;100045;12/02/2026;00:25:29;189.25;Pharmacy;Campinas;Debit Card
+14692;100138;12/02/2026;02:33:42;286.68;Pharmacy;Sao Paulo;Pix
+12578;100036;12/02/2026;03:30:33;332.57;Utilities;Curitiba;Digital Wallet
+14601;100130;12/02/2026;04:18:14;383.36;Entertainment;Porto Alegre;Digital Wallet
+13349;100128;12/02/2026;04:23:33;502.71;Utilities;Brasilia;Debit Card
+13001;100052;12/02/2026;04:41:58;981.27;Online Shopping;Rio de Janeiro;Pix
+14218;100102;12/02/2026;05:45:27;1789.18;Electronics;Brasilia;Debit Card
+14605;100186;12/02/2026;07:09:22;194.62;Pharmacy;Sao Paulo;Pix
+14390;100005;12/02/2026;07:38:44;91.55;Transport;Belo Horizonte;Credit Card
+13009;100171;12/02/2026;08:03:06;219.77;Entertainment;Campinas;Pix
+13561;100102;12/02/2026;08:20:21;6651.13;Travel;Curitiba;Bank Transfer
+14282;100002;12/02/2026;09:05:32;815.59;Online Shopping;Curitiba;Bank Transfer
+14187;100217;12/02/2026;12:19:59;3287.46;Online Shopping;Rio de Janeiro;Pix
+13603;100032;12/02/2026;12:29:36;283.45;Groceries;Salvador;Credit Card
+13719;100050;12/02/2026;13:51:49;525.26;Entertainment;Porto Alegre;Debit Card
+13070;100217;12/02/2026;14:17:51;1308.03;Travel;Campinas;Pix
+12856;100026;12/02/2026;17:08:42;202.09;Restaurant;Campinas;Bank Transfer
+13945;100188;12/02/2026;19:42:53;172.73;Fuel;Porto Alegre;Digital Wallet
+14675;100177;12/02/2026;20:25:37;332.81;Entertainment;Porto Alegre;Bank Transfer
+14146;100049;12/02/2026;22:43:26;1013.67;Electronics;Porto Alegre;Debit Card
+14296;100138;12/02/2026;23:08:52;79.4;Pharmacy;Porto Alegre;Pix
+13277;100163;12/03/2026;00:16:15;106.08;Transport;Sao Paulo;Credit Card
+13118;100076;12/03/2026;00:50:13;4306.5;Travel;Porto Alegre;Digital Wallet
+13274;100038;12/03/2026;01:50:39;3551.73;Travel;Brasilia;Debit Card
+13757;100188;12/03/2026;01:58:09;1293.29;Travel;Sao Paulo;Credit Card
+13988;100180;12/03/2026;02:12:18;307.4;Utilities;Fortaleza;Bank Transfer
+14357;100038;12/03/2026;03:09:27;3596.02;Travel;Campinas;Pix
+14382;100063;12/03/2026;03:20:26;41.04;Pharmacy;Fortaleza;Debit Card
+14520;100193;12/03/2026;05:00:55;343.55;Utilities;Sao Paulo;Digital Wallet
+12834;100114;12/03/2026;05:38:12;236.59;Restaurant;Salvador;Digital Wallet
+12364;100136;12/03/2026;05:44:12;333.2;Entertainment;Recife;Debit Card
+12756;100139;12/03/2026;07:53:24;4508.93;Travel;Campinas;Debit Card
+13553;100025;12/03/2026;08:31:06;178.23;Groceries;Belo Horizonte;Pix
+12642;100027;12/03/2026;08:38:38;279.11;Groceries;Rio de Janeiro;Pix
+14569;100124;12/03/2026;08:52:18;1718.61;Travel;Rio de Janeiro;Credit Card
+14439;100020;12/03/2026;10:15:57;155.5;Fuel;Curitiba;Digital Wallet
+13041;100106;12/03/2026;11:30:24;74.98;Restaurant;Campinas;Debit Card
+14578;100144;12/03/2026;12:18:35;95.67;Restaurant;Recife;Bank Transfer
+13512;100185;12/03/2026;12:52:28;1835.31;Travel;Porto Alegre;Digital Wallet
+13254;100218;12/03/2026;15:02:31;619.04;Online Shopping;Campinas;Digital Wallet
+14224;100188;12/03/2026;15:34:48;178.64;Groceries;Brasilia;Digital Wallet
+12894;100133;12/03/2026;15:46:53;205.61;Groceries;Rio de Janeiro;Credit Card
+14570;100024;12/03/2026;15:59:20;260.4;Fuel;Sao Paulo;Debit Card
+13032;100027;12/03/2026;16:17:09;307.81;Restaurant;Fortaleza;Pix
+12957;100154;12/03/2026;16:54:23;631.56;Online Shopping;Salvador;Pix
+12772;100115;12/03/2026;17:22:10;106.96;Transport;Brasilia;Digital Wallet
+14833;100189;12/03/2026;17:26:55;468.01;Online Shopping;Porto Alegre;Credit Card
+14074;100005;12/03/2026;21:23:09;101.43;Pharmacy;Sao Paulo;Pix
+12425;100170;12/03/2026;22:22:27;571.1;Entertainment;Salvador;Bank Transfer
+14130;100036;13/01/2026;00:11:42;82.6;Pharmacy;Sao Paulo;Debit Card
+12816;100010;13/01/2026;01:39:40;300.59;Utilities;Fortaleza;Credit Card
+14325;100156;13/01/2026;02:43:12;164.09;Restaurant;Curitiba;Digital Wallet
+13410;100149;13/01/2026;02:45:58;56.71;Transport;Sao Paulo;Credit Card
+13987;100216;13/01/2026;03:41:20;452.17;Entertainment;Rio de Janeiro;Digital Wallet
+12549;100019;13/01/2026;03:54:20;921.55;Online Shopping;Belo Horizonte;Bank Transfer
+13645;100202;13/01/2026;04:17:09;854.05;Utilities;Fortaleza;Debit Card
+14206;100039;13/01/2026;04:41:09;4081.66;Utilities;Recife;Bank Transfer
+12752;100161;13/01/2026;06:13:10;300.47;Entertainment;Brasilia;Debit Card
+14056;100039;13/01/2026;06:25:30;136.31;Entertainment;Belo Horizonte;Debit Card
+12563;100069;13/01/2026;07:18:24;1238.24;Online Shopping;Curitiba;Debit Card
+12371;100064;13/01/2026;07:41:34;213.04;Pharmacy;Brasilia;Digital Wallet
+14850;100202;13/01/2026;08:45:00;4200.23;Online Shopping;Brasilia;Debit Card
+14851;100202;13/01/2026;08:47:00;3069.9;Travel;Brasilia;Bank Transfer
+14852;100202;13/01/2026;08:49:00;1212.51;Travel;Brasilia;Digital Wallet
+14853;100202;13/01/2026;08:51:00;3105.9;Online Shopping;Curitiba;Debit Card
+14854;100202;13/01/2026;08:53:00;3008.19;Online Shopping;Curitiba;Pix
+12434;100146;13/01/2026;12:40:13;172.98;Entertainment;Sao Paulo;Digital Wallet
+13745;100092;13/01/2026;13:07:56;669.11;Utilities;Brasilia;Pix
+13658;100040;13/01/2026;13:13:06;238.76;Entertainment;Rio de Janeiro;Digital Wallet
+13105;100200;13/01/2026;13:47:26;224.72;Pharmacy;Salvador;Debit Card
+12656;100085;13/01/2026;14:14:32;4058.83;Travel;Rio de Janeiro;Credit Card
+13858;100204;13/01/2026;16:41:44;279.5;Online Shopping;Curitiba;Pix
+12351;100198;13/01/2026;18:17:29;256.59;Fuel;Rio de Janeiro;Debit Card
+13374;100118;13/01/2026;18:44:02;1902.36;Travel;Belo Horizonte;Digital Wallet
+12811;100087;13/01/2026;19:42:46;276.91;Utilities;Fortaleza;Digital Wallet
+13609;100166;13/01/2026;19:46:19;136.54;Groceries;Rio de Janeiro;Bank Transfer
+14614;100027;13/01/2026;20:49:32;306.63;Restaurant;Rio de Janeiro;Credit Card
+12783;100044;13/01/2026;21:08:47;281.1;Utilities;Belo Horizonte;Pix
+12746;100097;13/01/2026;21:50:55;1598.59;Electronics;Fortaleza;Bank Transfer
+13966;100064;13/01/2026;22:45:30;410.03;Utilities;Campinas;Debit Card
+13874;100114;13/01/2026;23:37:13;152.59;Pharmacy;Brasilia;Debit Card
+13153;100205;13/01/2026;23:37:22;2078.16;Fuel;Porto Alegre;Pix
+14586;100099;13/01/2026;23:43:51;397.59;Entertainment;Belo Horizonte;Credit Card
+13331;100201;13/02/2026;00:12:06;93.1;Groceries;Brasilia;Digital Wallet
+13365;100099;13/02/2026;00:28:40;281.66;Restaurant;Brasilia;Credit Card
+14191;100130;13/02/2026;03:45:28;183.12;Pharmacy;Belo Horizonte;Bank Transfer
+12765;100175;13/02/2026;04:15:03;4052.42;Travel;Sao Paulo;Bank Transfer
+12872;100155;13/02/2026;05:07:30;169.47;Pharmacy;Curitiba;Bank Transfer
+14273;100084;13/02/2026;06:30:12;249.64;Utilities;Recife;Digital Wallet
+13088;100214;13/02/2026;07:21:50;994.93;Online Shopping;Sao Paulo;Credit Card
+14078;100092;13/02/2026;08:31:25;1525.76;Electronics;Rio de Janeiro;Bank Transfer
+13084;100015;13/02/2026;08:53:29;190.72;Pharmacy;Salvador;Digital Wallet
+14607;100113;13/02/2026;10:26:33;125.49;Fuel;Fortaleza;Debit Card
+13246;100117;13/02/2026;11:13:11;286.12;Online Shopping;Campinas;Pix
+13171;100044;13/02/2026;12:38:54;294.47;Pharmacy;Salvador;Debit Card
+14619;100013;13/02/2026;12:55:46;250.37;Pharmacy;Salvador;Credit Card
+12505;100135;13/02/2026;13:21:49;77.53;Pharmacy;Recife;Pix
+14336;100105;13/02/2026;13:31:59;163.83;Groceries;Salvador;Credit Card
+14119;100186;13/02/2026;13:38:30;43.26;Pharmacy;Brasilia;Bank Transfer
+13190;100024;13/02/2026;14:04:36;377.96;Entertainment;Rio de Janeiro;Digital Wallet
+13551;100197;13/02/2026;15:23:39;2389.04;Electronics;Brasilia;Debit Card
+13500;100026;13/02/2026;15:46:30;293.12;Pharmacy;Fortaleza;Digital Wallet
+14017;100114;13/02/2026;16:42:25;1481.36;Travel;Brasilia;Pix
+13262;100045;13/02/2026;19:07:39;267.59;Utilities;Sao Paulo;Credit Card
+13493;100135;13/02/2026;19:30:03;225.67;Fuel;Curitiba;Debit Card
+13900;100085;13/02/2026;20:33:49;173.55;Pharmacy;Belo Horizonte;Digital Wallet
+13240;100110;13/02/2026;20:43:14;163.2;Pharmacy;Sao Paulo;Digital Wallet
+13666;100045;13/02/2026;20:45:54;99.2;Transport;Salvador;Digital Wallet
+12659;100187;13/02/2026;20:50:13;68.91;Transport;Salvador;Pix
+14743;100050;13/02/2026;21:51:37;147.19;Fuel;Recife;Pix
+14895;100218;13/03/2026;01:26:00;4127.95;Electronics;Fortaleza;Pix
+14896;100218;13/03/2026;01:28:00;2120.46;Online Shopping;Fortaleza;Digital Wallet
+14897;100218;13/03/2026;01:30:00;3628.27;Travel;Fortaleza;Digital Wallet
+14898;100218;13/03/2026;01:32:00;3529.22;Online Shopping;Porto Alegre;Digital Wallet
+14899;100218;13/03/2026;01:34:00;3424.37;Online Shopping;Porto Alegre;Pix
+12826;100132;13/03/2026;02:13:12;164.72;Fuel;Fortaleza;Pix
+13403;100077;13/03/2026;05:11:16;208.04;Entertainment;Fortaleza;Debit Card
+13682;100196;13/03/2026;05:21:59;268.69;Groceries;Belo Horizonte;Debit Card
+14416;100032;13/03/2026;07:38:46;397.67;Entertainment;Fortaleza;Bank Transfer
+12852;100187;13/03/2026;10:07:02;239.86;Electronics;Sao Paulo;Digital Wallet
+14072;100199;13/03/2026;11:38:28;95.31;Transport;Brasilia;Bank Transfer
+14836;100092;13/03/2026;14:49:36;1727.24;Travel;Porto Alegre;Credit Card
+12490;100143;13/03/2026;16:42:07;167.48;Groceries;Campinas;Digital Wallet
+12472;100060;13/03/2026;16:58:39;454.04;Online Shopping;Sao Paulo;Digital Wallet
+12470;100020;13/03/2026;17:05:50;57.58;Transport;Curitiba;Bank Transfer
+13049;100095;13/03/2026;17:07:55;1792.21;Utilities;Sao Paulo;Credit Card
+14085;100191;13/03/2026;17:32:24;139.95;Entertainment;Porto Alegre;Pix
+12602;100107;13/03/2026;20:43:51;2806.02;Online Shopping;Campinas;Credit Card
+12613;100143;13/03/2026;21:03:22;479.65;Entertainment;Belo Horizonte;Bank Transfer
+14311;100101;13/03/2026;22:47:00;174.66;Fuel;Fortaleza;Credit Card
+13892;100084;13/03/2026;22:52:18;322.55;Entertainment;Fortaleza;Pix
+13390;100218;14/01/2026;01:20:40;325.58;Entertainment;Belo Horizonte;Pix
+13385;100087;14/01/2026;03:10:46;101.52;Restaurant;Rio de Janeiro;Debit Card
+12586;100026;14/01/2026;03:49:08;492.94;Travel;Salvador;Bank Transfer
+14438;100158;14/01/2026;05:27:51;131.33;Restaurant;Recife;Debit Card
+14885;100044;14/01/2026;05:30:00;4240.71;Online Shopping;Brasilia;Bank Transfer
+14886;100044;14/01/2026;05:32:00;2896.52;Electronics;Brasilia;Pix
+14887;100044;14/01/2026;05:34:00;1475.49;Travel;Brasilia;Debit Card
+14888;100044;14/01/2026;05:36:00;2891.88;Online Shopping;Recife;Pix
+14889;100044;14/01/2026;05:38:00;4065.77;Online Shopping;Recife;Bank Transfer
+13611;100127;14/01/2026;06:14:03;209.65;Pharmacy;Salvador;Digital Wallet
+12777;100134;14/01/2026;06:32:42;508.84;Entertainment;Recife;Digital Wallet
+13694;100069;14/01/2026;07:22:57;1253.19;Electronics;Fortaleza;Digital Wallet
+13943;100125;14/01/2026;08:46:38;385.7;Fuel;Curitiba;Digital Wallet
+12989;100164;14/01/2026;10:11:01;293.82;Fuel;Belo Horizonte;Debit Card
+12884;100206;14/01/2026;10:27:41;1615.15;Electronics;Recife;Pix
+12719;100200;14/01/2026;11:28:29;187.57;Entertainment;Rio de Janeiro;Debit Card
+12860;100092;14/01/2026;11:41:38;132.97;Fuel;Brasilia;Digital Wallet
+13880;100176;14/01/2026;13:13:19;392.64;Utilities;Belo Horizonte;Debit Card
+14253;100121;14/01/2026;14:10:37;2780.95;Electronics;Recife;Digital Wallet
+12658;100039;14/01/2026;15:26:58;2927.35;Electronics;Sao Paulo;Bank Transfer
+14262;100184;14/01/2026;16:13:28;72.95;Pharmacy;Sao Paulo;Bank Transfer
+13618;100210;14/01/2026;16:13:52;3259.33;Travel;Curitiba;Bank Transfer
+14412;100023;14/01/2026;16:52:20;880.12;Electronics;Porto Alegre;Bank Transfer
+13387;100110;14/01/2026;17:20:11;33.67;Pharmacy;Curitiba;Debit Card
+13983;100204;14/01/2026;17:43:11;150.89;Pharmacy;Porto Alegre;Pix
+14435;100117;14/01/2026;18:03:35;4884.47;Travel;Fortaleza;Debit Card
+13761;100187;14/01/2026;20:14:36;6079.25;Travel;Salvador;Digital Wallet
+13338;100077;14/01/2026;20:56:50;5251.6;Travel;Salvador;Debit Card
+12950;100034;14/01/2026;21:12:06;21.56;Transport;Sao Paulo;Debit Card
+14540;100016;14/01/2026;21:37:33;400.59;Groceries;Fortaleza;Credit Card
+13521;100140;14/01/2026;23:18:06;135.39;Pharmacy;Sao Paulo;Credit Card
+14589;100068;14/01/2026;23:22:43;1039.87;Electronics;Porto Alegre;Debit Card
+14063;100081;14/02/2026;00:50:21;962.84;Online Shopping;Porto Alegre;Digital Wallet
+14221;100107;14/02/2026;01:23:21;36.12;Groceries;Sao Paulo;Pix
+13420;100134;14/02/2026;01:27:21;195.83;Fuel;Brasilia;Bank Transfer
+12637;100026;14/02/2026;01:49:39;5758.0;Travel;Curitiba;Credit Card
+13128;100166;14/02/2026;02:41:50;1097.42;Electronics;Recife;Digital Wallet
+14457;100159;14/02/2026;03:47:59;197.44;Groceries;Brasilia;Debit Card
+12684;100148;14/02/2026;03:48:03;24.29;Transport;Campinas;Bank Transfer
+14689;100174;14/02/2026;05:52:09;125.25;Groceries;Fortaleza;Bank Transfer
+12526;100112;14/02/2026;06:26:03;114.8;Pharmacy;Curitiba;Bank Transfer
+13066;100113;14/02/2026;07:41:16;94.91;Transport;Curitiba;Digital Wallet
+14697;100048;14/02/2026;10:46:23;508.67;Entertainment;Brasilia;Debit Card
+13954;100198;14/02/2026;11:54:31;627.85;Utilities;Salvador;Bank Transfer
+13141;100099;14/02/2026;17:19:28;2462.2;Electronics;Sao Paulo;Pix
+13183;100088;14/02/2026;17:26:22;1051.87;Travel;Rio de Janeiro;Bank Transfer
+12506;100030;14/02/2026;17:46:52;471.99;Utilities;Fortaleza;Debit Card
+12693;100193;14/02/2026;19:20:50;72.03;Pharmacy;Campinas;Bank Transfer
+14358;100141;14/02/2026;19:40:04;5382.76;Travel;Campinas;Bank Transfer
+14729;100023;14/02/2026;19:44:02;1960.95;Travel;Curitiba;Bank Transfer
+13257;100042;14/02/2026;20:14:32;166.71;Fuel;Curitiba;Bank Transfer
+13811;100014;14/02/2026;20:25:10;126.0;Pharmacy;Porto Alegre;Debit Card
+12870;100058;14/02/2026;21:50:30;5538.6;Utilities;Recife;Pix
+12492;100169;14/02/2026;23:23:07;1057.36;Online Shopping;Curitiba;Credit Card
+12912;100081;14/03/2026;00:03:25;316.85;Online Shopping;Porto Alegre;Pix
+12961;100177;14/03/2026;00:59:36;152.77;Fuel;Fortaleza;Digital Wallet
+14593;100121;14/03/2026;01:20:56;90.48;Transport;Fortaleza;Debit Card
+14433;100119;14/03/2026;02:17:30;742.48;Electronics;Porto Alegre;Pix
+14289;100180;14/03/2026;03:33:57;125.69;Transport;Porto Alegre;Digital Wallet
+13120;100094;14/03/2026;04:49:13;36.27;Transport;Fortaleza;Credit Card
+13656;100180;14/03/2026;05:31:08;112.74;Restaurant;Fortaleza;Debit Card
+12691;100035;14/03/2026;06:39:41;38.79;Transport;Rio de Janeiro;Digital Wallet
+12717;100210;14/03/2026;07:27:42;5894.23;Travel;Rio de Janeiro;Digital Wallet
+14837;100139;14/03/2026;07:32:48;218.9;Fuel;Recife;Bank Transfer
+12545;100061;14/03/2026;07:38:09;1841.72;Electronics;Salvador;Bank Transfer
+14745;100017;14/03/2026;07:52:01;36.58;Transport;Campinas;Debit Card
+12558;100044;14/03/2026;07:52:55;73.43;Entertainment;Campinas;Pix
+14501;100216;14/03/2026;08:19:38;58.31;Transport;Curitiba;Bank Transfer
+13960;100099;14/03/2026;08:20:14;122.79;Pharmacy;Porto Alegre;Digital Wallet
+14271;100192;14/03/2026;09:15:57;2049.48;Travel;Sao Paulo;Credit Card
+14350;100146;14/03/2026;09:18:01;235.36;Restaurant;Belo Horizonte;Pix
+13762;100060;14/03/2026;09:41:19;554.65;Online Shopping;Salvador;Bank Transfer
+13234;100168;14/03/2026;10:13:55;88.43;Entertainment;Brasilia;Pix
+14387;100115;14/03/2026;10:46:04;137.54;Pharmacy;Porto Alegre;Bank Transfer
+13963;100113;14/03/2026;12:26:11;4720.22;Travel;Fortaleza;Digital Wallet
+14193;100004;14/03/2026;12:26:51;105.08;Transport;Curitiba;Bank Transfer
+13970;100017;14/03/2026;14:57:46;400.65;Electronics;Rio de Janeiro;Pix
+13042;100178;14/03/2026;16:34:44;164.71;Entertainment;Recife;Bank Transfer
+13947;100200;14/03/2026;18:38:33;1251.27;Online Shopping;Fortaleza;Digital Wallet
+13830;100118;14/03/2026;20:02:04;191.36;Entertainment;Curitiba;Digital Wallet
+14150;100063;14/03/2026;20:34:21;1541.09;Travel;Brasilia;Pix
+13702;100137;14/03/2026;22:16:10;1496.32;Online Shopping;Recife;Digital Wallet
+13317;100211;14/03/2026;22:31:10;3086.39;Travel;Rio de Janeiro;Pix
+13717;100167;14/03/2026;22:36:40;142.46;Pharmacy;Rio de Janeiro;Debit Card
+14352;100076;14/03/2026;23:03:26;536.98;Transport;Recife;Bank Transfer
+12958;100212;14/03/2026;23:13:24;2083.14;Electronics;Campinas;Debit Card
+13083;100001;14/03/2026;23:59:22;2227.41;Travel;Brasilia;Credit Card
+14108;100129;15/01/2026;00:00:16;716.04;Utilities;Sao Paulo;Digital Wallet
+12415;100156;15/01/2026;00:01:59;100.9;Pharmacy;Belo Horizonte;Pix
+14794;100128;15/01/2026;00:07:33;2203.4;Travel;Porto Alegre;Credit Card
+13013;100054;15/01/2026;00:46:40;171.97;Restaurant;Campinas;Credit Card
+13417;100067;15/01/2026;02:10:05;2085.2;Travel;Brasilia;Digital Wallet
+14039;100172;15/01/2026;06:51:08;203.73;Pharmacy;Salvador;Digital Wallet
+13132;100171;15/01/2026;07:20:36;35.03;Transport;Belo Horizonte;Debit Card
+14484;100085;15/01/2026;07:28:37;242.87;Entertainment;Sao Paulo;Credit Card
+13768;100032;15/01/2026;07:56:27;66.47;Transport;Curitiba;Bank Transfer
+13626;100013;15/01/2026;07:57:02;182.45;Restaurant;Rio de Janeiro;Debit Card
+14096;100008;15/01/2026;08:46:15;675.02;Online Shopping;Belo Horizonte;Credit Card
+12949;100073;15/01/2026;09:33:42;556.4;Electronics;Recife;Pix
+12818;100154;15/01/2026;09:48:42;454.39;Online Shopping;Salvador;Bank Transfer
+12473;100211;15/01/2026;10:02:02;528.74;Online Shopping;Porto Alegre;Bank Transfer
+12357;100131;15/01/2026;10:40:10;1104.99;Online Shopping;Rio de Janeiro;Credit Card
+13915;100133;15/01/2026;11:01:31;42.33;Transport;Belo Horizonte;Pix
+14543;100208;15/01/2026;11:03:13;2987.13;Travel;Rio de Janeiro;Debit Card
+12999;100166;15/01/2026;11:49:37;1419.99;Online Shopping;Rio de Janeiro;Digital Wallet
+14000;100033;15/01/2026;11:57:50;163.23;Restaurant;Rio de Janeiro;Credit Card
+14003;100010;15/01/2026;13:02:53;607.67;Online Shopping;Brasilia;Credit Card
+14342;100135;15/01/2026;13:19:57;236.13;Fuel;Porto Alegre;Credit Card
+12696;100201;15/01/2026;13:31:40;186.85;Restaurant;Brasilia;Bank Transfer
+12359;100175;15/01/2026;15:27:10;368.73;Utilities;Porto Alegre;Pix
+14109;100043;15/01/2026;16:46:53;243.4;Restaurant;Salvador;Bank Transfer
+14505;100203;15/01/2026;17:27:02;132.18;Pharmacy;Campinas;Bank Transfer
+12444;100023;15/01/2026;18:55:32;18990.89;Electronics;Porto Alegre;Pix
+13228;100067;15/01/2026;21:02:28;54.41;Transport;Brasilia;Bank Transfer
+12531;100204;15/01/2026;21:38:34;61.86;Entertainment;Brasilia;Credit Card
+13166;100195;15/01/2026;22:08:31;2072.8;Electronics;Rio de Janeiro;Bank Transfer
+12437;100203;15/01/2026;23:14:41;135.97;Entertainment;Curitiba;Bank Transfer
+13039;100123;15/02/2026;01:36:08;730.83;Online Shopping;Belo Horizonte;Pix
+14545;100137;15/02/2026;02:10:23;402.58;Groceries;Brasilia;Digital Wallet
+13800;100126;15/02/2026;02:33:28;2291.33;Electronics;Campinas;Pix
+13774;100120;15/02/2026;02:35:56;161.68;Entertainment;Belo Horizonte;Credit Card
+13596;100071;15/02/2026;04:35:41;519.6;Online Shopping;Curitiba;Credit Card
+14340;100045;15/02/2026;07:52:27;167.62;Restaurant;Porto Alegre;Pix
+12838;100078;15/02/2026;08:50:45;541.13;Online Shopping;Campinas;Digital Wallet
+13679;100058;15/02/2026;08:55:55;153.5;Fuel;Porto Alegre;Bank Transfer
+13664;100009;15/02/2026;10:29:56;337.95;Entertainment;Brasilia;Credit Card
+14448;100090;15/02/2026;11:15:40;173.3;Restaurant;Salvador;Digital Wallet
+13162;100217;15/02/2026;11:54:32;299.98;Fuel;Campinas;Pix
+12794;100112;15/02/2026;12:10:58;122.35;Transport;Salvador;Bank Transfer
+13844;100197;15/02/2026;12:26:57;3299.4;Travel;Fortaleza;Bank Transfer
+14264;100052;15/02/2026;12:55:42;110.42;Transport;Curitiba;Bank Transfer
+14301;100015;15/02/2026;16:24:43;122.56;Entertainment;Sao Paulo;Debit Card
+13601;100105;15/02/2026;18:01:07;158.47;Fuel;Campinas;Digital Wallet
+13165;100048;15/02/2026;18:27:13;737.69;Online Shopping;Rio de Janeiro;Debit Card
+14657;100060;15/02/2026;18:57:37;312.59;Online Shopping;Brasilia;Bank Transfer
+14283;100072;15/02/2026;20:35:44;111.13;Groceries;Recife;Pix
+12805;100003;15/02/2026;20:39:17;114.11;Transport;Belo Horizonte;Pix
+13445;100110;15/02/2026;21:11:03;34.03;Transport;Sao Paulo;Credit Card
+12849;100017;15/02/2026;22:06:18;370.12;Entertainment;Sao Paulo;Credit Card
+12899;100057;15/02/2026;22:34:00;214.21;Restaurant;Salvador;Bank Transfer
+13019;100030;15/03/2026;01:01:53;828.25;Electronics;Salvador;Bank Transfer
+12590;100075;15/03/2026;01:06:59;402.0;Groceries;Sao Paulo;Pix
+13683;100016;15/03/2026;01:44:53;233.24;Restaurant;Brasilia;Credit Card
+14726;100125;15/03/2026;02:29:51;5363.85;Travel;Porto Alegre;Pix
+12808;100027;15/03/2026;03:28:11;3355.58;Travel;Campinas;Bank Transfer
+13230;100214;15/03/2026;03:37:13;75.05;Transport;Fortaleza;Pix
+13795;100090;15/03/2026;04:05:36;250.25;Pharmacy;Salvador;Bank Transfer
+13061;100016;15/03/2026;07:42:18;1133.69;Online Shopping;Campinas;Debit Card
+13444;100192;15/03/2026;09:43:50;347.47;Restaurant;Sao Paulo;Pix
+13750;100079;15/03/2026;11:34:13;1084.36;Online Shopping;Recife;Debit Card
+14022;100191;15/03/2026;12:09:26;188.31;Entertainment;Belo Horizonte;Bank Transfer
+12847;100204;15/03/2026;13:58:16;203.38;Fuel;Fortaleza;Credit Card
+13923;100119;15/03/2026;14:48:57;129.34;Entertainment;Fortaleza;Digital Wallet
+14597;100193;15/03/2026;17:00:39;114.65;Groceries;Rio de Janeiro;Credit Card
+14242;100010;15/03/2026;17:01:42;1408.19;Online Shopping;Curitiba;Credit Card
+13433;100088;15/03/2026;17:08:54;187.37;Entertainment;Curitiba;Credit Card
+13554;100076;15/03/2026;17:22:05;28.27;Transport;Rio de Janeiro;Pix
+14110;100102;15/03/2026;17:47:26;498.37;Utilities;Recife;Debit Card
+12733;100069;15/03/2026;18:22:59;611.78;Utilities;Sao Paulo;Debit Card
+13364;100085;15/03/2026;18:24:13;487.21;Entertainment;Campinas;Digital Wallet
+12668;100100;15/03/2026;18:27:11;2811.75;Travel;Campinas;Debit Card
+12559;100165;15/03/2026;19:39:40;75.03;Entertainment;Porto Alegre;Debit Card
+13528;100202;15/03/2026;19:46:17;374.71;Online Shopping;Rio de Janeiro;Credit Card
+14499;100092;15/03/2026;20:32:23;1755.4;Utilities;Fortaleza;Debit Card
+13180;100173;15/03/2026;21:30:35;1218.3;Online Shopping;Fortaleza;Digital Wallet
+12600;100016;15/03/2026;23:09:10;310.81;Utilities;Fortaleza;Debit Card
+13010;100173;15/03/2026;23:11:29;289.57;Fuel;Campinas;Digital Wallet
+14583;100111;15/03/2026;23:53:55;7558.84;Electronics;Brasilia;Digital Wallet
+12673;100198;16/01/2026;00:07:17;1077.19;Online Shopping;Fortaleza;Digital Wallet
+14514;100023;16/01/2026;00:57:48;425.64;Fuel;Rio de Janeiro;Debit Card
+13063;100072;16/01/2026;01:11:58;245.27;Fuel;Porto Alegre;Credit Card
+14492;100153;16/01/2026;01:28:51;102.4;Fuel;Campinas;Digital Wallet
+12931;100018;16/01/2026;02:29:39;62.62;Transport;Belo Horizonte;Pix
+13463;100020;16/01/2026;03:35:26;127.51;Fuel;Rio de Janeiro;Digital Wallet
+13125;100020;16/01/2026;04:09:31;74.16;Pharmacy;Belo Horizonte;Pix
+14337;100203;16/01/2026;05:08:27;1168.41;Groceries;Fortaleza;Credit Card
+12703;100156;16/01/2026;06:45:08;248.91;Groceries;Porto Alegre;Debit Card
+14042;100162;16/01/2026;07:45:08;874.89;Electronics;Rio de Janeiro;Digital Wallet
+13074;100214;16/01/2026;08:54:38;93.07;Restaurant;Campinas;Credit Card
+14464;100005;16/01/2026;10:17:12;119.51;Pharmacy;Curitiba;Bank Transfer
+14113;100007;16/01/2026;12:11:52;275.83;Groceries;Sao Paulo;Pix
+12938;100187;16/01/2026;14:30:40;141.8;Groceries;Fortaleza;Digital Wallet
+13393;100004;16/01/2026;15:15:47;150.86;Restaurant;Sao Paulo;Digital Wallet
+13733;100026;16/01/2026;15:17:31;1307.39;Electronics;Porto Alegre;Debit Card
+14069;100166;16/01/2026;15:46:03;224.11;Restaurant;Campinas;Digital Wallet
+13287;100031;16/01/2026;17:36:18;82.7;Entertainment;Recife;Credit Card
+13906;100091;16/01/2026;18:01:28;316.04;Groceries;Belo Horizonte;Bank Transfer
+14323;100135;16/01/2026;18:46:14;309.12;Fuel;Campinas;Pix
+13724;100047;16/01/2026;19:16:48;782.75;Online Shopping;Sao Paulo;Debit Card
+13678;100201;16/01/2026;21:14:03;446.24;Utilities;Porto Alegre;Credit Card
+12815;100220;16/01/2026;21:47:41;157.3;Online Shopping;Brasilia;Pix
+13929;100025;16/01/2026;23:45:18;92.19;Restaurant;Brasilia;Credit Card
+12732;100072;16/02/2026;00:14:10;92.24;Groceries;Brasilia;Digital Wallet
+13885;100002;16/02/2026;02:51:08;6075.45;Travel;Sao Paulo;Bank Transfer
+13952;100206;16/02/2026;03:22:22;390.17;Groceries;Brasilia;Pix
+14114;100065;16/02/2026;03:25:00;962.13;Online Shopping;Rio de Janeiro;Bank Transfer
+12579;100118;16/02/2026;03:49:55;520.27;Utilities;Salvador;Digital Wallet
+13828;100163;16/02/2026;05:02:34;261.85;Groceries;Campinas;Credit Card
+13532;100192;16/02/2026;06:13:54;52.92;Restaurant;Rio de Janeiro;Debit Card
+14581;100170;16/02/2026;06:23:51;825.66;Online Shopping;Campinas;Credit Card
+14055;100082;16/02/2026;06:27:50;4502.08;Travel;Belo Horizonte;Bank Transfer
+13341;100075;16/02/2026;07:01:12;431.4;Online Shopping;Curitiba;Digital Wallet
+12706;100020;16/02/2026;07:31:54;796.9;Online Shopping;Brasilia;Digital Wallet
+13524;100020;16/02/2026;08:57:02;286.84;Entertainment;Salvador;Credit Card
+13536;100153;16/02/2026;10:05:15;29.1;Transport;Sao Paulo;Debit Card
+13533;100035;16/02/2026;10:18:29;72.9;Pharmacy;Sao Paulo;Pix
+13590;100047;16/02/2026;12:25:06;574.64;Pharmacy;Rio de Janeiro;Bank Transfer
+13964;100161;16/02/2026;14:27:23;203.04;Entertainment;Recife;Pix
+12972;100023;16/02/2026;17:12:20;106.15;Pharmacy;Recife;Bank Transfer
+14338;100050;16/02/2026;18:25:56;219.39;Groceries;Fortaleza;Debit Card
+13051;100036;16/02/2026;19:09:18;364.71;Restaurant;Fortaleza;Bank Transfer
+13675;100053;16/02/2026;19:36:34;314.51;Groceries;Belo Horizonte;Credit Card
+14037;100178;16/02/2026;22:54:50;206.92;Fuel;Recife;Pix
+13693;100220;16/02/2026;23:18:55;201.61;Restaurant;Brasilia;Pix
+13431;100126;16/03/2026;01:04:41;105.94;Pharmacy;Salvador;Debit Card
+14748;100001;16/03/2026;01:13:04;282.12;Utilities;Recife;Credit Card
+14314;100174;16/03/2026;02:42:42;283.67;Fuel;Belo Horizonte;Digital Wallet
+14461;100135;16/03/2026;03:20:08;37.45;Transport;Salvador;Credit Card
+12828;100091;16/03/2026;03:45:26;489.74;Utilities;Brasilia;Digital Wallet
+14740;100033;16/03/2026;03:52:34;302.28;Entertainment;Brasilia;Debit Card
+13279;100167;16/03/2026;05:00:29;105.25;Pharmacy;Brasilia;Pix
+13059;100121;16/03/2026;05:21:26;573.91;Online Shopping;Fortaleza;Bank Transfer
+12810;100168;16/03/2026;05:36:14;3064.8;Electronics;Sao Paulo;Digital Wallet
+14256;100105;16/03/2026;05:49:53;117.03;Groceries;Fortaleza;Pix
+13163;100130;16/03/2026;06:33:13;334.54;Entertainment;Rio de Janeiro;Credit Card
+14633;100118;16/03/2026;07:40:11;481.79;Utilities;Porto Alegre;Debit Card
+13716;100149;16/03/2026;07:42:46;774.7;Electronics;Curitiba;Bank Transfer
+13442;100101;16/03/2026;07:54:59;177.66;Pharmacy;Belo Horizonte;Pix
+14122;100206;16/03/2026;09:44:33;387.23;Utilities;Sao Paulo;Pix
+13418;100071;16/03/2026;13:30:31;168.91;Pharmacy;Salvador;Credit Card
+14485;100065;16/03/2026;13:34:49;360.96;Groceries;Sao Paulo;Pix
+12391;100008;16/03/2026;14:02:06;152.23;Pharmacy;Porto Alegre;Debit Card
+12862;100005;16/03/2026;18:49:37;261.42;Utilities;Sao Paulo;Digital Wallet
+12471;100032;16/03/2026;18:52:40;1427.56;Online Shopping;Salvador;Pix
+12508;100198;16/03/2026;20:43:59;1276.53;Online Shopping;Brasilia;Digital Wallet
+13347;100162;16/03/2026;21:13:46;132.78;Fuel;Belo Horizonte;Digital Wallet
+13946;100004;16/03/2026;21:14:37;121.24;Pharmacy;Brasilia;Debit Card
+14648;100097;16/03/2026;21:57:11;379.38;Entertainment;Belo Horizonte;Digital Wallet
+14148;100142;16/03/2026;22:11:07;1963.84;Electronics;Curitiba;Bank Transfer
+13138;100084;16/03/2026;22:14:50;356.64;Groceries;Campinas;Debit Card
+13640;100071;16/03/2026;22:44:21;319.51;Fuel;Curitiba;Credit Card
+13731;100013;16/03/2026;22:54:59;222.95;Entertainment;Fortaleza;Digital Wallet
+14725;100032;17/01/2026;00:04:22;107.7;Transport;Sao Paulo;Debit Card
+13147;100040;17/01/2026;02:42:57;179.56;Fuel;Porto Alegre;Bank Transfer
+14260;100033;17/01/2026;03:15:08;332.33;Entertainment;Belo Horizonte;Digital Wallet
+13012;100017;17/01/2026;04:55:17;187.56;Fuel;Brasilia;Debit Card
+13655;100145;17/01/2026;05:37:43;733.95;Online Shopping;Salvador;Credit Card
+13036;100137;17/01/2026;08:52:51;245.15;Pharmacy;Brasilia;Digital Wallet
+13249;100177;17/01/2026;10:00:12;12208.18;Travel;Porto Alegre;Credit Card
+12363;100188;17/01/2026;10:42:30;1448.6;Online Shopping;Rio de Janeiro;Digital Wallet
+14255;100208;17/01/2026;11:47:52;314.18;Groceries;Brasilia;Debit Card
+13005;100115;17/01/2026;12:00:39;1912.7;Fuel;Belo Horizonte;Credit Card
+13158;100033;17/01/2026;12:08:05;60.17;Transport;Curitiba;Pix
+14700;100177;17/01/2026;13:27:27;81.65;Restaurant;Salvador;Debit Card
+12446;100014;17/01/2026;15:28:56;213.5;Restaurant;Porto Alegre;Digital Wallet
+14285;100046;17/01/2026;15:29:03;203.69;Restaurant;Curitiba;Debit Card
+14371;100052;17/01/2026;16:22:45;1398.5;Online Shopping;Curitiba;Credit Card
+13182;100016;17/01/2026;17:22:51;2224.71;Groceries;Campinas;Credit Card
+14315;100041;17/01/2026;17:46:46;305.11;Groceries;Curitiba;Bank Transfer
+13726;100136;17/01/2026;18:44:35;1908.34;Travel;Recife;Pix
+13913;100064;17/01/2026;22:09:08;87.31;Transport;Campinas;Credit Card
+12454;100170;17/01/2026;22:37:21;112.48;Transport;Brasilia;Credit Card
+13223;100098;17/01/2026;23:02:37;158.35;Fuel;Recife;Pix
+13904;100007;17/01/2026;23:22:04;310.52;Utilities;Campinas;Credit Card
+12554;100116;17/01/2026;23:40:37;415.38;Online Shopping;Fortaleza;Pix
+12350;100021;17/02/2026;00:12:45;179.45;Utilities;Porto Alegre;Digital Wallet
+12962;100092;17/02/2026;00:15:14;46.48;Transport;Belo Horizonte;Pix
+14768;100047;17/02/2026;02:34:14;231.93;Fuel;Sao Paulo;Bank Transfer
+14286;100035;17/02/2026;02:48:56;270.1;Groceries;Rio de Janeiro;Debit Card
+13868;100210;17/02/2026;03:02:25;460.65;Utilities;Curitiba;Debit Card
+14672;100035;17/02/2026;03:03:23;230.71;Fuel;Brasilia;Debit Card
+13497;100004;17/02/2026;05:51:23;535.55;Utilities;Belo Horizonte;Pix
+12791;100002;17/02/2026;06:57:20;268.51;Groceries;Fortaleza;Debit Card
+13557;100094;17/02/2026;08:43:26;394.76;Utilities;Campinas;Pix
+13477;100109;17/02/2026;09:21:58;936.52;Online Shopping;Recife;Debit Card
+13361;100113;17/02/2026;10:36:55;355.26;Online Shopping;Fortaleza;Credit Card
+13652;100202;17/02/2026;10:39:34;284.11;Restaurant;Campinas;Digital Wallet
+12754;100100;17/02/2026;11:28:02;47.02;Transport;Salvador;Bank Transfer
+13314;100179;17/02/2026;12:28:00;675.82;Groceries;Rio de Janeiro;Bank Transfer
+13278;100109;17/02/2026;14:40:32;322.48;Utilities;Rio de Janeiro;Credit Card
+14534;100008;17/02/2026;14:51:25;4940.58;Travel;Belo Horizonte;Debit Card
+14181;100010;17/02/2026;15:07:38;286.17;Restaurant;Rio de Janeiro;Digital Wallet
+12690;100188;17/02/2026;15:08:24;194.28;Pharmacy;Rio de Janeiro;Pix
+12380;100034;17/02/2026;15:10:28;2306.47;Electronics;Rio de Janeiro;Debit Card
+13130;100203;17/02/2026;15:49:54;120.24;Fuel;Curitiba;Bank Transfer
+12569;100031;17/02/2026;16:35:23;94.84;Transport;Rio de Janeiro;Bank Transfer
+14407;100130;17/02/2026;17:01:41;131.3;Pharmacy;Fortaleza;Bank Transfer
+14733;100152;17/02/2026;17:07:10;753.96;Online Shopping;Sao Paulo;Debit Card
+12630;100091;17/02/2026;18:29:36;171.23;Fuel;Recife;Credit Card
+12657;100177;17/02/2026;18:29:49;318.11;Entertainment;Curitiba;Bank Transfer
+13011;100010;17/02/2026;18:52:04;190.18;Pharmacy;Porto Alegre;Pix
+12539;100168;17/02/2026;19:56:25;2016.96;Electronics;Porto Alegre;Credit Card
+13405;100049;17/02/2026;21:25:59;168.69;Groceries;Sao Paulo;Digital Wallet
+13238;100155;17/02/2026;22:12:31;61.97;Transport;Salvador;Credit Card
+12562;100082;17/02/2026;22:35:06;1084.63;Electronics;Recife;Debit Card
+14793;100192;17/02/2026;23:09:55;209.24;Fuel;Fortaleza;Credit Card
+12886;100201;17/02/2026;23:35:30;279.07;Utilities;Brasilia;Debit Card
+13172;100215;17/03/2026;00:17:48;4317.94;Travel;Brasilia;Pix
+13358;100211;17/03/2026;02:00:30;1778.42;Electronics;Recife;Bank Transfer
+13847;100119;17/03/2026;02:26:26;58.91;Transport;Rio de Janeiro;Bank Transfer
+13531;100138;17/03/2026;04:26:33;183.07;Restaurant;Recife;Credit Card
+13775;100050;17/03/2026;05:19:23;253.65;Fuel;Porto Alegre;Bank Transfer
+13908;100032;17/03/2026;05:33:07;76.55;Pharmacy;Belo Horizonte;Digital Wallet
+12535;100018;17/03/2026;05:48:21;737.28;Electronics;Curitiba;Credit Card
+13363;100177;17/03/2026;06:36:50;144.48;Utilities;Porto Alegre;Pix
+13112;100084;17/03/2026;10:58:36;5135.35;Travel;Campinas;Debit Card
+13161;100201;17/03/2026;12:11:42;107.3;Pharmacy;Campinas;Debit Card
+14716;100172;17/03/2026;12:37:20;124.26;Pharmacy;Campinas;Bank Transfer
+14274;100185;17/03/2026;12:40:25;3641.08;Travel;Porto Alegre;Pix
+13730;100083;17/03/2026;14:49:06;464.1;Online Shopping;Belo Horizonte;Digital Wallet
+13598;100072;17/03/2026;15:10:50;1781.19;Travel;Rio de Janeiro;Digital Wallet
+13891;100199;17/03/2026;15:36:12;3130.52;Travel;Belo Horizonte;Debit Card
+14209;100101;17/03/2026;15:39:53;750.72;Online Shopping;Rio de Janeiro;Pix
+12481;100034;17/03/2026;16:01:11;134.53;Groceries;Salvador;Debit Card
+13804;100048;17/03/2026;16:23:36;597.82;Online Shopping;Belo Horizonte;Bank Transfer
+13697;100128;17/03/2026;18:19:52;381.24;Groceries;Porto Alegre;Pix
+14279;100025;17/03/2026;19:07:17;230.09;Groceries;Porto Alegre;Credit Card
+14817;100118;17/03/2026;19:37:54;408.92;Utilities;Rio de Janeiro;Pix
+13434;100189;17/03/2026;23:12:54;162.1;Groceries;Porto Alegre;Credit Card
+14602;100146;17/03/2026;23:36:13;636.1;Utilities;Brasilia;Bank Transfer
+14329;100200;18/01/2026;01:33:59;636.58;Travel;Rio de Janeiro;Digital Wallet
+12552;100147;18/01/2026;01:56:05;553.34;Electronics;Brasilia;Digital Wallet
+13332;100018;18/01/2026;02:32:16;200.2;Entertainment;Curitiba;Digital Wallet
+14650;100055;18/01/2026;02:59:53;528.5;Entertainment;Porto Alegre;Digital Wallet
+13668;100182;18/01/2026;04:20:37;747.85;Utilities;Fortaleza;Pix
+12807;100123;18/01/2026;04:46:03;6206.39;Travel;Belo Horizonte;Credit Card
+14232;100063;18/01/2026;05:46:16;401.79;Online Shopping;Sao Paulo;Credit Card
+14422;100208;18/01/2026;06:56:02;948.84;Travel;Salvador;Credit Card
+13333;100159;18/01/2026;07:03:08;535.43;Online Shopping;Belo Horizonte;Debit Card
+14584;100142;18/01/2026;08:50:29;155.83;Groceries;Campinas;Pix
+12723;100064;18/01/2026;09:00:03;211.21;Pharmacy;Brasilia;Credit Card
+12519;100088;18/01/2026;10:04:18;1198.81;Online Shopping;Curitiba;Debit Card
+13860;100146;18/01/2026;10:33:18;109.8;Fuel;Campinas;Credit Card
+14649;100080;18/01/2026;11:46:48;898.3;Groceries;Rio de Janeiro;Digital Wallet
+14599;100059;18/01/2026;12:02:02;682.41;Online Shopping;Sao Paulo;Digital Wallet
+14261;100064;18/01/2026;12:17:07;209.93;Groceries;Rio de Janeiro;Bank Transfer
+12787;100077;18/01/2026;12:21:26;6338.42;Travel;Sao Paulo;Debit Card
+12670;100014;18/01/2026;12:52:24;2943.29;Electronics;Sao Paulo;Bank Transfer
+13595;100030;18/01/2026;13:05:46;211.67;Restaurant;Sao Paulo;Pix
+14681;100062;18/01/2026;13:23:49;254.34;Groceries;Brasilia;Pix
+14277;100005;18/01/2026;13:26:55;46.94;Pharmacy;Rio de Janeiro;Digital Wallet
+12524;100108;18/01/2026;14:03:41;65.13;Transport;Curitiba;Digital Wallet
+13395;100061;18/01/2026;14:20:41;370.16;Entertainment;Brasilia;Pix
+13179;100181;18/01/2026;15:45:24;65.76;Transport;Brasilia;Bank Transfer
+12571;100117;18/01/2026;16:59:39;51.33;Transport;Campinas;Digital Wallet
+14595;100068;18/01/2026;19:04:24;1431.65;Online Shopping;Curitiba;Credit Card
+14333;100123;18/01/2026;19:12:10;2240.8;Electronics;Sao Paulo;Digital Wallet
+12865;100207;18/01/2026;20:10:11;272.08;Entertainment;Belo Horizonte;Digital Wallet
+12411;100145;18/01/2026;20:11:03;133.42;Groceries;Rio de Janeiro;Bank Transfer
+13107;100117;18/01/2026;20:46:12;80.15;Transport;Recife;Pix
+14758;100187;18/01/2026;22:09:39;408.69;Transport;Curitiba;Debit Card
+13695;100125;18/01/2026;22:14:19;287.21;Fuel;Rio de Janeiro;Debit Card
+12546;100096;18/01/2026;22:23:25;537.93;Online Shopping;Rio de Janeiro;Digital Wallet
+12591;100165;18/01/2026;22:29:17;252.23;Utilities;Fortaleza;Bank Transfer
+13291;100097;18/01/2026;22:40:29;1055.91;Online Shopping;Campinas;Debit Card
+13981;100089;18/02/2026;00:11:57;122.46;Pharmacy;Belo Horizonte;Digital Wallet
+13232;100007;18/02/2026;00:59:06;320.62;Fuel;Rio de Janeiro;Bank Transfer
+13914;100016;18/02/2026;01:26:52;139.09;Entertainment;Curitiba;Pix
+14626;100140;18/02/2026;03:36:21;766.87;Electronics;Salvador;Debit Card
+12819;100213;18/02/2026;04:06:02;347.1;Fuel;Fortaleza;Digital Wallet
+14061;100034;18/02/2026;04:55:08;329.27;Utilities;Porto Alegre;Pix
+13354;100095;18/02/2026;06:11:28;465.5;Online Shopping;Salvador;Pix
+14582;100117;18/02/2026;06:44:38;395.59;Pharmacy;Campinas;Bank Transfer
+14205;100041;18/02/2026;08:06:05;107.48;Entertainment;Salvador;Digital Wallet
+14677;100101;18/02/2026;08:27:13;5207.22;Travel;Campinas;Digital Wallet
+14178;100042;18/02/2026;10:00:18;234.33;Entertainment;Sao Paulo;Credit Card
+14246;100015;18/02/2026;10:17:21;325.79;Fuel;Belo Horizonte;Pix
+12929;100102;18/02/2026;13:16:05;149.61;Restaurant;Belo Horizonte;Bank Transfer
+13298;100107;18/02/2026;14:05:07;397.67;Groceries;Fortaleza;Pix
+12353;100187;18/02/2026;14:59:40;210.74;Restaurant;Belo Horizonte;Bank Transfer
+13591;100161;18/02/2026;16:40:58;124.27;Pharmacy;Curitiba;Bank Transfer
+12776;100207;18/02/2026;17:29:16;166.42;Fuel;Porto Alegre;Bank Transfer
+14305;100013;18/02/2026;17:40:21;88.28;Groceries;Porto Alegre;Debit Card
+13517;100193;18/02/2026;18:01:07;296.72;Groceries;Campinas;Credit Card
+14456;100198;18/02/2026;18:06:08;242.22;Pharmacy;Rio de Janeiro;Credit Card
+14508;100155;18/02/2026;18:34:15;3908.72;Travel;Porto Alegre;Digital Wallet
+14070;100205;18/02/2026;19:44:52;624.13;Utilities;Porto Alegre;Debit Card
+12620;100062;18/02/2026;20:34:41;324.63;Utilities;Salvador;Pix
+14574;100095;18/02/2026;20:53:04;187.99;Fuel;Salvador;Digital Wallet
+14529;100084;18/02/2026;21:00:03;386.0;Electronics;Campinas;Credit Card
+14275;100145;18/02/2026;21:39:12;435.04;Entertainment;Salvador;Credit Card
+14364;100086;18/02/2026;22:03:39;231.72;Groceries;Sao Paulo;Credit Card
+13397;100171;18/02/2026;22:20:11;1282.88;Restaurant;Curitiba;Digital Wallet
+13392;100005;18/02/2026;22:40:47;163.61;Entertainment;Campinas;Bank Transfer
+14385;100038;18/02/2026;23:09:05;235.04;Groceries;Salvador;Credit Card
+13003;100203;18/02/2026;23:24:02;553.97;Utilities;Campinas;Debit Card
+14646;100177;18/02/2026;23:33:02;977.54;Online Shopping;Belo Horizonte;Credit Card
+13043;100020;18/03/2026;01:29:20;267.85;Entertainment;Brasilia;Credit Card
+14223;100071;18/03/2026;01:59:39;254.04;Utilities;Recife;Digital Wallet
+13499;100191;18/03/2026;02:52:12;151.28;Entertainment;Rio de Janeiro;Credit Card
+12869;100045;18/03/2026;02:57:53;1191.6;Travel;Recife;Pix
+12416;100097;18/03/2026;04:53:40;1913.19;Travel;Curitiba;Credit Card
+12881;100206;18/03/2026;05:58:48;1184.99;Online Shopping;Recife;Pix
+12837;100040;18/03/2026;07:49:59;224.72;Groceries;Belo Horizonte;Pix
+14658;100034;18/03/2026;08:26:43;229.83;Pharmacy;Sao Paulo;Debit Card
+12376;100131;18/03/2026;08:43:55;88.96;Pharmacy;Belo Horizonte;Credit Card
+13044;100046;18/03/2026;09:43:52;246.43;Fuel;Recife;Credit Card
+13711;100218;18/03/2026;13:22:06;590.41;Electronics;Fortaleza;Credit Card
+13280;100191;18/03/2026;13:22:19;178.8;Entertainment;Campinas;Digital Wallet
+13221;100176;18/03/2026;14:04:06;178.26;Restaurant;Recife;Bank Transfer
+13876;100117;18/03/2026;14:31:40;114.28;Groceries;Porto Alegre;Bank Transfer
+12491;100193;18/03/2026;15:22:06;3202.2;Travel;Sao Paulo;Pix
+14186;100120;18/03/2026;15:22:52;2918.74;Travel;Recife;Credit Card
+14091;100043;18/03/2026;15:50:42;1224.34;Online Shopping;Brasilia;Digital Wallet
+14123;100076;18/03/2026;16:27:07;86.33;Transport;Sao Paulo;Pix
+14106;100011;18/03/2026;16:34:40;2300.27;Electronics;Fortaleza;Debit Card
+14463;100208;18/03/2026;17:08:49;246.59;Groceries;Curitiba;Digital Wallet
+14835;100174;18/03/2026;17:41:13;693.75;Travel;Rio de Janeiro;Digital Wallet
+13563;100055;18/03/2026;18:03:59;2219.16;Electronics;Campinas;Credit Card
+12665;100172;18/03/2026;18:39:25;820.47;Online Shopping;Fortaleza;Pix
+12924;100035;18/03/2026;20:40:47;466.24;Utilities;Belo Horizonte;Digital Wallet
+12511;100074;18/03/2026;22:24:29;148.89;Pharmacy;Rio de Janeiro;Digital Wallet
+12980;100182;18/03/2026;23:05:11;83.01;Pharmacy;Salvador;Bank Transfer
+14290;100150;18/03/2026;23:42:36;904.69;Electronics;Brasilia;Debit Card
+13614;100157;19/01/2026;00:29:07;1449.38;Travel;Porto Alegre;Debit Card
+14031;100022;19/01/2026;01:19:43;1220.6;Electronics;Rio de Janeiro;Debit Card
+14637;100099;19/01/2026;01:59:00;2045.26;Travel;Brasilia;Debit Card
+12626;100020;19/01/2026;02:14:04;1637.58;Groceries;Sao Paulo;Bank Transfer
+14183;100193;19/01/2026;02:50:19;57.73;Transport;Brasilia;Digital Wallet
+14795;100015;19/01/2026;03:00:02;4350.76;Travel;Porto Alegre;Pix
+12859;100183;19/01/2026;03:46:21;4957.24;Travel;Porto Alegre;Pix
+14542;100202;19/01/2026;04:26:50;134.05;Groceries;Porto Alegre;Bank Transfer
+13357;100078;19/01/2026;04:47:34;1952.39;Fuel;Curitiba;Digital Wallet
+14525;100013;19/01/2026;05:38:43;79.8;Pharmacy;Rio de Janeiro;Digital Wallet
+14015;100095;19/01/2026;07:29:26;252.03;Groceries;Recife;Pix
+13008;100210;19/01/2026;07:41:22;63.53;Restaurant;Sao Paulo;Debit Card
+14334;100056;19/01/2026;08:15:28;176.0;Entertainment;Campinas;Digital Wallet
+13229;100125;19/01/2026;09:22:05;437.2;Online Shopping;Brasilia;Credit Card
+13779;100056;19/01/2026;11:30:55;17.4;Pharmacy;Campinas;Debit Card
+12460;100076;19/01/2026;13:33:26;1571.46;Electronics;Salvador;Bank Transfer
+14059;100083;19/01/2026;13:33:31;1124.56;Online Shopping;Campinas;Pix
+14132;100144;19/01/2026;15:08:47;1070.26;Groceries;Curitiba;Debit Card
+13458;100012;19/01/2026;15:54:53;111.18;Restaurant;Sao Paulo;Debit Card
+14238;100204;19/01/2026;16:10:33;206.46;Pharmacy;Rio de Janeiro;Debit Card
+14222;100212;19/01/2026;16:43:42;628.92;Utilities;Curitiba;Debit Card
+14454;100128;19/01/2026;18:03:40;74.25;Pharmacy;Campinas;Credit Card
+14376;100044;19/01/2026;18:18:32;84.62;Entertainment;Salvador;Credit Card
+13621;100043;19/01/2026;20:56:06;288.2;Fuel;Campinas;Credit Card
+13068;100175;19/01/2026;22:55:27;617.6;Travel;Brasilia;Pix
+13972;100060;19/01/2026;23:43:37;1322.9;Entertainment;Fortaleza;Bank Transfer
+14349;100117;19/01/2026;23:50:23;148.67;Pharmacy;Fortaleza;Pix
+14754;100182;19/02/2026;00:03:09;115.58;Transport;Campinas;Pix
+14306;100071;19/02/2026;00:07:15;349.27;Utilities;Belo Horizonte;Bank Transfer
+12623;100040;19/02/2026;00:53:15;165.52;Restaurant;Salvador;Debit Card
+14659;100191;19/02/2026;01:02:55;257.99;Pharmacy;Brasilia;Pix
+13421;100081;19/02/2026;01:03:22;272.01;Restaurant;Salvador;Bank Transfer
+13313;100209;19/02/2026;01:22:24;410.42;Online Shopping;Rio de Janeiro;Pix
+12461;100044;19/02/2026;01:43:15;66.7;Transport;Rio de Janeiro;Digital Wallet
+13175;100018;19/02/2026;01:43:20;383.92;Online Shopping;Sao Paulo;Debit Card
+13181;100101;19/02/2026;01:43:22;295.15;Fuel;Brasilia;Digital Wallet
+13638;100093;19/02/2026;02:06:17;273.76;Restaurant;Rio de Janeiro;Debit Card
+13023;100039;19/02/2026;02:34:53;155.37;Fuel;Sao Paulo;Pix
+13743;100010;19/02/2026;02:37:15;3481.48;Travel;Porto Alegre;Digital Wallet
+14778;100037;19/02/2026;03:20:43;205.14;Pharmacy;Recife;Debit Card
+13798;100049;19/02/2026;04:18:11;48.22;Transport;Porto Alegre;Credit Card
+12730;100135;19/02/2026;04:22:30;175.43;Restaurant;Fortaleza;Credit Card
+13345;100034;19/02/2026;04:23:20;188.19;Restaurant;Curitiba;Digital Wallet
+12663;100051;19/02/2026;06:45:13;439.2;Online Shopping;Campinas;Bank Transfer
+13034;100008;19/02/2026;07:05:27;611.43;Online Shopping;Sao Paulo;Credit Card
+12773;100213;19/02/2026;07:10:54;147.25;Pharmacy;Porto Alegre;Credit Card
+13087;100185;19/02/2026;08:50:34;302.64;Entertainment;Curitiba;Bank Transfer
+14327;100157;19/02/2026;09:29:32;629.5;Utilities;Brasilia;Pix
+12708;100063;19/02/2026;10:11:59;376.7;Groceries;Brasilia;Pix
+14065;100005;19/02/2026;10:39:20;601.9;Electronics;Fortaleza;Credit Card
+14405;100087;19/02/2026;11:36:10;622.95;Online Shopping;Belo Horizonte;Pix
+14066;100155;19/02/2026;12:50:49;177.39;Fuel;Rio de Janeiro;Bank Transfer
+14269;100035;19/02/2026;13:35:32;229.74;Groceries;Curitiba;Bank Transfer
+14663;100107;19/02/2026;13:44:25;5451.85;Travel;Brasilia;Credit Card
+12842;100011;19/02/2026;14:34:46;1021.1;Electronics;Recife;Credit Card
+13077;100019;19/02/2026;16:03:16;382.49;Fuel;Sao Paulo;Bank Transfer
+13054;100131;19/02/2026;17:14:11;16658.08;Travel;Fortaleza;Bank Transfer
+13505;100113;19/02/2026;18:38:17;1775.1;Utilities;Recife;Digital Wallet
+13687;100005;19/02/2026;18:44:08;357.18;Utilities;Brasilia;Credit Card
+14239;100123;19/02/2026;19:06:51;1456.05;Electronics;Sao Paulo;Pix
+13530;100204;19/02/2026;19:35:31;1512.0;Electronics;Belo Horizonte;Debit Card
+12936;100098;19/02/2026;20:15:47;422.79;Groceries;Rio de Janeiro;Debit Card
+12474;100025;19/02/2026;20:23:42;311.8;Restaurant;Fortaleza;Debit Card
+12464;100065;19/02/2026;21:06:15;601.16;Online Shopping;Porto Alegre;Debit Card
+13450;100178;19/02/2026;21:41:44;121.22;Pharmacy;Campinas;Debit Card
+12867;100172;19/02/2026;21:58:29;275.68;Restaurant;Fortaleza;Pix
+14396;100127;19/02/2026;23:09:54;294.51;Entertainment;Fortaleza;Bank Transfer
+12877;100068;19/03/2026;00:04:14;56.2;Transport;Salvador;Bank Transfer
+12654;100140;19/03/2026;02:58:05;95.28;Groceries;Salvador;Digital Wallet
+14143;100215;19/03/2026;03:50:36;131.52;Entertainment;Fortaleza;Digital Wallet
+13453;100193;19/03/2026;04:11:00;177.74;Restaurant;Rio de Janeiro;Debit Card
+14164;100053;19/03/2026;04:43:24;813.48;Electronics;Belo Horizonte;Credit Card
+13488;100061;19/03/2026;05:00:27;184.64;Groceries;Salvador;Bank Transfer
+13917;100105;19/03/2026;05:33:10;929.3;Groceries;Fortaleza;Bank Transfer
+12694;100022;19/03/2026;05:38:18;237.5;Restaurant;Fortaleza;Digital Wallet
+14348;100200;19/03/2026;05:46:43;268.25;Fuel;Fortaleza;Digital Wallet
+14345;100027;19/03/2026;07:32:23;3258.45;Electronics;Brasilia;Credit Card
+14721;100126;19/03/2026;11:08:28;900.89;Online Shopping;Curitiba;Credit Card
+12541;100022;19/03/2026;11:34:18;2183.83;Travel;Rio de Janeiro;Bank Transfer
+13604;100144;19/03/2026;12:33:13;63.92;Pharmacy;Recife;Pix
+13426;100122;19/03/2026;12:45:09;224.71;Pharmacy;Recife;Pix
+12409;100214;19/03/2026;13:31:14;2015.51;Travel;Fortaleza;Digital Wallet
+13371;100037;19/03/2026;13:33:21;1343.51;Online Shopping;Rio de Janeiro;Bank Transfer
+14210;100073;19/03/2026;14:10:41;97.71;Transport;Rio de Janeiro;Bank Transfer
+14821;100042;19/03/2026;14:42:27;10672.25;Electronics;Salvador;Debit Card
+14694;100050;19/03/2026;15:14:36;173.48;Pharmacy;Recife;Credit Card
+14706;100183;19/03/2026;15:16:09;318.75;Utilities;Sao Paulo;Credit Card
+13862;100076;19/03/2026;15:54:24;46.56;Transport;Belo Horizonte;Debit Card
+13014;100186;19/03/2026;16:16:33;275.42;Entertainment;Porto Alegre;Bank Transfer
+13235;100083;19/03/2026;18:05:25;132.35;Groceries;Rio de Janeiro;Digital Wallet
+14481;100002;19/03/2026;18:10:52;2223.63;Electronics;Curitiba;Debit Card
+12749;100124;19/03/2026;19:10:03;92.62;Groceries;Recife;Debit Card
+14073;100071;19/03/2026;20:18:10;819.85;Online Shopping;Porto Alegre;Debit Card
+13311;100085;19/03/2026;21:00:57;45.8;Groceries;Belo Horizonte;Credit Card
+13260;100034;19/03/2026;21:06:50;59.4;Transport;Curitiba;Debit Card
+13718;100188;19/03/2026;21:42:33;137.06;Pharmacy;Fortaleza;Credit Card
+12991;100177;19/03/2026;21:45:41;594.01;Online Shopping;Belo Horizonte;Digital Wallet
+12695;100218;19/03/2026;22:12:47;200.1;Fuel;Curitiba;Digital Wallet
+14488;100213;19/03/2026;22:31:40;160.97;Entertainment;Brasilia;Bank Transfer
+13751;100158;19/03/2026;23:01:46;66.78;Entertainment;Salvador;Debit Card
+13457;100178;19/03/2026;23:32:13;1864.79;Electronics;Fortaleza;Pix
+13863;100218;20/01/2026;00:00:16;138.3;Restaurant;Campinas;Pix
+12680;100083;20/01/2026;00:40:17;195.08;Restaurant;Recife;Bank Transfer
+12876;100044;20/01/2026;00:52:49;104.63;Restaurant;Recife;Digital Wallet
+12544;100094;20/01/2026;01:43:50;361.22;Utilities;Belo Horizonte;Credit Card
+13829;100022;20/01/2026;02:31:27;664.56;Utilities;Rio de Janeiro;Debit Card
+14185;100034;20/01/2026;02:59:06;2093.18;Travel;Sao Paulo;Debit Card
+12612;100210;20/01/2026;03:33:14;1258.4;Electronics;Curitiba;Pix
+13959;100024;20/01/2026;04:21:34;199.7;Entertainment;Recife;Pix
+13282;100211;20/01/2026;04:27:53;1255.52;Electronics;Brasilia;Credit Card
+14798;100076;20/01/2026;04:59:27;102.42;Transport;Rio de Janeiro;Digital Wallet
+13793;100016;20/01/2026;05:17:05;78.35;Pharmacy;Curitiba;Digital Wallet
+14054;100119;20/01/2026;05:48:24;3000.55;Online Shopping;Brasilia;Debit Card
+13052;100035;20/01/2026;05:56:31;234.73;Groceries;Rio de Janeiro;Credit Card
+14711;100079;20/01/2026;06:56:42;55.85;Pharmacy;Fortaleza;Pix
+12713;100199;20/01/2026;06:59:26;57.06;Restaurant;Fortaleza;Debit Card
+12932;100126;20/01/2026;07:34:01;105.46;Restaurant;Salvador;Credit Card
+14482;100066;20/01/2026;08:22:37;1104.31;Travel;Recife;Bank Transfer
+14200;100201;20/01/2026;09:44:34;166.93;Restaurant;Curitiba;Bank Transfer
+12497;100146;20/01/2026;11:48:39;89.13;Entertainment;Rio de Janeiro;Credit Card
+12348;100179;20/01/2026;12:48:21;1329.0;Travel;Salvador;Pix
+13903;100211;20/01/2026;12:49:09;155.53;Entertainment;Salvador;Digital Wallet
+12700;100022;20/01/2026;14:05:19;186.66;Utilities;Fortaleza;Digital Wallet
+12608;100059;20/01/2026;14:12:59;272.92;Restaurant;Brasilia;Pix
+14503;100172;20/01/2026;20:46:48;2442.27;Travel;Fortaleza;Digital Wallet
+13065;100088;20/01/2026;21:48:26;193.43;Pharmacy;Belo Horizonte;Digital Wallet
+13801;100044;20/01/2026;23:36:13;420.92;Groceries;Campinas;Bank Transfer
+12697;100004;20/02/2026;00:26:23;1528.46;Electronics;Salvador;Debit Card
+13924;100170;20/02/2026;02:03:50;41.81;Transport;Campinas;Credit Card
+13824;100202;20/02/2026;03:05:09;14.34;Transport;Recife;Digital Wallet
+12848;100104;20/02/2026;03:07:34;509.22;Travel;Salvador;Credit Card
+13085;100052;20/02/2026;03:12:19;87.41;Transport;Fortaleza;Credit Card
+13819;100109;20/02/2026;03:52:30;22.18;Transport;Porto Alegre;Pix
+13781;100062;20/02/2026;04:30:22;303.68;Utilities;Recife;Bank Transfer
+12781;100076;20/02/2026;05:02:37;276.87;Fuel;Recife;Bank Transfer
+14090;100047;20/02/2026;05:20:29;3132.4;Electronics;Curitiba;Bank Transfer
+13701;100110;20/02/2026;05:59:43;139.3;Groceries;Rio de Janeiro;Digital Wallet
+14151;100065;20/02/2026;06:04:12;205.47;Pharmacy;Recife;Digital Wallet
+12959;100066;20/02/2026;06:46:02;3117.86;Electronics;Brasilia;Bank Transfer
+13368;100003;20/02/2026;11:07:08;70.38;Transport;Salvador;Bank Transfer
+14075;100141;20/02/2026;11:20:39;1629.67;Groceries;Recife;Pix
+14565;100029;20/02/2026;11:56:36;260.22;Utilities;Brasilia;Credit Card
+14550;100209;20/02/2026;12:15:42;97.98;Pharmacy;Brasilia;Bank Transfer
+13351;100057;20/02/2026;12:19:27;278.88;Restaurant;Brasilia;Debit Card
+14665;100077;20/02/2026;12:43:19;218.58;Groceries;Brasilia;Bank Transfer
+12477;100095;20/02/2026;14:12:07;737.69;Utilities;Salvador;Credit Card
+14680;100202;20/02/2026;15:54:28;840.43;Electronics;Campinas;Bank Transfer
+13925;100037;20/02/2026;16:00:36;184.79;Groceries;Curitiba;Debit Card
+13440;100218;20/02/2026;16:27:43;64.48;Transport;Sao Paulo;Digital Wallet
+13401;100201;20/02/2026;18:10:30;660.79;Online Shopping;Rio de Janeiro;Pix
+14749;100077;20/02/2026;18:14:05;77.11;Restaurant;Porto Alegre;Pix
+13170;100169;20/02/2026;18:44:37;280.44;Pharmacy;Rio de Janeiro;Debit Card
+14138;100102;20/02/2026;20:38:53;315.74;Groceries;Curitiba;Pix
+12589;100045;20/02/2026;21:11:59;4071.34;Travel;Belo Horizonte;Credit Card
+13895;100036;20/02/2026;21:51:03;211.63;Pharmacy;Recife;Bank Transfer
+14513;100123;20/03/2026;00:04:27;19.29;Transport;Fortaleza;Bank Transfer
+13889;100181;20/03/2026;00:24:03;320.28;Online Shopping;Curitiba;Pix
+14699;100180;20/03/2026;01:11:00;179.62;Entertainment;Curitiba;Digital Wallet
+14406;100178;20/03/2026;03:23:06;112.74;Restaurant;Salvador;Digital Wallet
+14173;100043;20/03/2026;04:04:04;235.53;Restaurant;Sao Paulo;Debit Card
+12648;100153;20/03/2026;04:12:30;50.99;Transport;Porto Alegre;Pix
+12542;100170;20/03/2026;04:27:10;271.52;Fuel;Porto Alegre;Bank Transfer
+14158;100212;20/03/2026;06:10:05;3172.27;Travel;Curitiba;Digital Wallet
+12812;100174;20/03/2026;07:00:41;5502.45;Travel;Belo Horizonte;Digital Wallet
+14773;100061;20/03/2026;07:42:58;2532.95;Electronics;Fortaleza;Bank Transfer
+12998;100119;20/03/2026;07:44:33;119.15;Transport;Recife;Pix
+14512;100103;20/03/2026;07:56:27;223.86;Utilities;Fortaleza;Debit Card
+14538;100080;20/03/2026;08:24:01;1336.6;Travel;Belo Horizonte;Pix
+14280;100054;20/03/2026;09:05:51;91.3;Pharmacy;Salvador;Debit Card
+13727;100087;20/03/2026;09:46:02;578.96;Electronics;Campinas;Digital Wallet
+14731;100099;20/03/2026;11:29:28;132.02;Fuel;Campinas;Bank Transfer
+12820;100211;20/03/2026;12:12:07;5455.77;Travel;Rio de Janeiro;Pix
+13881;100136;20/03/2026;12:36:43;386.01;Online Shopping;Rio de Janeiro;Pix
+13474;100179;20/03/2026;12:58:53;186.86;Pharmacy;Recife;Credit Card
+12597;100080;20/03/2026;13:14:08;129.19;Pharmacy;Porto Alegre;Pix
+12742;100009;20/03/2026;13:40:36;32.52;Transport;Campinas;Pix
+14064;100083;20/03/2026;13:52:52;168.49;Entertainment;Curitiba;Digital Wallet
+13671;100194;20/03/2026;14:07:02;4711.97;Travel;Rio de Janeiro;Credit Card
+12885;100138;20/03/2026;14:43:25;4106.37;Travel;Campinas;Pix
+14782;100197;20/03/2026;16:12:50;494.58;Utilities;Salvador;Credit Card
+14408;100099;20/03/2026;16:48:31;557.53;Utilities;Salvador;Credit Card
+14331;100159;20/03/2026;17:08:56;72.13;Restaurant;Recife;Pix
+13688;100036;20/03/2026;17:22:12;105.92;Pharmacy;Brasilia;Credit Card
+14004;100178;20/03/2026;17:28:47;72.62;Pharmacy;Curitiba;Bank Transfer
+13770;100185;20/03/2026;17:36:41;155.36;Fuel;Fortaleza;Pix
+13078;100113;20/03/2026;18:11:41;131.75;Pharmacy;Brasilia;Debit Card
+14192;100037;20/03/2026;18:17:25;43.67;Transport;Curitiba;Credit Card
+14735;100159;20/03/2026;18:22:59;290.79;Utilities;Campinas;Pix
+14808;100046;20/03/2026;18:43:50;653.88;Utilities;Curitiba;Digital Wallet
+14356;100170;20/03/2026;19:21:01;142.66;Pharmacy;Belo Horizonte;Digital Wallet
+12973;100198;20/03/2026;20:39:09;210.31;Fuel;Belo Horizonte;Pix
+12577;100106;20/03/2026;21:55:54;224.21;Restaurant;Recife;Digital Wallet
+13680;100137;20/03/2026;22:19:25;292.49;Entertainment;Curitiba;Digital Wallet
+13048;100089;20/03/2026;22:25:54;69.47;Pharmacy;Campinas;Credit Card
+13309;100143;20/03/2026;22:51:20;340.83;Fuel;Recife;Debit Card
+14661;100159;21/01/2026;00:05:51;4881.27;Travel;Recife;Debit Card
+14040;100020;21/01/2026;00:51:15;98.1;Transport;Salvador;Credit Card
+13841;100081;21/01/2026;01:37:10;865.7;Online Shopping;Brasilia;Credit Card
+13984;100026;21/01/2026;01:58:21;1419.92;Online Shopping;Curitiba;Digital Wallet
+14451;100187;21/01/2026;02:36:10;366.02;Entertainment;Rio de Janeiro;Credit Card
+13482;100106;21/01/2026;03:16:14;127.83;Pharmacy;Brasilia;Credit Card
+14811;100028;21/01/2026;03:32:50;109.16;Groceries;Rio de Janeiro;Debit Card
+12755;100058;21/01/2026;04:42:06;134.16;Fuel;Campinas;Credit Card
+13489;100022;21/01/2026;05:32:11;1935.7;Travel;Curitiba;Digital Wallet
+13089;100055;21/01/2026;05:37:14;702.91;Utilities;Brasilia;Digital Wallet
+14373;100043;21/01/2026;06:24:07;86.35;Pharmacy;Rio de Janeiro;Digital Wallet
+12435;100062;21/01/2026;06:26:28;86.63;Transport;Fortaleza;Credit Card
+14302;100166;21/01/2026;08:34:52;151.16;Fuel;Porto Alegre;Pix
+14741;100150;21/01/2026;09:00:57;293.1;Fuel;Rio de Janeiro;Debit Card
+14093;100078;21/01/2026;09:03:23;448.33;Online Shopping;Recife;Digital Wallet
+13154;100096;21/01/2026;09:13:09;725.88;Online Shopping;Recife;Pix
+13549;100123;21/01/2026;10:43:29;105.68;Entertainment;Sao Paulo;Pix
+14765;100208;21/01/2026;11:42:51;102.32;Groceries;Rio de Janeiro;Bank Transfer
+13515;100166;21/01/2026;11:52:25;270.84;Fuel;Sao Paulo;Pix
+13380;100113;21/01/2026;11:53:01;77.48;Transport;Brasilia;Pix
+12387;100105;21/01/2026;11:56:26;70.26;Entertainment;Belo Horizonte;Debit Card
+14288;100176;21/01/2026;12:04:09;2529.12;Travel;Rio de Janeiro;Credit Card
+14431;100063;21/01/2026;12:45:35;13110.42;Travel;Porto Alegre;Bank Transfer
+13937;100106;21/01/2026;13:25:50;38.35;Transport;Belo Horizonte;Bank Transfer
+13031;100113;21/01/2026;14:07:00;266.06;Pharmacy;Porto Alegre;Debit Card
+13821;100176;21/01/2026;16:08:36;134.53;Pharmacy;Recife;Credit Card
+13585;100148;21/01/2026;16:13:05;1280.7;Travel;Porto Alegre;Digital Wallet
+12514;100113;21/01/2026;17:23:58;291.3;Utilities;Fortaleza;Digital Wallet
+14510;100087;21/01/2026;17:37:48;90.2;Pharmacy;Recife;Debit Card
+14441;100186;21/01/2026;18:18:15;1432.6;Online Shopping;Brasilia;Debit Card
+14579;100146;21/01/2026;18:38:29;369.06;Entertainment;Campinas;Bank Transfer
+13905;100059;21/01/2026;19:17:14;303.5;Restaurant;Curitiba;Pix
+12839;100048;21/01/2026;19:34:34;344.81;Utilities;Rio de Janeiro;Digital Wallet
+14838;100005;21/01/2026;19:56:41;1452.2;Pharmacy;Fortaleza;Bank Transfer
+12685;100215;21/01/2026;20:29:00;1662.3;Online Shopping;Sao Paulo;Credit Card
+13806;100026;21/01/2026;20:34:11;94.45;Transport;Salvador;Pix
+14807;100116;21/01/2026;20:48:27;5493.25;Travel;Fortaleza;Bank Transfer
+13550;100184;21/01/2026;22:33:46;190.4;Restaurant;Curitiba;Debit Card
+12361;100156;21/01/2026;23:49:59;968.35;Restaurant;Belo Horizonte;Pix
+12701;100207;21/02/2026;00:40:48;106.45;Transport;Fortaleza;Pix
+14737;100203;21/02/2026;00:59:38;244.6;Fuel;Campinas;Credit Card
+14522;100058;21/02/2026;02:24:16;1527.51;Electronics;Campinas;Debit Card
+12355;100184;21/02/2026;02:29:09;990.27;Electronics;Curitiba;Bank Transfer
+12850;100023;21/02/2026;03:01:30;153.14;Fuel;Brasilia;Bank Transfer
+14523;100138;21/02/2026;04:39:35;227.47;Entertainment;Curitiba;Digital Wallet
+13949;100093;21/02/2026;04:47:02;197.7;Entertainment;Campinas;Bank Transfer
+14251;100077;21/02/2026;07:19:58;648.9;Utilities;Porto Alegre;Credit Card
+12994;100084;21/02/2026;07:38:47;1161.16;Online Shopping;Curitiba;Bank Transfer
+13608;100002;21/02/2026;07:57:34;1363.63;Online Shopping;Porto Alegre;Debit Card
+12917;100087;21/02/2026;08:05:10;2264.02;Travel;Campinas;Digital Wallet
+13559;100075;21/02/2026;08:14:24;4926.3;Travel;Belo Horizonte;Digital Wallet
+14587;100072;21/02/2026;10:27:17;79.16;Pharmacy;Campinas;Digital Wallet
+13271;100018;21/02/2026;11:27:03;114.25;Pharmacy;Salvador;Pix
+12969;100122;21/02/2026;14:05:25;248.53;Entertainment;Sao Paulo;Digital Wallet
+12631;100077;21/02/2026;18:24:35;128.8;Pharmacy;Sao Paulo;Credit Card
+13050;100152;21/02/2026;18:27:34;1801.09;Travel;Salvador;Bank Transfer
+12806;100209;21/02/2026;18:29:17;2313.53;Electronics;Belo Horizonte;Credit Card
+13556;100125;21/02/2026;19:54:39;344.05;Groceries;Salvador;Pix
+12610;100173;21/02/2026;20:14:34;124.05;Groceries;Curitiba;Credit Card
+14184;100059;21/02/2026;20:45:29;591.71;Online Shopping;Porto Alegre;Bank Transfer
+14384;100031;21/02/2026;21:15:57;624.37;Online Shopping;Brasilia;Credit Card
+13173;100103;21/02/2026;21:32:17;768.78;Electronics;Brasilia;Digital Wallet
+14179;100174;21/02/2026;22:29:41;5607.86;Travel;Fortaleza;Digital Wallet
+12653;100115;21/02/2026;23:32:59;459.5;Entertainment;Brasilia;Digital Wallet
+13552;100183;21/03/2026;01:04:09;3152.95;Travel;Curitiba;Debit Card
+14487;100201;21/03/2026;01:32:02;102.29;Transport;Sao Paulo;Pix
+14023;100190;21/03/2026;01:33:47;79.72;Transport;Brasilia;Pix
+12728;100072;21/03/2026;01:39:15;894.77;Online Shopping;Belo Horizonte;Credit Card
+13817;100093;21/03/2026;01:48:25;2644.52;Electronics;Fortaleza;Credit Card
+13315;100182;21/03/2026;02:19:51;1945.04;Electronics;Curitiba;Credit Card
+13882;100197;21/03/2026;03:10:20;5783.69;Travel;Belo Horizonte;Debit Card
+12421;100116;21/03/2026;03:24:21;59.65;Restaurant;Brasilia;Digital Wallet
+12493;100207;21/03/2026;03:41:35;796.85;Travel;Fortaleza;Digital Wallet
+13778;100219;21/03/2026;03:58:30;807.56;Entertainment;Campinas;Pix
+14321;100071;21/03/2026;04:03:43;1865.65;Electronics;Belo Horizonte;Bank Transfer
+13789;100027;21/03/2026;04:09:45;260.96;Groceries;Salvador;Credit Card
+12888;100131;21/03/2026;04:43:45;1020.01;Travel;Salvador;Digital Wallet
+14442;100067;21/03/2026;04:46:07;158.59;Fuel;Campinas;Bank Transfer
+14549;100183;21/03/2026;05:46:31;940.71;Online Shopping;Porto Alegre;Digital Wallet
+13714;100167;21/03/2026;06:10:23;476.95;Electronics;Brasilia;Pix
+13090;100037;21/03/2026;07:15:44;6423.41;Online Shopping;Sao Paulo;Bank Transfer
+14092;100158;21/03/2026;07:54:00;259.07;Pharmacy;Sao Paulo;Credit Card
+14434;100147;21/03/2026;08:32:52;275.61;Groceries;Salvador;Debit Card
+14816;100168;21/03/2026;10:29:38;211.2;Fuel;Curitiba;Credit Card
+13339;100001;21/03/2026;12:15:30;223.84;Restaurant;Curitiba;Bank Transfer
+13259;100173;21/03/2026;12:18:44;2034.24;Electronics;Brasilia;Debit Card
+14775;100091;21/03/2026;14:44:22;79.38;Pharmacy;Campinas;Digital Wallet
+12639;100048;21/03/2026;15:51:15;333.28;Entertainment;Recife;Credit Card
+14189;100205;21/03/2026;16:18:23;89.87;Entertainment;Brasilia;Pix
+12902;100053;21/03/2026;17:09:49;87.16;Restaurant;Curitiba;Debit Card
+14309;100220;21/03/2026;17:50:01;362.42;Entertainment;Fortaleza;Bank Transfer
+14616;100046;21/03/2026;17:58:14;51.06;Transport;Sao Paulo;Bank Transfer
+13329;100076;21/03/2026;19:14:55;3300.91;Travel;Recife;Credit Card
+13344;100095;21/03/2026;19:56:45;552.12;Electronics;Belo Horizonte;Digital Wallet
+13326;100204;21/03/2026;20:48:06;194.47;Restaurant;Rio de Janeiro;Digital Wallet
+14577;100103;21/03/2026;21:02:33;291.09;Entertainment;Campinas;Pix
+13848;100159;21/03/2026;22:05:38;181.37;Restaurant;Belo Horizonte;Digital Wallet
+13887;100143;21/03/2026;22:28:54;287.53;Utilities;Curitiba;Debit Card
+13642;100175;21/03/2026;23:42:10;50.15;Transport;Fortaleza;Pix
+12635;100037;22/01/2026;00:15:36;4622.96;Travel;Rio de Janeiro;Pix
+13861;100145;22/01/2026;00:40:19;1379.64;Electronics;Porto Alegre;Pix
+12836;100072;22/01/2026;00:54:16;101.18;Utilities;Porto Alegre;Debit Card
+12388;100086;22/01/2026;04:06:24;4909.95;Travel;Curitiba;Pix
+12550;100141;22/01/2026;04:45:59;506.44;Utilities;Porto Alegre;Pix
+12384;100001;22/01/2026;05:28:35;1911.94;Electronics;Belo Horizonte;Pix
+14029;100098;22/01/2026;06:37:44;1631.46;Online Shopping;Recife;Bank Transfer
+13268;100122;22/01/2026;08:17:23;1937.87;Electronics;Porto Alegre;Digital Wallet
+13523;100176;22/01/2026;09:14:06;5780.32;Travel;Rio de Janeiro;Bank Transfer
+14126;100059;22/01/2026;10:08:47;1578.06;Online Shopping;Rio de Janeiro;Credit Card
+14739;100068;22/01/2026;10:14:03;215.28;Groceries;Fortaleza;Digital Wallet
+12644;100147;22/01/2026;10:17:19;285.19;Utilities;Belo Horizonte;Bank Transfer
+14698;100169;22/01/2026;10:40:44;234.91;Restaurant;Curitiba;Debit Card
+13628;100188;22/01/2026;12:22:40;179.62;Fuel;Brasilia;Debit Card
+13507;100076;22/01/2026;13:02:34;170.29;Fuel;Fortaleza;Credit Card
+14219;100193;22/01/2026;14:26:05;243.3;Entertainment;Belo Horizonte;Credit Card
+14175;100048;22/01/2026;14:32:52;55.19;Restaurant;Sao Paulo;Pix
+12704;100089;22/01/2026;17:08:47;563.71;Utilities;Fortaleza;Pix
+13857;100038;22/01/2026;17:26:42;189.65;Fuel;Campinas;Credit Card
+13864;100133;22/01/2026;17:41:09;3243.89;Travel;Brasilia;Digital Wallet
+12920;100170;22/01/2026;18:06:06;126.73;Fuel;Rio de Janeiro;Debit Card
+14084;100021;22/01/2026;18:13:09;260.88;Entertainment;Salvador;Digital Wallet
+13411;100021;22/01/2026;19:16:44;299.56;Utilities;Curitiba;Bank Transfer
+13152;100161;22/01/2026;23:20:55;51.15;Transport;Rio de Janeiro;Digital Wallet
+13297;100022;22/02/2026;00:02:31;3914.85;Utilities;Campinas;Pix
+12890;100021;22/02/2026;01:41:33;179.37;Entertainment;Sao Paulo;Bank Transfer
+13350;100127;22/02/2026;02:58:50;816.9;Online Shopping;Porto Alegre;Digital Wallet
+14690;100116;22/02/2026;03:20:26;40.98;Transport;Campinas;Bank Transfer
+12780;100196;22/02/2026;03:20:43;619.24;Restaurant;Sao Paulo;Digital Wallet
+12596;100031;22/02/2026;03:32:59;1306.38;Online Shopping;Porto Alegre;Debit Card
+13082;100198;22/02/2026;05:49:51;1093.88;Online Shopping;Brasilia;Bank Transfer
+13017;100218;22/02/2026;07:21:22;179.04;Restaurant;Campinas;Bank Transfer
+14326;100165;22/02/2026;07:46:04;2887.46;Electronics;Curitiba;Credit Card
+14137;100161;22/02/2026;07:48:27;470.07;Electronics;Curitiba;Pix
+14494;100139;22/02/2026;07:53:10;83.33;Transport;Rio de Janeiro;Credit Card
+14120;100199;22/02/2026;09:00:43;355.31;Online Shopping;Curitiba;Digital Wallet
+14515;100170;22/02/2026;09:14:13;239.23;Entertainment;Belo Horizonte;Debit Card
+12914;100208;22/02/2026;09:22:55;268.62;Fuel;Salvador;Credit Card
+12614;100202;22/02/2026;10:19:24;247.96;Utilities;Salvador;Bank Transfer
+12919;100093;22/02/2026;11:11:54;68.7;Entertainment;Fortaleza;Bank Transfer
+14103;100139;22/02/2026;11:37:25;55.69;Transport;Salvador;Pix
+12604;100018;22/02/2026;11:49:08;1062.42;Online Shopping;Sao Paulo;Pix
+14787;100074;22/02/2026;12:02:09;151.16;Pharmacy;Rio de Janeiro;Pix
+13168;100176;22/02/2026;15:54:27;422.35;Online Shopping;Curitiba;Digital Wallet
+13720;100081;22/02/2026;17:05:22;144.88;Pharmacy;Curitiba;Bank Transfer
+14263;100202;22/02/2026;18:42:33;170.65;Pharmacy;Salvador;Pix
+12988;100082;22/02/2026;19:19:28;93.61;Transport;Sao Paulo;Pix
+13573;100129;22/02/2026;19:22:22;210.51;Pharmacy;Brasilia;Bank Transfer
+13304;100167;22/02/2026;20:05:54;80.56;Transport;Porto Alegre;Digital Wallet
+14455;100054;22/02/2026;20:48:42;36.4;Transport;Rio de Janeiro;Bank Transfer
+13055;100188;22/02/2026;23:36:23;62.01;Restaurant;Fortaleza;Pix
+12379;100081;22/03/2026;00:06:04;140.39;Pharmacy;Sao Paulo;Bank Transfer
+14560;100132;22/03/2026;00:37:27;415.15;Fuel;Fortaleza;Bank Transfer
+14347;100043;22/03/2026;02:26:49;3417.81;Travel;Campinas;Digital Wallet
+13423;100193;22/03/2026;03:42:55;160.42;Restaurant;Salvador;Bank Transfer
+12456;100020;22/03/2026;04:25:41;289.39;Online Shopping;Porto Alegre;Pix
+14426;100158;22/03/2026;04:31:09;2864.77;Travel;Recife;Digital Wallet
+13586;100161;22/03/2026;04:34:58;517.27;Entertainment;Belo Horizonte;Credit Card
+13627;100137;22/03/2026;04:45:25;114.02;Pharmacy;Porto Alegre;Debit Card
+12366;100151;22/03/2026;07:14:04;286.78;Restaurant;Sao Paulo;Credit Card
+14011;100100;22/03/2026;07:36:34;103.17;Entertainment;Rio de Janeiro;Debit Card
+13787;100102;22/03/2026;07:36:52;62.07;Groceries;Porto Alegre;Pix
+14361;100151;22/03/2026;07:54:01;318.87;Fuel;Fortaleza;Pix
+13117;100048;22/03/2026;08:24:57;1872.2;Electronics;Brasilia;Credit Card
+14392;100217;22/03/2026;08:41:05;178.51;Entertainment;Fortaleza;Digital Wallet
+14366;100051;22/03/2026;10:03:46;204.24;Entertainment;Brasilia;Bank Transfer
+12536;100087;22/03/2026;11:51:08;27.09;Transport;Brasilia;Bank Transfer
+14007;100130;22/03/2026;12:21:42;1119.76;Pharmacy;Curitiba;Debit Card
+14771;100038;22/03/2026;12:28:36;234.45;Restaurant;Brasilia;Debit Card
+13307;100154;22/03/2026;12:37:53;225.77;Fuel;Recife;Pix
+13386;100028;22/03/2026;12:39:13;2749.86;Electronics;Salvador;Digital Wallet
+13233;100021;22/03/2026;14:38:42;107.05;Online Shopping;Brasilia;Bank Transfer
+14060;100004;22/03/2026;15:43:39;207.87;Fuel;Belo Horizonte;Pix
+12687;100167;22/03/2026;15:46:44;94.87;Transport;Sao Paulo;Bank Transfer
+14420;100131;22/03/2026;16:46:37;1274.52;Electronics;Porto Alegre;Digital Wallet
+13328;100114;22/03/2026;19:04:06;241.0;Groceries;Porto Alegre;Digital Wallet
+13086;100162;22/03/2026;20:47:12;752.21;Electronics;Brasilia;Credit Card
+14308;100097;22/03/2026;21:03:26;121.9;Groceries;Fortaleza;Credit Card
+13091;100079;23/01/2026;00:04:52;207.15;Pharmacy;Brasilia;Digital Wallet
+13582;100133;23/01/2026;00:27:15;268.09;Entertainment;Salvador;Pix
+13849;100006;23/01/2026;00:40:30;1855.47;Electronics;Campinas;Debit Card
+13503;100108;23/01/2026;01:17:44;770.39;Utilities;Fortaleza;Credit Card
+13782;100136;23/01/2026;02:53:17;178.09;Pharmacy;Campinas;Debit Card
+14195;100202;23/01/2026;03:31:07;58.13;Pharmacy;Curitiba;Bank Transfer
+14806;100177;23/01/2026;03:49:36;96.5;Transport;Recife;Digital Wallet
+12521;100040;23/01/2026;05:28:02;58.96;Transport;Belo Horizonte;Digital Wallet
+12722;100132;23/01/2026;06:25:54;177.59;Groceries;Porto Alegre;Pix
+13871;100220;23/01/2026;07:38:17;177.12;Restaurant;Curitiba;Bank Transfer
+14792;100220;23/01/2026;10:06:53;39.6;Transport;Rio de Janeiro;Credit Card
+12501;100031;23/01/2026;10:24:34;249.64;Groceries;Brasilia;Bank Transfer
+14776;100196;23/01/2026;11:09:57;131.78;Pharmacy;Brasilia;Credit Card
+13103;100012;23/01/2026;11:50:01;130.46;Pharmacy;Sao Paulo;Digital Wallet
+14563;100154;23/01/2026;14:08:57;257.32;Utilities;Recife;Pix
+14762;100209;23/01/2026;14:41:23;895.58;Electronics;Curitiba;Credit Card
+14026;100213;23/01/2026;15:19:06;1122.35;Online Shopping;Brasilia;Pix
+13672;100196;23/01/2026;16:06:44;1328.19;Electronics;Campinas;Credit Card
+13846;100119;23/01/2026;18:18:00;230.95;Fuel;Brasilia;Debit Card
+13373;100216;23/01/2026;19:15:11;348.65;Fuel;Recife;Digital Wallet
+12441;100006;23/01/2026;21:33:41;210.69;Fuel;Campinas;Credit Card
+13439;100212;23/01/2026;21:46:25;126.24;Restaurant;Curitiba;Credit Card
+13788;100121;23/01/2026;21:47:55;304.37;Entertainment;Brasilia;Bank Transfer
+13993;100014;23/01/2026;22:23:43;3793.84;Travel;Fortaleza;Digital Wallet
+12661;100028;23/01/2026;23:10:21;72.67;Transport;Curitiba;Digital Wallet
+12606;100139;23/01/2026;23:25:33;35.12;Transport;Salvador;Credit Card
+12553;100184;23/02/2026;00:04:08;1546.69;Online Shopping;Fortaleza;Bank Transfer
+14801;100121;23/02/2026;00:39:38;524.09;Entertainment;Brasilia;Debit Card
+14139;100033;23/02/2026;02:55:48;879.58;Online Shopping;Campinas;Digital Wallet
+14528;100054;23/02/2026;04:41:08;1317.31;Travel;Salvador;Debit Card
+13412;100169;23/02/2026;05:55:05;1365.66;Travel;Campinas;Pix
+13099;100157;23/02/2026;06:35:15;81.81;Pharmacy;Porto Alegre;Pix
+14353;100040;23/02/2026;06:41:28;1657.48;Travel;Rio de Janeiro;Bank Transfer
+12821;100118;23/02/2026;07:59:40;257.8;Restaurant;Salvador;Credit Card
+12762;100151;23/02/2026;10:09:36;438.58;Utilities;Recife;Credit Card
+13462;100166;23/02/2026;10:20:50;2519.83;Utilities;Campinas;Debit Card
+13909;100126;23/02/2026;12:13:05;377.19;Entertainment;Salvador;Pix
+13269;100162;23/02/2026;13:08:51;150.92;Restaurant;Belo Horizonte;Digital Wallet
+14062;100017;23/02/2026;13:13:20;244.51;Groceries;Brasilia;Pix
+13854;100134;23/02/2026;14:56:45;763.25;Online Shopping;Recife;Credit Card
+12450;100131;23/02/2026;16:59:50;67.64;Transport;Rio de Janeiro;Pix
+14652;100192;23/02/2026;17:36:38;513.27;Utilities;Rio de Janeiro;Credit Card
+12880;100139;23/02/2026;17:55:02;247.61;Groceries;Recife;Digital Wallet
+13769;100135;23/02/2026;18:00:18;341.76;Online Shopping;Belo Horizonte;Digital Wallet
+14489;100119;23/02/2026;18:38:35;350.97;Entertainment;Brasilia;Credit Card
+13998;100053;23/02/2026;19:24:17;322.89;Fuel;Recife;Credit Card
+12797;100168;23/02/2026;20:24:07;202.35;Groceries;Sao Paulo;Credit Card
+14413;100045;23/02/2026;21:46:54;2849.55;Electronics;Campinas;Debit Card
+13322;100185;23/02/2026;23:28:20;42.57;Restaurant;Sao Paulo;Pix
+14727;100183;23/02/2026;23:29:25;143.42;Groceries;Sao Paulo;Debit Card
+12400;100218;23/03/2026;00:12:45;174.45;Pharmacy;Brasilia;Bank Transfer
+14568;100030;23/03/2026;01:42:55;205.33;Groceries;Sao Paulo;Digital Wallet
+13592;100077;23/03/2026;01:54:02;97.75;Groceries;Belo Horizonte;Digital Wallet
+13491;100157;23/03/2026;02:09:14;34.38;Transport;Curitiba;Digital Wallet
+14714;100065;23/03/2026;03:04:23;109.55;Entertainment;Rio de Janeiro;Debit Card
+12984;100187;23/03/2026;03:14:26;1904.65;Travel;Fortaleza;Digital Wallet
+14613;100084;23/03/2026;04:19:46;40.32;Pharmacy;Sao Paulo;Bank Transfer
+14691;100029;23/03/2026;04:22:52;152.24;Fuel;Sao Paulo;Credit Card
+12699;100203;23/03/2026;04:32:49;2530.57;Travel;Fortaleza;Pix
+13272;100165;23/03/2026;04:51:42;113.61;Transport;Campinas;Credit Card
+12457;100173;23/03/2026;04:56:48;385.64;Utilities;Recife;Pix
+13446;100087;23/03/2026;05:25:15;78.01;Entertainment;Recife;Debit Card
+13897;100126;23/03/2026;08:47:04;238.74;Fuel;Campinas;Pix
+14379;100048;23/03/2026;08:56:31;234.11;Pharmacy;Sao Paulo;Debit Card
+12771;100211;23/03/2026;09:43:01;472.85;Online Shopping;Fortaleza;Bank Transfer
+12851;100192;23/03/2026;10:19:43;5034.76;Travel;Fortaleza;Pix
+14670;100190;23/03/2026;13:46:19;448.5;Entertainment;Recife;Debit Card
+12868;100167;23/03/2026;14:53:47;987.6;Electronics;Rio de Janeiro;Digital Wallet
+13575;100112;23/03/2026;15:44:39;5543.28;Travel;Porto Alegre;Bank Transfer
+14229;100140;23/03/2026;15:49:38;3608.07;Travel;Sao Paulo;Digital Wallet
+14149;100164;23/03/2026;16:11:56;200.03;Restaurant;Curitiba;Digital Wallet
+13424;100049;23/03/2026;17:55:02;385.82;Groceries;Salvador;Credit Card
+12534;100006;23/03/2026;18:23:16;4061.52;Travel;Brasilia;Credit Card
+12503;100148;23/03/2026;19:18:07;2490.99;Travel;Campinas;Bank Transfer
+12939;100014;23/03/2026;19:20:00;101.59;Restaurant;Rio de Janeiro;Debit Card
+14013;100126;23/03/2026;20:30:58;441.41;Entertainment;Porto Alegre;Pix
+13577;100193;23/03/2026;20:32:37;380.6;Entertainment;Fortaleza;Credit Card
+14240;100055;23/03/2026;21:49:37;93.88;Transport;Curitiba;Digital Wallet
+12782;100049;23/03/2026;21:58:42;1155.52;Electronics;Curitiba;Digital Wallet
+12507;100027;24/01/2026;01:09:48;95.4;Transport;Porto Alegre;Debit Card
+13098;100134;24/01/2026;01:44:02;831.53;Online Shopping;Recife;Debit Card
+13794;100156;24/01/2026;02:47:53;1384.89;Restaurant;Fortaleza;Bank Transfer
+13004;100145;24/01/2026;04:03:26;50.5;Transport;Belo Horizonte;Debit Card
+13157;100114;24/01/2026;04:19:01;348.27;Entertainment;Fortaleza;Pix
+12823;100111;24/01/2026;04:37:11;341.49;Entertainment;Brasilia;Digital Wallet
+14707;100220;24/01/2026;05:22:25;93.74;Entertainment;Belo Horizonte;Debit Card
+14818;100178;24/01/2026;05:43:01;419.06;Fuel;Salvador;Bank Transfer
+13340;100085;24/01/2026;06:23:00;5337.52;Travel;Curitiba;Bank Transfer
+13951;100172;24/01/2026;06:40:21;91.8;Groceries;Curitiba;Digital Wallet
+13974;100050;24/01/2026;06:41:59;164.6;Restaurant;Campinas;Debit Card
+14346;100017;24/01/2026;06:45:28;421.15;Fuel;Porto Alegre;Digital Wallet
+13514;100024;24/01/2026;11:12:36;712.05;Online Shopping;Belo Horizonte;Bank Transfer
+12835;100076;24/01/2026;11:47:32;344.02;Online Shopping;Belo Horizonte;Credit Card
+13416;100029;24/01/2026;12:03:47;416.17;Online Shopping;Campinas;Debit Card
+14491;100060;24/01/2026;12:47:44;136.1;Transport;Salvador;Bank Transfer
+14328;100185;24/01/2026;12:52:01;3909.89;Utilities;Sao Paulo;Credit Card
+14125;100046;24/01/2026;13:21:55;3708.9;Travel;Sao Paulo;Pix
+14171;100076;24/01/2026;13:26:19;39.02;Transport;Recife;Pix
+12854;100166;24/01/2026;13:39:53;278.64;Utilities;Belo Horizonte;Debit Card
+13587;100007;24/01/2026;13:41:57;43.79;Transport;Brasilia;Pix
+13927;100072;24/01/2026;14:21:51;642.8;Utilities;Salvador;Pix
+13649;100077;24/01/2026;18:50:56;397.02;Entertainment;Brasilia;Digital Wallet
+13451;100026;24/01/2026;18:52:44;357.48;Electronics;Rio de Janeiro;Digital Wallet
+14598;100207;24/01/2026;19:05:47;228.54;Pharmacy;Rio de Janeiro;Pix
+14537;100031;24/01/2026;20:27:56;64.93;Transport;Belo Horizonte;Pix
+14784;100082;24/01/2026;20:58:31;2761.04;Travel;Curitiba;Pix
+12956;100118;24/01/2026;23:25:32;2242.01;Travel;Rio de Janeiro;Debit Card
+12625;100044;24/01/2026;23:41:03;69.18;Transport;Fortaleza;Bank Transfer
+14094;100109;24/02/2026;02:01:19;2097.54;Electronics;Rio de Janeiro;Pix
+12475;100139;24/02/2026;02:06:53;2822.68;Travel;Campinas;Debit Card
+13837;100074;24/02/2026;02:38:21;262.8;Entertainment;Brasilia;Digital Wallet
+12798;100040;24/02/2026;03:06:42;170.07;Restaurant;Sao Paulo;Pix
+12955;100146;24/02/2026;05:06:49;80.87;Transport;Fortaleza;Digital Wallet
+13583;100158;24/02/2026;10:40:24;6120.34;Travel;Sao Paulo;Digital Wallet
+14761;100117;24/02/2026;10:49:30;1671.22;Electronics;Sao Paulo;Bank Transfer
+14472;100200;24/02/2026;11:15:16;1388.32;Electronics;Salvador;Pix
+13202;100085;24/02/2026;12:09:06;145.32;Entertainment;Recife;Debit Card
+13934;100193;24/02/2026;12:17:03;133.36;Transport;Fortaleza;Digital Wallet
+13784;100007;24/02/2026;12:39:35;2470.46;Electronics;Brasilia;Pix
+12401;100063;24/02/2026;13:11:51;133.01;Transport;Sao Paulo;Credit Card
+14575;100012;24/02/2026;14:05:04;635.43;Travel;Recife;Bank Transfer
+13809;100060;24/02/2026;14:36:25;441.47;Utilities;Rio de Janeiro;Bank Transfer
+14471;100128;24/02/2026;15:39:04;205.03;Entertainment;Brasilia;Pix
+14418;100042;24/02/2026;19:03:20;111.46;Transport;Salvador;Digital Wallet
+13243;100012;24/02/2026;19:06:29;481.4;Utilities;Rio de Janeiro;Digital Wallet
+12593;100050;24/02/2026;22:20:05;58.11;Transport;Campinas;Bank Transfer
+14341;100147;24/02/2026;23:41:57;72.59;Pharmacy;Brasilia;Bank Transfer
+14620;100089;24/03/2026;01:21:02;226.71;Entertainment;Porto Alegre;Bank Transfer
+14783;100160;24/03/2026;03:13:10;129.88;Transport;Recife;Bank Transfer
+12662;100060;24/03/2026;03:27:25;826.64;Travel;Belo Horizonte;Debit Card
+13391;100198;24/03/2026;04:20:54;83.97;Transport;Salvador;Debit Card
+13461;100138;24/03/2026;04:41:12;218.03;Restaurant;Rio de Janeiro;Pix
+14014;100093;24/03/2026;05:11:24;371.11;Restaurant;Belo Horizonte;Pix
+13293;100139;24/03/2026;08:55:10;250.84;Groceries;Brasilia;Pix
+14709;100203;24/03/2026;09:34:03;499.11;Online Shopping;Curitiba;Credit Card
+13948;100011;24/03/2026;09:36:06;123.54;Entertainment;Rio de Janeiro;Digital Wallet
+13079;100197;24/03/2026;09:58:28;3881.46;Travel;Curitiba;Digital Wallet
+13020;100087;24/03/2026;10:30:09;869.36;Online Shopping;Brasilia;Credit Card
+12448;100216;24/03/2026;10:31:59;179.39;Pharmacy;Brasilia;Credit Card
+12942;100195;24/03/2026;10:44:34;281.92;Groceries;Sao Paulo;Pix
+12775;100197;24/03/2026;11:38:51;44.55;Groceries;Brasilia;Debit Card
+13865;100134;24/03/2026;11:55:33;1393.36;Electronics;Recife;Bank Transfer
+12964;100177;24/03/2026;15:02:46;382.0;Entertainment;Rio de Janeiro;Digital Wallet
+12918;100168;24/03/2026;18:17:56;211.26;Fuel;Porto Alegre;Digital Wallet
+13543;100098;24/03/2026;19:12:17;33.02;Transport;Sao Paulo;Pix
+14105;100065;24/03/2026;20:28:48;70.64;Transport;Salvador;Pix
+13667;100196;24/03/2026;21:24:30;248.83;Fuel;Recife;Credit Card
+12390;100072;24/03/2026;22:25:43;283.73;Pharmacy;Porto Alegre;Pix
+13294;100204;24/03/2026;23:05:12;382.15;Fuel;Fortaleza;Credit Card
+12909;100219;25/01/2026;00:08:36;3724.4;Travel;Porto Alegre;Bank Transfer
+14443;100212;25/01/2026;00:11:28;101.0;Entertainment;Brasilia;Credit Card
+14249;100068;25/01/2026;00:13:37;2192.15;Electronics;Salvador;Credit Card
+14254;100064;25/01/2026;02:58:36;175.49;Pharmacy;Salvador;Debit Card
+13415;100111;25/01/2026;04:08:12;65.67;Transport;Belo Horizonte;Pix
+14429;100182;25/01/2026;08:08:12;449.14;Utilities;Rio de Janeiro;Debit Card
+13674;100190;25/01/2026;08:37:01;79.83;Transport;Recife;Digital Wallet
+14351;100146;25/01/2026;09:11:53;366.61;Entertainment;Curitiba;Debit Card
+14621;100214;25/01/2026;10:29:38;778.38;Online Shopping;Rio de Janeiro;Bank Transfer
+12564;100041;25/01/2026;11:31:32;1362.6;Electronics;Campinas;Pix
+14284;100161;25/01/2026;11:52:10;164.14;Entertainment;Sao Paulo;Pix
+12992;100126;25/01/2026;13:02:26;5672.34;Online Shopping;Belo Horizonte;Debit Card
+12580;100178;25/01/2026;13:17:35;181.62;Fuel;Campinas;Bank Transfer
+13597;100127;25/01/2026;14:11:12;3729.86;Travel;Fortaleza;Bank Transfer
+14751;100190;25/01/2026;15:29:18;40.52;Transport;Sao Paulo;Debit Card
+14747;100092;25/01/2026;16:37:21;461.59;Utilities;Campinas;Bank Transfer
+13547;100092;25/01/2026;16:48:25;282.18;Fuel;Recife;Digital Wallet
+13378;100119;25/01/2026;18:02:00;1939.54;Travel;Salvador;Bank Transfer
+13407;100032;25/01/2026;19:16:49;5276.63;Travel;Campinas;Debit Card
+13501;100185;25/01/2026;19:35:45;46.19;Transport;Sao Paulo;Debit Card
+14642;100058;25/01/2026;19:44:10;200.56;Utilities;Sao Paulo;Debit Card
+13571;100149;25/01/2026;19:44:34;194.54;Pharmacy;Sao Paulo;Debit Card
+12895;100089;25/01/2026;20:59:25;241.08;Fuel;Curitiba;Digital Wallet
+14038;100034;25/01/2026;21:18:17;607.78;Electronics;Porto Alegre;Digital Wallet
+13295;100194;25/01/2026;21:32:57;54.03;Groceries;Campinas;Digital Wallet
+12735;100146;25/01/2026;21:34:19;145.46;Entertainment;Belo Horizonte;Digital Wallet
+14044;100021;25/01/2026;21:52:12;3842.46;Travel;Salvador;Digital Wallet
+13071;100101;25/01/2026;22:21:43;951.74;Online Shopping;Curitiba;Digital Wallet
+12948;100185;25/01/2026;22:43:31;192.15;Pharmacy;Fortaleza;Bank Transfer
+13346;100063;25/01/2026;23:18:50;106.91;Groceries;Campinas;Digital Wallet
+14609;100065;25/01/2026;23:19:11;185.36;Fuel;Fortaleza;Digital Wallet
+14804;100192;25/01/2026;23:25:12;809.54;Transport;Fortaleza;Pix
+12370;100205;25/01/2026;23:28:08;119.17;Pharmacy;Curitiba;Debit Card
+13942;100098;25/02/2026;00:10:56;277.37;Fuel;Rio de Janeiro;Bank Transfer
+12356;100144;25/02/2026;00:25:23;264.35;Utilities;Porto Alegre;Digital Wallet
+14480;100136;25/02/2026;01:16:31;411.17;Electronics;Brasilia;Bank Transfer
+14115;100100;25/02/2026;01:37:58;1386.03;Electronics;Curitiba;Pix
+13330;100003;25/02/2026;01:39:06;561.37;Online Shopping;Recife;Bank Transfer
+13677;100144;25/02/2026;02:24:55;28.23;Transport;Rio de Janeiro;Bank Transfer
+13320;100175;25/02/2026;02:43:41;164.51;Utilities;Brasilia;Credit Card
+13780;100014;25/02/2026;03:30:20;50.07;Transport;Fortaleza;Bank Transfer
+13997;100154;25/02/2026;03:36:45;268.11;Restaurant;Campinas;Pix
+13767;100132;25/02/2026;04:04:24;1439.13;Utilities;Rio de Janeiro;Credit Card
+12689;100003;25/02/2026;04:08:30;81.55;Groceries;Salvador;Credit Card
+12804;100219;25/02/2026;05:07:06;326.41;Fuel;Salvador;Pix
+13399;100053;25/02/2026;05:29:19;100.9;Restaurant;Fortaleza;Credit Card
+13725;100191;25/02/2026;06:44:10;293.5;Pharmacy;Belo Horizonte;Credit Card
+14228;100116;25/02/2026;07:04:51;245.56;Restaurant;Recife;Credit Card
+13159;100029;25/02/2026;07:12:06;42.62;Pharmacy;Sao Paulo;Bank Transfer
+13896;100132;25/02/2026;07:32:55;2185.31;Electronics;Sao Paulo;Digital Wallet
+13742;100023;25/02/2026;08:31:35;451.81;Utilities;Curitiba;Credit Card
+14667;100034;25/02/2026;09:05:18;136.7;Transport;Recife;Debit Card
+14644;100176;25/02/2026;09:49:07;1436.68;Electronics;Campinas;Credit Card
+13832;100006;25/02/2026;09:50:12;73.77;Transport;Porto Alegre;Credit Card
+14204;100102;25/02/2026;13:18:15;289.25;Entertainment;Curitiba;Bank Transfer
+14788;100171;25/02/2026;13:29:42;336.6;Entertainment;Recife;Debit Card
+13102;100014;25/02/2026;14:21:39;2207.91;Electronics;Porto Alegre;Debit Card
+12968;100148;25/02/2026;15:50:25;229.66;Utilities;Rio de Janeiro;Debit Card
+14544;100195;25/02/2026;17:44:37;1007.26;Online Shopping;Salvador;Debit Card
+13989;100051;25/02/2026;18:05:31;108.56;Fuel;Recife;Bank Transfer
+12910;100185;25/02/2026;18:12:09;306.71;Fuel;Curitiba;Digital Wallet
+14202;100170;25/02/2026;18:52:27;74.85;Pharmacy;Salvador;Credit Card
+14531;100097;25/02/2026;19:31:26;121.37;Fuel;Fortaleza;Digital Wallet
+13197;100080;25/02/2026;19:41:57;209.28;Online Shopping;Brasilia;Digital Wallet
+12965;100200;25/02/2026;19:59:55;98.78;Groceries;Salvador;Pix
+14842;100083;25/02/2026;21:08:20;2739.16;Electronics;Campinas;Digital Wallet
+13481;100103;25/02/2026;21:12:05;1491.31;Electronics;Sao Paulo;Credit Card
+14687;100054;25/02/2026;22:51:29;981.55;Electronics;Porto Alegre;Debit Card
+14559;100028;25/03/2026;01:07:09;199.46;Groceries;Salvador;Debit Card
+14080;100067;25/03/2026;03:35:01;70.09;Restaurant;Curitiba;Credit Card
+14790;100067;25/03/2026;03:35:21;114.59;Entertainment;Fortaleza;Credit Card
+13538;100121;25/03/2026;04:00:18;1375.79;Travel;Salvador;Bank Transfer
+14166;100121;25/03/2026;04:04:28;1734.12;Groceries;Campinas;Debit Card
+13579;100032;25/03/2026;04:50:47;1224.72;Electronics;Brasilia;Bank Transfer
+12624;100176;25/03/2026;05:31:29;813.18;Electronics;Porto Alegre;Bank Transfer
+13681;100029;25/03/2026;06:02:21;221.22;Entertainment;Brasilia;Pix
+13576;100026;25/03/2026;06:39:59;117.33;Pharmacy;Rio de Janeiro;Credit Card
+13709;100159;25/03/2026;07:11:43;191.5;Groceries;Curitiba;Credit Card
+13969;100006;25/03/2026;07:57:22;379.99;Utilities;Brasilia;Digital Wallet
+14708;100159;25/03/2026;07:57:24;951.79;Electronics;Curitiba;Pix
+13040;100183;25/03/2026;08:50:19;139.45;Pharmacy;Salvador;Digital Wallet
+13343;100026;25/03/2026;09:21:59;122.43;Groceries;Belo Horizonte;Bank Transfer
+13527;100183;25/03/2026;10:20:09;113.8;Pharmacy;Sao Paulo;Debit Card
+12863;100067;25/03/2026;10:23:25;266.11;Utilities;Fortaleza;Bank Transfer
+13250;100220;25/03/2026;10:41:15;173.53;Groceries;Curitiba;Bank Transfer
+12679;100193;25/03/2026;10:44:55;1479.4;Travel;Sao Paulo;Pix
+13619;100220;25/03/2026;10:54:32;669.34;Electronics;Porto Alegre;Bank Transfer
+13306;100209;25/03/2026;11:00:03;1406.96;Online Shopping;Campinas;Pix
+14231;100186;25/03/2026;12:00:43;1289.07;Electronics;Belo Horizonte;Digital Wallet
+12512;100190;25/03/2026;12:20:38;183.47;Groceries;Brasilia;Digital Wallet
+12587;100041;25/03/2026;12:48:18;2183.68;Travel;Brasilia;Bank Transfer
+13691;100012;25/03/2026;13:18:08;1662.92;Electronics;Salvador;Digital Wallet
+14625;100077;25/03/2026;16:56:39;291.66;Entertainment;Rio de Janeiro;Debit Card
+13685;100010;25/03/2026;17:27:30;527.88;Online Shopping;Fortaleza;Debit Card
+14786;100037;25/03/2026;17:36:46;465.87;Entertainment;Belo Horizonte;Credit Card
+13408;100131;25/03/2026;18:59:27;1016.35;Online Shopping;Salvador;Credit Card
+14718;100171;25/03/2026;21:06:08;258.38;Groceries;Rio de Janeiro;Digital Wallet
+14668;100202;25/03/2026;23:44:20;1993.69;Travel;Belo Horizonte;Pix
+13980;100145;26/01/2026;02:39:31;840.56;Electronics;Rio de Janeiro;Debit Card
+13319;100146;26/01/2026;03:01:44;207.93;Restaurant;Fortaleza;Pix
+14018;100063;26/01/2026;05:42:50;192.88;Restaurant;Curitiba;Digital Wallet
+14479;100052;26/01/2026;06:01:36;2606.39;Travel;Belo Horizonte;Credit Card
+14548;100167;26/01/2026;08:07:08;1440.81;Online Shopping;Salvador;Debit Card
+13568;100100;26/01/2026;08:46:42;211.04;Groceries;Fortaleza;Digital Wallet
+13484;100091;26/01/2026;09:12:18;927.16;Travel;Sao Paulo;Pix
+14723;100061;26/01/2026;09:38:05;195.62;Restaurant;Campinas;Pix
+12399;100193;26/01/2026;10:01:02;116.59;Restaurant;Porto Alegre;Debit Card
+12551;100093;26/01/2026;10:15:50;388.7;Utilities;Curitiba;Credit Card
+12468;100076;26/01/2026;10:50:34;2471.15;Electronics;Recife;Debit Card
+13799;100106;26/01/2026;11:18:16;213.31;Restaurant;Curitiba;Pix
+13145;100143;26/01/2026;11:53:24;515.2;Online Shopping;Campinas;Debit Card
+14020;100077;26/01/2026;12:21:35;434.79;Entertainment;Recife;Credit Card
+13336;100144;26/01/2026;12:40:58;120.33;Groceries;Recife;Pix
+13977;100024;26/01/2026;13:22:41;80.26;Transport;Porto Alegre;Bank Transfer
+13301;100067;26/01/2026;13:48:38;3238.86;Travel;Rio de Janeiro;Credit Card
+13673;100164;26/01/2026;14:31:28;317.8;Entertainment;Fortaleza;Debit Card
+13956;100160;26/01/2026;14:54:45;706.65;Online Shopping;Belo Horizonte;Bank Transfer
+14604;100204;26/01/2026;15:51:34;189.3;Utilities;Belo Horizonte;Bank Transfer
+14702;100128;26/01/2026;18:02:06;33.15;Pharmacy;Fortaleza;Debit Card
+13092;100153;26/01/2026;19:21:51;398.28;Entertainment;Curitiba;Credit Card
+12646;100185;26/01/2026;20:06:08;529.01;Online Shopping;Campinas;Digital Wallet
+12970;100034;26/01/2026;21:25:41;73.81;Transport;Brasilia;Digital Wallet
+14477;100088;26/01/2026;22:02:26;177.78;Groceries;Brasilia;Credit Card
+13370;100155;26/01/2026;22:45:43;233.72;Entertainment;Porto Alegre;Digital Wallet
+13686;100059;26/01/2026;23:38:55;160.05;Groceries;Sao Paulo;Credit Card
+14140;100134;26/02/2026;01:01:26;127.65;Fuel;Brasilia;Credit Card
+12790;100200;26/02/2026;02:27:25;120.41;Pharmacy;Belo Horizonte;Digital Wallet
+12739;100078;26/02/2026;02:31:41;1081.38;Electronics;Belo Horizonte;Debit Card
+12632;100180;26/02/2026;02:50:21;73.27;Transport;Rio de Janeiro;Bank Transfer
+14167;100093;26/02/2026;05:28:58;2563.98;Travel;Sao Paulo;Bank Transfer
+13982;100198;26/02/2026;06:39:02;126.52;Transport;Fortaleza;Debit Card
+12509;100160;26/02/2026;08:30:28;1722.81;Electronics;Salvador;Debit Card
+13939;100190;26/02/2026;10:43:17;1634.39;Entertainment;Belo Horizonte;Debit Card
+13270;100118;26/02/2026;10:49:00;518.04;Utilities;Salvador;Credit Card
+13852;100119;26/02/2026;13:50:11;1548.65;Online Shopping;Curitiba;Digital Wallet
+14521;100038;26/02/2026;14:26:33;216.95;Pharmacy;Porto Alegre;Credit Card
+12647;100086;26/02/2026;16:27:52;390.82;Entertainment;Recife;Pix
+13136;100194;26/02/2026;16:44:07;342.04;Entertainment;Belo Horizonte;Digital Wallet
+12463;100174;26/02/2026;17:37:19;468.08;Utilities;Belo Horizonte;Credit Card
+13907;100054;26/02/2026;18:12:13;4202.52;Travel;Sao Paulo;Bank Transfer
+12498;100114;26/02/2026;19:17:13;4106.2;Travel;Brasilia;Digital Wallet
+13737;100117;26/02/2026;19:31:16;134.52;Fuel;Rio de Janeiro;Credit Card
+13267;100086;26/02/2026;19:49:49;14.17;Transport;Rio de Janeiro;Debit Card
+12476;100072;26/02/2026;20:15:54;156.17;Groceries;Salvador;Debit Card
+12523;100121;26/02/2026;20:49:18;237.22;Restaurant;Salvador;Digital Wallet
+13264;100132;26/02/2026;20:53:48;120.76;Entertainment;Rio de Janeiro;Credit Card
+12671;100127;26/02/2026;21:10:05;3146.28;Travel;Brasilia;Bank Transfer
+14654;100039;26/02/2026;21:22:54;300.02;Restaurant;Belo Horizonte;Debit Card
+13968;100148;26/02/2026;21:37:27;79.03;Groceries;Brasilia;Digital Wallet
+12944;100035;26/02/2026;23:18:34;273.63;Fuel;Sao Paulo;Bank Transfer
+14459;100138;26/03/2026;03:51:19;276.05;Groceries;Belo Horizonte;Bank Transfer
+12779;100164;26/03/2026;04:57:41;1048.84;Electronics;Porto Alegre;Pix
+14172;100024;26/03/2026;05:11:18;265.19;Entertainment;Sao Paulo;Digital Wallet
+13447;100126;26/03/2026;05:24:49;272.11;Fuel;Campinas;Debit Card
+12930;100196;26/03/2026;05:34:51;174.2;Entertainment;Porto Alegre;Pix
+13644;100079;26/03/2026;06:03:16;103.86;Groceries;Recife;Pix
+12634;100020;26/03/2026;07:11:59;1642.07;Fuel;Fortaleza;Digital Wallet
+13588;100216;26/03/2026;07:17:05;302.71;Restaurant;Recife;Pix
+14307;100131;26/03/2026;07:23:19;251.97;Restaurant;Salvador;Pix
+14028;100180;26/03/2026;10:58:28;137.64;Fuel;Curitiba;Credit Card
+13699;100048;26/03/2026;15:02:34;4154.15;Travel;Fortaleza;Credit Card
+12520;100198;26/03/2026;16:56:49;455.76;Utilities;Fortaleza;Credit Card
+14399;100095;26/03/2026;17:48:24;160.41;Groceries;Porto Alegre;Credit Card
+12714;100163;26/03/2026;18:54:47;257.77;Groceries;Salvador;Credit Card
+13746;100108;26/03/2026;19:07:11;684.87;Online Shopping;Salvador;Debit Card
+13185;100138;26/03/2026;19:36:32;2580.9;Electronics;Sao Paulo;Bank Transfer
+14684;100116;26/03/2026;20:14:06;501.72;Entertainment;Recife;Debit Card
+13971;100111;26/03/2026;20:19:34;87.57;Transport;Recife;Debit Card
+14035;100111;26/03/2026;20:42:05;9273.47;Electronics;Sao Paulo;Pix
+12451;100073;26/03/2026;21:55:09;211.62;Fuel;Campinas;Digital Wallet
+12977;100037;26/03/2026;22:02:16;112.7;Groceries;Recife;Digital Wallet
+12483;100129;26/03/2026;22:19:29;1789.41;Restaurant;Campinas;Credit Card
+13475;100180;26/03/2026;22:43:38;155.41;Utilities;Salvador;Debit Card
+13198;100035;26/03/2026;23:11:41;308.65;Groceries;Porto Alegre;Pix
+13810;100043;27/01/2026;00:48:08;146.67;Fuel;Campinas;Digital Wallet
+14006;100065;27/01/2026;02:03:25;56.35;Transport;Salvador;Bank Transfer
+13211;100114;27/01/2026;02:19:20;74.27;Transport;Sao Paulo;Bank Transfer
+12725;100209;27/01/2026;02:28:51;69.73;Pharmacy;Sao Paulo;Credit Card
+13545;100194;27/01/2026;02:59:02;170.69;Fuel;Curitiba;Digital Wallet
+13931;100050;27/01/2026;05:47:22;69.33;Transport;Curitiba;Credit Card
+13835;100073;27/01/2026;06:50:26;262.39;Fuel;Sao Paulo;Bank Transfer
+14474;100201;27/01/2026;06:51:58;531.15;Utilities;Rio de Janeiro;Credit Card
+14095;100078;27/01/2026;09:58:40;93.43;Transport;Porto Alegre;Bank Transfer
+13398;100018;27/01/2026;10:05:11;186.54;Restaurant;Sao Paulo;Debit Card
+14087;100115;27/01/2026;11:07:02;210.27;Entertainment;Fortaleza;Bank Transfer
+13236;100198;27/01/2026;11:24:49;2481.01;Travel;Rio de Janeiro;Credit Card
+12789;100015;27/01/2026;11:36:48;109.58;Groceries;Brasilia;Pix
+14322;100176;27/01/2026;12:13:48;295.56;Groceries;Porto Alegre;Debit Card
+14705;100193;27/01/2026;12:44:09;149.62;Fuel;Belo Horizonte;Debit Card
+13217;100212;27/01/2026;12:55:52;1088.54;Online Shopping;Rio de Janeiro;Debit Card
+13296;100137;27/01/2026;13:53:45;107.17;Transport;Sao Paulo;Pix
+13369;100018;27/01/2026;15:27:52;3850.23;Travel;Curitiba;Debit Card
+14440;100180;27/01/2026;16:35:19;120.45;Restaurant;Campinas;Digital Wallet
+12616;100035;27/01/2026;16:41:05;5369.76;Travel;Curitiba;Pix
+13665;100041;27/01/2026;17:57:45;1482.71;Electronics;Fortaleza;Digital Wallet
+14016;100059;27/01/2026;18:26:56;2539.35;Travel;Belo Horizonte;Pix
+12407;100139;27/01/2026;19:24:57;1068.69;Online Shopping;Recife;Credit Card
+13732;100082;27/01/2026;19:33:17;74.2;Transport;Belo Horizonte;Credit Card
+13359;100039;27/01/2026;21:14:33;3243.29;Travel;Curitiba;Debit Card
+13763;100022;27/01/2026;21:37:15;59.17;Pharmacy;Fortaleza;Debit Card
+14216;100172;27/01/2026;21:41:02;326.85;Utilities;Campinas;Pix
+12845;100199;27/01/2026;23:53:44;274.41;Restaurant;Recife;Credit Card
+14367;100070;27/02/2026;01:18:25;110.61;Groceries;Brasilia;Bank Transfer
+13875;100003;27/02/2026;02:12:37;380.54;Entertainment;Recife;Credit Card
+13555;100118;27/02/2026;02:59:08;371.4;Fuel;Brasilia;Pix
+14278;100137;27/02/2026;04:08:14;184.8;Pharmacy;Rio de Janeiro;Digital Wallet
+12943;100060;27/02/2026;05:12:01;1868.25;Electronics;Fortaleza;Pix
+12745;100028;27/02/2026;05:26:10;324.94;Groceries;Sao Paulo;Bank Transfer
+13000;100035;27/02/2026;06:11:29;3258.38;Travel;Recife;Pix
+14030;100113;27/02/2026;06:31:42;272.24;Entertainment;Campinas;Debit Card
+13080;100019;27/02/2026;06:57:31;73.84;Pharmacy;Campinas;Pix
+13283;100109;27/02/2026;08:23:43;69.4;Transport;Brasilia;Debit Card
+14686;100031;27/02/2026;08:58:59;144.19;Pharmacy;Salvador;Digital Wallet
+14476;100004;27/02/2026;09:09:37;142.46;Utilities;Rio de Janeiro;Pix
+12365;100172;27/02/2026;09:15:14;3707.24;Electronics;Brasilia;Digital Wallet
+12831;100053;27/02/2026;09:39:55;490.55;Utilities;Sao Paulo;Pix
+12825;100071;27/02/2026;10:08:26;3314.56;Travel;Salvador;Pix
+14214;100151;27/02/2026;10:09:46;56.33;Pharmacy;Belo Horizonte;Credit Card
+14496;100132;27/02/2026;10:57:07;108.08;Entertainment;Fortaleza;Digital Wallet
+14900;100211;27/02/2026;11:35:00;1881.51;Online Shopping;Salvador;Digital Wallet
+14901;100211;27/02/2026;11:37:00;1959.26;Online Shopping;Salvador;Debit Card
+14902;100211;27/02/2026;11:39:00;4287.25;Online Shopping;Salvador;Credit Card
+14903;100211;27/02/2026;11:41:00;3886.09;Electronics;Brasilia;Debit Card
+14904;100211;27/02/2026;11:43:00;1159.49;Travel;Brasilia;Digital Wallet
+13600;100146;27/02/2026;11:56:02;2900.81;Electronics;Salvador;Credit Card
+14608;100140;27/02/2026;12:37:35;1829.52;Travel;Sao Paulo;Bank Transfer
+12487;100168;27/02/2026;13:26:21;601.39;Utilities;Curitiba;Bank Transfer
+12522;100061;27/02/2026;13:34:15;533.41;Online Shopping;Campinas;Pix
+12841;100211;27/02/2026;13:57:41;221.24;Groceries;Rio de Janeiro;Pix
+14226;100060;27/02/2026;14:19:57;1773.36;Electronics;Campinas;Debit Card
+14738;100063;27/02/2026;15:14:36;339.43;Fuel;Porto Alegre;Digital Wallet
+12946;100042;27/02/2026;15:52:16;141.17;Pharmacy;Fortaleza;Debit Card
+14235;100200;27/02/2026;16:07:32;295.0;Fuel;Belo Horizonte;Credit Card
+12605;100166;27/02/2026;18:24:05;3707.33;Travel;Salvador;Bank Transfer
+13721;100093;27/02/2026;19:14:36;1167.54;Online Shopping;Campinas;Debit Card
+12433;100159;27/02/2026;20:19:55;185.57;Restaurant;Fortaleza;Bank Transfer
+12843;100211;27/02/2026;21:02:18;2566.43;Electronics;Fortaleza;Digital Wallet
+12638;100199;27/02/2026;21:14:22;1543.04;Electronics;Sao Paulo;Pix
+12599;100175;27/02/2026;22:45:23;105.35;Entertainment;Rio de Janeiro;Digital Wallet
+12568;100074;27/02/2026;23:17:52;292.41;Pharmacy;Recife;Digital Wallet
+14155;100191;27/03/2026;00:03:00;1376.62;Travel;Curitiba;Credit Card
+13660;100140;27/03/2026;01:07:27;709.8;Fuel;Campinas;Bank Transfer
+13435;100198;27/03/2026;01:37:14;5549.79;Electronics;Belo Horizonte;Digital Wallet
+13335;100095;27/03/2026;03:09:03;128.54;Groceries;Fortaleza;Digital Wallet
+14507;100091;27/03/2026;03:41:25;80.01;Pharmacy;Brasilia;Digital Wallet
+13495;100047;27/03/2026;05:20:13;138.85;Groceries;Sao Paulo;Credit Card
+13193;100048;27/03/2026;05:29:17;475.17;Entertainment;Brasilia;Debit Card
+13653;100014;27/03/2026;06:29:51;4154.15;Travel;Belo Horizonte;Bank Transfer
+13615;100193;27/03/2026;09:33:33;166.0;Entertainment;Recife;Bank Transfer
+13430;100072;27/03/2026;09:42:08;295.75;Restaurant;Porto Alegre;Bank Transfer
+14368;100115;27/03/2026;10:38:08;53.43;Transport;Recife;Bank Transfer
+13722;100138;27/03/2026;10:38:16;243.05;Restaurant;Recife;Digital Wallet
+14789;100105;27/03/2026;11:02:27;56.1;Transport;Campinas;Pix
+13485;100191;27/03/2026;12:30:42;3117.54;Electronics;Sao Paulo;Debit Card
+13662;100026;27/03/2026;14:25:24;326.19;Entertainment;Brasilia;Pix
+14133;100202;27/03/2026;14:37:33;45.0;Groceries;Rio de Janeiro;Digital Wallet
+13133;100048;27/03/2026;16:22:09;139.97;Restaurant;Fortaleza;Credit Card
+14557;100045;27/03/2026;17:16:16;207.55;Fuel;Porto Alegre;Pix
+13140;100155;27/03/2026;17:25:09;334.61;Entertainment;Fortaleza;Credit Card
+14257;100016;27/03/2026;18:12:52;2982.96;Travel;Curitiba;Digital Wallet
+14432;100121;27/03/2026;20:11:50;1684.53;Travel;Fortaleza;Credit Card
+12367;100019;27/03/2026;21:13:34;220.95;Utilities;Curitiba;Pix
+14362;100193;27/03/2026;22:27:38;143.4;Restaurant;Sao Paulo;Credit Card
+13985;100141;27/03/2026;23:04:21;1924.7;Travel;Brasilia;Credit Card
+14375;100049;27/03/2026;23:18:19;120.07;Restaurant;Brasilia;Credit Card
+14546;100045;27/03/2026;23:44:48;169.22;Fuel;Belo Horizonte;Credit Card
+13498;100155;28/01/2026;00:24:05;2516.86;Electronics;Curitiba;Pix
+13676;100175;28/01/2026;00:52:30;392.16;Utilities;Brasilia;Debit Card
+13218;100127;28/01/2026;01:13:52;2050.01;Travel;Belo Horizonte;Bank Transfer
+13454;100032;28/01/2026;02:10:05;206.55;Groceries;Belo Horizonte;Digital Wallet
+12386;100079;28/01/2026;03:15:42;661.84;Electronics;Sao Paulo;Pix
+13995;100157;28/01/2026;04:07:59;139.96;Groceries;Sao Paulo;Bank Transfer
+14233;100066;28/01/2026;05:10:23;1304.41;Travel;Belo Horizonte;Bank Transfer
+13413;100205;28/01/2026;05:25:44;1065.17;Electronics;Belo Horizonte;Pix
+13936;100020;28/01/2026;05:39:38;385.34;Fuel;Fortaleza;Pix
+12853;100138;28/01/2026;05:47:57;523.7;Utilities;Rio de Janeiro;Pix
+14746;100092;28/01/2026;05:55:29;104.33;Pharmacy;Belo Horizonte;Credit Card
+13700;100156;28/01/2026;06:21:46;2290.4;Electronics;Porto Alegre;Digital Wallet
+13276;100033;28/01/2026;08:32:35;303.89;Utilities;Fortaleza;Pix
+13623;100141;28/01/2026;10:25:32;120.73;Pharmacy;Salvador;Bank Transfer
+13045;100084;28/01/2026;10:56:37;1325.92;Online Shopping;Sao Paulo;Credit Card
+14566;100132;28/01/2026;11:09:07;69.97;Groceries;Campinas;Digital Wallet
+13289;100108;28/01/2026;11:52:47;186.84;Groceries;Porto Alegre;Pix
+13843;100218;28/01/2026;12:07:36;97.33;Pharmacy;Rio de Janeiro;Bank Transfer
+14134;100036;28/01/2026;12:42:30;1385.69;Electronics;Curitiba;Bank Transfer
+14759;100085;28/01/2026;12:56:00;1867.61;Travel;Campinas;Credit Card
+12479;100213;28/01/2026;13:21:49;229.41;Utilities;Curitiba;Digital Wallet
+14344;100136;28/01/2026;13:41:23;78.27;Transport;Recife;Credit Card
+13818;100036;28/01/2026;15:27:05;561.34;Online Shopping;Curitiba;Credit Card
+13715;100152;28/01/2026;16:32:45;277.71;Groceries;Rio de Janeiro;Digital Wallet
+14019;100141;28/01/2026;18:09:30;1362.47;Travel;Salvador;Pix
+13541;100024;28/01/2026;18:39:03;264.17;Utilities;Recife;Debit Card
+14048;100154;28/01/2026;19:16:52;2268.11;Travel;Fortaleza;Pix
+13926;100049;28/01/2026;20:39:16;264.43;Entertainment;Recife;Bank Transfer
+12414;100033;28/01/2026;20:44:16;1064.1;Online Shopping;Rio de Janeiro;Digital Wallet
+12683;100137;28/01/2026;21:17:20;4578.05;Travel;Curitiba;Bank Transfer
+13025;100061;28/01/2026;22:19:11;686.17;Electronics;Brasilia;Pix
+13164;100044;28/01/2026;22:54:45;379.04;Utilities;Sao Paulo;Credit Card
+14611;100071;28/02/2026;01:21:22;85.13;Groceries;Recife;Pix
+13002;100188;28/02/2026;02:23:05;137.73;Pharmacy;Rio de Janeiro;Credit Card
+13502;100219;28/02/2026;02:45:07;685.38;Utilities;Salvador;Pix
+12913;100056;28/02/2026;05:21:16;193.85;Fuel;Brasilia;Credit Card
+13893;100198;28/02/2026;05:56:13;80.44;Pharmacy;Salvador;Pix
+13562;100180;28/02/2026;07:34:09;1454.22;Online Shopping;Rio de Janeiro;Pix
+12770;100215;28/02/2026;07:58:23;249.97;Groceries;Curitiba;Credit Card
+14860;100096;28/02/2026;08:03:00;2663.46;Online Shopping;Salvador;Credit Card
+14861;100096;28/02/2026;08:05:00;2016.76;Online Shopping;Salvador;Credit Card
+14862;100096;28/02/2026;08:07:00;1607.47;Travel;Salvador;Pix
+14863;100096;28/02/2026;08:09:00;1650.06;Electronics;Sao Paulo;Pix
+14864;100096;28/02/2026;08:11:00;3090.65;Travel;Sao Paulo;Debit Card
+13460;100067;28/02/2026;08:16:43;2568.62;Travel;Belo Horizonte;Bank Transfer
+14450;100147;28/02/2026;08:22:53;421.72;Entertainment;Salvador;Credit Card
+14810;100208;28/02/2026;09:15:27;3087.98;Travel;Belo Horizonte;Bank Transfer
+13569;100171;28/02/2026;10:31:55;1079.83;Electronics;Sao Paulo;Debit Card
+12402;100013;28/02/2026;10:51:29;485.57;Utilities;Curitiba;Credit Card
+14777;100066;28/02/2026;11:10:01;137.65;Restaurant;Curitiba;Digital Wallet
+14298;100109;28/02/2026;11:43:17;838.8;Utilities;Rio de Janeiro;Pix
+12373;100098;28/02/2026;15:27:44;373.96;Groceries;Recife;Pix
+13129;100179;28/02/2026;15:36:08;670.75;Utilities;Fortaleza;Bank Transfer
+12496;100136;28/02/2026;16:10:23;128.52;Restaurant;Recife;Bank Transfer
+12452;100086;28/02/2026;16:55:12;800.33;Utilities;Fortaleza;Bank Transfer
+13826;100073;28/02/2026;17:03:56;217.02;Groceries;Rio de Janeiro;Bank Transfer
+14640;100108;28/02/2026;17:22:33;40.82;Transport;Sao Paulo;Debit Card
+14241;100191;28/02/2026;18:20:41;139.2;Restaurant;Brasilia;Digital Wallet
+13028;100133;28/02/2026;18:45:55;597.83;Transport;Curitiba;Credit Card
+13574;100196;28/02/2026;19:23:11;1542.41;Electronics;Rio de Janeiro;Debit Card
+13286;100132;28/02/2026;21:02:47;234.35;Utilities;Rio de Janeiro;Debit Card
+13578;100219;28/02/2026;23:24:07;1742.5;Travel;Curitiba;Debit Card
+14207;100035;28/03/2026;00:05:02;155.2;Fuel;Salvador;Pix
+12740;100144;28/03/2026;00:52:11;207.39;Entertainment;Salvador;Debit Card
+14236;100120;28/03/2026;01:17:50;189.75;Utilities;Rio de Janeiro;Bank Transfer
+13292;100039;28/03/2026;01:26:24;935.45;Electronics;Rio de Janeiro;Digital Wallet
+13222;100061;28/03/2026;01:45:47;7405.62;Online Shopping;Salvador;Digital Wallet
+14197;100085;28/03/2026;03:53:45;1625.2;Electronics;Fortaleza;Debit Card
+12710;100147;28/03/2026;07:11:14;2205.21;Electronics;Rio de Janeiro;Digital Wallet
+14635;100009;28/03/2026;07:22:15;46.55;Entertainment;Sao Paulo;Bank Transfer
+12573;100209;28/03/2026;09:26:37;143.75;Groceries;Salvador;Pix
+13879;100042;28/03/2026;15:06:59;111.1;Transport;Rio de Janeiro;Bank Transfer
+13047;100175;28/03/2026;15:58:59;1299.22;Electronics;Porto Alegre;Digital Wallet
+14715;100069;28/03/2026;16:21:27;94.57;Pharmacy;Rio de Janeiro;Digital Wallet
+13902;100039;28/03/2026;16:34:29;261.41;Fuel;Curitiba;Digital Wallet
+13639;100116;28/03/2026;17:56:21;339.07;Utilities;Belo Horizonte;Pix
+13839;100128;28/03/2026;18:16:25;61.44;Restaurant;Fortaleza;Debit Card
+13525;100136;28/03/2026;19:09:57;1811.54;Electronics;Campinas;Debit Card
+13382;100092;28/03/2026;23:13:28;87.51;Transport;Curitiba;Credit Card
+12582;100071;28/03/2026;23:24:57;404.87;Fuel;Rio de Janeiro;Digital Wallet
+14104;100197;28/03/2026;23:26:23;387.03;Fuel;Belo Horizonte;Bank Transfer
+13467;100082;28/03/2026;23:35:38;4992.13;Travel;Belo Horizonte;Pix
+14812;100184;28/03/2026;23:54:32;341.77;Entertainment;Belo Horizonte;Credit Card
+13123;100213;28/03/2026;23:57:18;124.46;Pharmacy;Brasilia;Digital Wallet
+12633;100025;29/01/2026;04:56:36;379.43;Utilities;Sao Paulo;Debit Card
+14831;100065;29/01/2026;06:35:56;1513.89;Electronics;Fortaleza;Credit Card
+13449;100022;29/01/2026;06:37:36;290.29;Pharmacy;Brasilia;Digital Wallet
+13616;100126;29/01/2026;08:16:49;181.19;Fuel;Salvador;Bank Transfer
+13388;100004;29/01/2026;08:42:52;2034.47;Travel;Curitiba;Bank Transfer
+12983;100100;29/01/2026;10:21:57;163.21;Groceries;Fortaleza;Pix
+14403;100137;29/01/2026;12:34:57;462.51;Entertainment;Porto Alegre;Bank Transfer
+13836;100119;29/01/2026;13:01:45;190.76;Entertainment;Salvador;Credit Card
+14081;100058;29/01/2026;13:09:55;366.52;Online Shopping;Sao Paulo;Credit Card
+13464;100093;29/01/2026;14:00:06;1189.87;Electronics;Porto Alegre;Debit Card
+14576;100095;29/01/2026;15:00:51;211.72;Fuel;Rio de Janeiro;Credit Card
+13866;100098;29/01/2026;15:13:14;107.33;Groceries;Rio de Janeiro;Pix
+13109;100118;29/01/2026;15:38:10;4318.29;Travel;Belo Horizonte;Pix
+14354;100144;29/01/2026;16:42:42;188.87;Restaurant;Fortaleza;Digital Wallet
+12784;100196;29/01/2026;17:14:47;112.8;Transport;Salvador;Credit Card
+13362;100003;29/01/2026;19:27:43;1041.91;Online Shopping;Salvador;Pix
+12347;100144;29/01/2026;20:37:17;1988.65;Restaurant;Fortaleza;Bank Transfer
+12866;100038;29/01/2026;21:14:04;492.7;Online Shopping;Salvador;Credit Card
+12672;100057;29/01/2026;23:18:10;299.96;Fuel;Sao Paulo;Pix
+14703;100102;29/01/2026;23:43:35;159.79;Pharmacy;Salvador;Digital Wallet
+13572;100056;29/03/2026;00:00:23;18975.64;Electronics;Curitiba;Debit Card
+14045;100181;29/03/2026;00:55:55;26.81;Transport;Brasilia;Pix
+12758;100129;29/03/2026;01:09:07;487.83;Entertainment;Fortaleza;Digital Wallet
+12369;100109;29/03/2026;02:41:06;1080.91;Travel;Brasilia;Credit Card
+13139;100006;29/03/2026;03:05:32;114.45;Pharmacy;Fortaleza;Bank Transfer
+14359;100144;29/03/2026;03:56:09;1063.46;Online Shopping;Recife;Credit Card
+13894;100118;29/03/2026;04:16:16;1657.09;Electronics;Salvador;Debit Card
+14506;100064;29/03/2026;04:35:35;43.98;Transport;Brasilia;Pix
+12666;100217;29/03/2026;04:51:19;1365.35;Online Shopping;Campinas;Debit Card
+14724;100080;29/03/2026;05:50:37;197.36;Restaurant;Sao Paulo;Digital Wallet
+13069;100115;29/03/2026;07:06:58;2997.93;Travel;Salvador;Digital Wallet
+13630;100177;29/03/2026;08:10:11;132.29;Restaurant;Belo Horizonte;Pix
+14425;100163;29/03/2026;09:18:19;2054.83;Travel;Fortaleza;Debit Card
+13783;100144;29/03/2026;09:35:57;654.73;Online Shopping;Brasilia;Pix
+13933;100043;29/03/2026;11:40:40;2400.62;Electronics;Belo Horizonte;Credit Card
+14010;100095;29/03/2026;13:00:24;37.43;Groceries;Belo Horizonte;Credit Card
+13703;100061;29/03/2026;14:05:15;97.05;Transport;Sao Paulo;Pix
+12830;100052;29/03/2026;14:09:53;126.08;Fuel;Belo Horizonte;Pix
+14855;100084;29/03/2026;16:35:00;1305.68;Online Shopping;Salvador;Pix
+14856;100084;29/03/2026;16:37:00;1264.21;Travel;Salvador;Debit Card
+14857;100084;29/03/2026;16:39:00;3379.93;Travel;Salvador;Credit Card
+14858;100084;29/03/2026;16:41:00;2183.71;Online Shopping;Belo Horizonte;Pix
+14859;100084;29/03/2026;16:43:00;2508.09;Online Shopping;Belo Horizonte;Credit Card
+13022;100138;29/03/2026;16:51:58;326.84;Groceries;Curitiba;Digital Wallet
+12727;100102;29/03/2026;19:11:22;447.77;Online Shopping;Sao Paulo;Bank Transfer
+13605;100156;29/03/2026;19:20:52;102.21;Pharmacy;Campinas;Bank Transfer
+13212;100064;29/03/2026;19:50:20;367.65;Utilities;Belo Horizonte;Digital Wallet
+12878;100005;29/03/2026;19:52:09;189.62;Restaurant;Fortaleza;Digital Wallet
+14339;100196;29/03/2026;20:04:20;360.08;Groceries;Recife;Debit Card
+14447;100195;29/03/2026;20:33:32;394.75;Utilities;Brasilia;Digital Wallet
+12692;100055;29/03/2026;20:55:13;30.38;Transport;Recife;Digital Wallet
+13101;100014;29/03/2026;21:31:11;99.95;Restaurant;Rio de Janeiro;Debit Card
+13321;100111;29/03/2026;22:29:31;2328.84;Travel;Porto Alegre;Credit Card
+13468;100152;29/03/2026;22:45:09;82.97;Transport;Porto Alegre;Credit Card
+13820;100108;29/03/2026;22:53:06;63.71;Transport;Belo Horizonte;Bank Transfer
+13126;100161;29/03/2026;23:59:08;183.04;Groceries;Porto Alegre;Bank Transfer
+14067;100218;30/01/2026;02:00:20;154.67;Groceries;Brasilia;Debit Card
+13921;100057;30/01/2026;03:05:47;197.77;Utilities;Belo Horizonte;Debit Card
+13738;100072;30/01/2026;05:04:20;75.37;Pharmacy;Salvador;Credit Card
+13764;100215;30/01/2026;07:49:31;481.78;Online Shopping;Fortaleza;Digital Wallet
+12933;100069;30/01/2026;08:09:00;66.32;Transport;Brasilia;Credit Card
+12882;100109;30/01/2026;08:18:38;113.79;Transport;Porto Alegre;Bank Transfer
+13110;100157;30/01/2026;08:26:54;68.97;Transport;Campinas;Digital Wallet
+13584;100082;30/01/2026;09:45:51;217.5;Utilities;Belo Horizonte;Bank Transfer
+14161;100218;30/01/2026;09:54:05;2504.28;Travel;Brasilia;Debit Card
+13037;100117;30/01/2026;13:09:55;346.52;Fuel;Brasilia;Bank Transfer
+13432;100191;30/01/2026;13:16:07;2077.74;Travel;Fortaleza;Bank Transfer
+13883;100168;30/01/2026;14:30:59;411.19;Entertainment;Recife;Pix
+14145;100070;30/01/2026;16:59:57;186.58;Fuel;Campinas;Digital Wallet
+12428;100073;30/01/2026;17:11:19;33.14;Pharmacy;Curitiba;Pix
+13996;100169;30/01/2026;17:58:53;1236.33;Electronics;Belo Horizonte;Bank Transfer
+13522;100037;30/01/2026;19:24:09;154.02;Groceries;Curitiba;Credit Card
+14381;100189;30/01/2026;19:55:52;463.52;Online Shopping;Campinas;Bank Transfer
+12887;100089;30/01/2026;20:50:44;5683.04;Travel;Belo Horizonte;Credit Card
+13633;100012;30/01/2026;22:32:10;267.82;Groceries;Campinas;Pix
+12954;100056;30/01/2026;23:24:12;252.37;Utilities;Rio de Janeiro;Credit Card
+14756;100216;30/01/2026;23:50:50;2309.95;Electronics;Sao Paulo;Debit Card
+14012;100122;30/03/2026;01:24:28;450.81;Entertainment;Recife;Pix
+12724;100034;30/03/2026;02:41:05;184.11;Restaurant;Recife;Pix
+14824;100201;30/03/2026;03:31:16;269.37;Entertainment;Brasilia;Pix
+13650;100135;30/03/2026;04:22:29;575.12;Online Shopping;Salvador;Digital Wallet
+13210;100209;30/03/2026;06:48:03;469.54;Utilities;Salvador;Bank Transfer
+13833;100158;30/03/2026;07:23:36;378.15;Utilities;Fortaleza;Debit Card
+14774;100117;30/03/2026;07:51:40;354.4;Groceries;Brasilia;Pix
+14799;100050;30/03/2026;08:02:18;38.69;Transport;Sao Paulo;Pix
+12651;100119;30/03/2026;08:52:54;242.98;Restaurant;Brasilia;Pix
+13184;100061;30/03/2026;08:55:19;142.59;Fuel;Campinas;Credit Card
+14270;100069;30/03/2026;09:17:55;1788.91;Electronics;Fortaleza;Pix
+12975;100038;30/03/2026;09:19:28;216.99;Fuel;Sao Paulo;Pix
+13149;100145;30/03/2026;09:23:32;21080.45;Travel;Porto Alegre;Bank Transfer
+13773;100002;30/03/2026;09:34:29;187.92;Fuel;Curitiba;Debit Card
+12406;100036;30/03/2026;10:45:13;27.26;Transport;Curitiba;Bank Transfer
+13567;100108;30/03/2026;11:44:27;575.59;Online Shopping;Brasilia;Digital Wallet
+14281;100192;30/03/2026;14:34:10;202.56;Restaurant;Sao Paulo;Bank Transfer
+14147;100172;30/03/2026;15:12:43;210.15;Restaurant;Campinas;Debit Card
+13383;100208;30/03/2026;15:28:03;444.37;Utilities;Rio de Janeiro;Bank Transfer
+12459;100181;30/03/2026;15:57:01;47.7;Pharmacy;Brasilia;Debit Card
+13337;100049;30/03/2026;16:54:37;795.99;Online Shopping;Brasilia;Digital Wallet
+12792;100005;30/03/2026;17:19:08;93.1;Groceries;Curitiba;Debit Card
+12676;100031;30/03/2026;17:55:45;190.77;Restaurant;Curitiba;Digital Wallet
+14107;100205;30/03/2026;18:05:52;220.43;Entertainment;Belo Horizonte;Debit Card
+13323;100021;30/03/2026;19:04:58;168.75;Entertainment;Sao Paulo;Debit Card
+13807;100158;30/03/2026;19:46:25;694.11;Online Shopping;Campinas;Digital Wallet
+12897;100066;30/03/2026;20:24:36;383.48;Utilities;Campinas;Pix
+13542;100191;30/03/2026;20:30:20;476.39;Utilities;Campinas;Credit Card
+14100;100007;30/03/2026;20:51:00;429.33;Fuel;Curitiba;Debit Card
+12801;100011;30/03/2026;21:21:15;91.72;Utilities;Brasilia;Debit Card
+12540;100099;30/03/2026;21:23:59;2182.1;Electronics;Belo Horizonte;Bank Transfer
+13097;100167;30/03/2026;21:44:08;155.54;Entertainment;Porto Alegre;Bank Transfer
+12927;100074;30/03/2026;21:48:30;524.4;Online Shopping;Fortaleza;Credit Card
+12990;100069;31/01/2026;01:14:14;321.57;Entertainment;Campinas;Digital Wallet
+14527;100122;31/01/2026;01:34:48;193.68;Pharmacy;Recife;Credit Card
+12466;100013;31/01/2026;01:51:22;159.54;Entertainment;Brasilia;Pix
+13174;100032;31/01/2026;02:08:01;138.39;Fuel;Brasilia;Bank Transfer
+13755;100041;31/01/2026;02:49:44;172.0;Fuel;Porto Alegre;Credit Card
+13734;100074;31/01/2026;03:17:09;137.31;Fuel;Campinas;Credit Card
+14752;100168;31/01/2026;03:28:45;148.71;Pharmacy;Sao Paulo;Pix
+14622;100182;31/01/2026;03:48:53;588.76;Entertainment;Salvador;Credit Card
+14101;100145;31/01/2026;04:54:47;983.97;Travel;Fortaleza;Bank Transfer
+12458;100159;31/01/2026;05:05:27;281.12;Pharmacy;Curitiba;Pix
+13396;100203;31/01/2026;05:21:21;1911.13;Travel;Porto Alegre;Credit Card
+12707;100066;31/01/2026;05:32:00;47.0;Pharmacy;Campinas;Credit Card
+12611;100015;31/01/2026;05:36:20;74.43;Transport;Fortaleza;Pix
+14293;100149;31/01/2026;05:44:34;260.68;Pharmacy;Belo Horizonte;Credit Card
+13513;100149;31/01/2026;05:46:27;2355.14;Travel;Belo Horizonte;Bank Transfer
+12362;100005;31/01/2026;07:15:56;146.26;Pharmacy;Salvador;Pix
+12814;100058;31/01/2026;08:29:28;579.56;Utilities;Recife;Bank Transfer
+13114;100211;31/01/2026;08:35:48;32.0;Pharmacy;Brasilia;Bank Transfer
+14734;100173;31/01/2026;08:54:20;191.7;Restaurant;Recife;Pix
+13200;100094;31/01/2026;09:36:47;133.27;Pharmacy;Recife;Debit Card
+13670;100174;31/01/2026;09:57:56;407.07;Online Shopping;Salvador;Debit Card
+12609;100009;31/01/2026;12:04:06;3274.99;Travel;Campinas;Credit Card
+13384;100097;31/01/2026;12:05:01;149.49;Restaurant;Curitiba;Pix
+14156;100185;31/01/2026;13:14:39;248.27;Fuel;Porto Alegre;Bank Transfer
+12378;100081;31/01/2026;14:25:08;266.4;Fuel;Curitiba;Pix
+12667;100173;31/01/2026;15:07:11;55.79;Transport;Salvador;Credit Card
+13196;100074;31/01/2026;18:15:07;298.89;Transport;Porto Alegre;Digital Wallet
+14676;100069;31/01/2026;19:23:36;1373.39;Electronics;Curitiba;Pix
+14389;100143;31/01/2026;19:39:38;262.95;Entertainment;Fortaleza;Pix
+14213;100061;31/01/2026;20:09:45;152.89;Fuel;Salvador;Debit Card
+14377;100111;31/01/2026;20:13:43;172.52;Fuel;Porto Alegre;Credit Card
+13206;100180;31/01/2026;20:24:00;2620.82;Electronics;Rio de Janeiro;Digital Wallet
+14343;100115;31/01/2026;21:55:42;290.45;Restaurant;Salvador;Pix
+12982;100089;31/01/2026;22:17:51;540.84;Electronics;Salvador;Pix
+14417;100002;31/01/2026;22:33:35;328.6;Fuel;Salvador;Debit Card
+14845;100176;31/01/2026;23:14:00;2507.49;Electronics;Salvador;Debit Card
+14846;100176;31/01/2026;23:16:00;1721.13;Online Shopping;Salvador;Pix
+14847;100176;31/01/2026;23:18:00;1450.83;Electronics;Salvador;Digital Wallet
+14848;100176;31/01/2026;23:20:00;819.79;Online Shopping;Sao Paulo;Debit Card
+14276;100220;31/01/2026;23:21:31;926.22;Electronics;Salvador;Bank Transfer
+14849;100176;31/01/2026;23:22:00;2138.11;Online Shopping;Sao Paulo;Debit Card
+14320;100006;31/01/2026;23:44:32;169.73;Restaurant;Rio de Janeiro;Pix
+13108;100052;31/03/2026;00:03:17;744.39;Electronics;Belo Horizonte;Credit Card
+13765;100087;31/03/2026;00:38:26;112.8;Transport;Sao Paulo;Pix
+14117;100099;31/03/2026;00:39:56;320.95;Utilities;Rio de Janeiro;Bank Transfer
+13366;100027;31/03/2026;01:31:01;249.31;Utilities;Belo Horizonte;Credit Card
+13060;100076;31/03/2026;01:47:19;282.57;Fuel;Belo Horizonte;Credit Card
+14393;100140;31/03/2026;02:28:05;323.59;Utilities;Brasilia;Credit Card
+14088;100053;31/03/2026;03:13:56;186.69;Restaurant;Campinas;Pix
+13205;100006;31/03/2026;03:15:16;266.97;Entertainment;Sao Paulo;Credit Card
+13076;100164;31/03/2026;03:49:49;546.26;Online Shopping;Porto Alegre;Bank Transfer
+12986;100205;31/03/2026;04:57:33;288.85;Restaurant;Belo Horizonte;Pix
+12636;100139;31/03/2026;05:05:32;2023.18;Electronics;Recife;Debit Card
+14803;100111;31/03/2026;05:10:45;3522.84;Travel;Recife;Credit Card
+12934;100080;31/03/2026;07:21:05;1197.11;Online Shopping;Salvador;Bank Transfer
+12576;100211;31/03/2026;09:12:01;153.38;Restaurant;Sao Paulo;Digital Wallet
+13075;100166;31/03/2026;11:16:18;236.44;Entertainment;Belo Horizonte;Credit Card
+13121;100139;31/03/2026;12:48:47;190.84;Pharmacy;Brasilia;Digital Wallet
+13064;100115;31/03/2026;13:31:11;2188.88;Electronics;Belo Horizonte;Pix
+13209;100184;31/03/2026;14:32:04;2293.8;Travel;Rio de Janeiro;Debit Card
+14535;100219;31/03/2026;15:03:06;57.74;Transport;Recife;Pix
+14518;100110;31/03/2026;15:17:01;2151.27;Electronics;Sao Paulo;Debit Card
+12395;100080;31/03/2026;15:35:08;1728.23;Travel;Salvador;Bank Transfer
+13081;100010;31/03/2026;16:57:25;3187.48;Travel;Porto Alegre;Debit Card
+14462;100033;31/03/2026;17:22:46;160.3;Groceries;Campinas;Debit Card
+12734;100046;31/03/2026;17:58:37;59.39;Restaurant;Campinas;Pix
+14732;100145;31/03/2026;18:14:20;886.84;Electronics;Belo Horizonte;Digital Wallet
+14819;100039;31/03/2026;18:34:24;4158.49;Travel;Recife;Pix
+14526;100200;31/03/2026;18:56:44;225.61;Online Shopping;Salvador;Debit Card
+14127;100007;31/03/2026;19:01:45;749.71;Online Shopping;Brasilia;Pix
+12436;100009;31/03/2026;20:04:43;114.55;Restaurant;Porto Alegre;Pix
+13696;100096;31/03/2026;20:41:48;62.71;Transport;Sao Paulo;Debit Card
+13443;100042;31/03/2026;21:18:57;134.41;Entertainment;Belo Horizonte;Bank Transfer
+13802;100166;31/03/2026;22:35:53;287.6;Fuel;Curitiba;Pix
+13661;100191;31/03/2026;23:12:30;161.52;Restaurant;Belo Horizonte;Digital Wallet
+13760;100144;31/03/2026;23:32:15;198.18;Fuel;Brasilia;Pix
